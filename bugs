@@ -1,0 +1,502 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+                      "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+  <head>
+    <title>Bug Tracker Main Page</title>
+
+
+<link rel="Top" href="http://developer.symbian.org/bugs/">
+
+
+    
+
+    
+      <link href="skins/standard/global.css"
+            rel="stylesheet"
+            type="text/css">
+      <link href="skins/standard/index.css"
+            rel="stylesheet"
+            type="text/css">
+    <!--[if IE]>
+      
+      <link href="skins/standard/IE-fixes.css"
+            rel="stylesheet"
+            type="text/css">
+    <![endif]-->
+
+    
+        <link href="skins/standard/global.css"
+              rel="alternate stylesheet"
+              title="Classic"
+              type="text/css">
+        <link href="skins/standard/index.css"
+              rel="alternate stylesheet"
+              title="Classic"
+              type="text/css">
+      <!--[if IE]>
+        
+        <link href="skins/standard/IE-fixes.css"
+              rel="alternate stylesheet"
+              title="Classic"
+              type="text/css">
+      <![endif]-->
+
+    
+        
+            <link href="skins/contrib/Dusk/global.css"
+                  rel="stylesheet"
+                  title="Dusk"
+                  type="text/css">
+            <link href="skins/contrib/Dusk/index.css"
+                  rel="stylesheet"
+                  title="Dusk"
+                  type="text/css">
+        <!--[if IE]>
+          
+          <link href="skins/contrib/Dusk/IE-fixes.css"
+                rel="stylesheet"
+                title="Dusk"
+                type="text/css">
+        <![endif]-->
+
+    
+
+    
+        <link href="skins/custom/global.css" rel="stylesheet" type="text/css">
+        <link href="skins/custom/index.css" rel="stylesheet" type="text/css">
+    <!--[if IE]>
+      
+      <link href="skins/custom/IE-fixes.css"
+            rel="stylesheet"
+            type="text/css">
+    <![endif]-->
+
+
+
+    
+
+    
+    <link rel="search" type="application/opensearchdescription+xml"
+                       title="Bug Tracker" href="./search_plugin.cgi">
+    <link rel="shortcut icon" href="/favicon.ico" type="image/ico" >
+<link type="text/css" rel="stylesheet" href="/min/?f=css/common.css" media="screen" />
+<link type="text/css" rel="stylesheet" href="/min/?f=css/print.css" media="print" />
+<link type="text/css" rel="stylesheet" href="/min/?f=css/sIFR-screen.css" media="screen" />
+<link type="text/css" rel="stylesheet" href="/min/?f=css/ui.tabs.css" media="screen" />
+<link type="text/css" rel="stylesheet" href="/min/?f=css/bugzilla.css" media="screen" />
+
+<!--[if IE]>
+<link href="/min/?f=css/iefix.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+<script type="text/javascript" src="/min/?g=dev_j"></script>
+<script language="javascript" type="text/javascript" src="/js/bugzilla.js"></script>
+<script type="text/javascript" src="/js/activeUser.php" charset="utf-8"></script>
+
+<script type="text/javascript">
+// fix for Chrome and Safari 
+	$(document).ready(function(){  
+        $.preloadImages("/img/star_gold.png","/img/star_gold.p");
+
+});	
+</script>
+
+<style type="text/css">
+html.sIFR-hasFlash #subheader h2.blockhead_up {
+visibility: hidden;
+font-size:1.2em;
+line-height:1em;
+height:35px;
+width:805px;
+margin:2px 0 -5px 0 ;
+letter-spacing:-10px;
+}
+</style>
+
+<!--[if IE 6]>
+<script type="text/javascript">
+window.onresize = function (){
+            var width = 0;
+    if (document.documentElement.clientWidth) {
+                        width = document.documentElement.clientWidth;
+    } else {
+                        width = document.body.clientWidth;
+    }
+    width = (width > 1250 ) ? 1250 :((width < 1000) ? 1000 : 'auto');
+    $('container').css('width', width);
+}
+</script>
+<style type="text/css">
+#container {width: 1000px /* fallback value */;
+position:static;
+width:expression(((document.compatMode &&
+document.compatMode=='CSS1Compat') ?
+document.documentElement.clientWidth :
+document.body.clientWidth)
+> 1250 ? "1250px" : (((document.compatMode &&
+document.compatMode=='CSS1Compat') ?
+document.documentElement.clientWidth :
+document.body.clientWidth) < 1018 ? "1000px" : "99.7%")); }
+</style>
+<![endif]-->
+
+  </head>
+
+
+
+  <body id="variable_width" onload=""
+        class="developer-symbian-org-bugs">
+
+
+<div id="site_top">
+  <div id="global_links">
+    <div id="bookmark_share"><a class="addthis_button" href="http://www.addthis.com/bookmark.php">Bookmark &amp; share</a>
+      <script type="text/javascript" >
+var addthis_config =
+{
+   data_use_cookies: false,
+   data_use_flash: false
+};</script>
+      <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js?pub=xa-4aa66a0a5f0b282c">
+</script>
+    </div>
+    <div id="our_sites">
+      <ul id="sites1">
+        <li><a id="our_sites_list" href="#">Our sites</a></li>
+        <li>
+          <ul id="our-sites-box">
+            <li class="header">Symbian's other sites...</li>
+            <li><a href="http://www.symbian.org" target="_blank">Symbian.org</a></li>
+            <li><a href="http://ideas.symbian.org" target="_blank">Ideas</a></li>
+            <li><a href="http://horizon.symbian.org" target="_blank">Horizon</a></li>
+            <li><a href="http://symbiansigned.com" target="_blank">Signed</a></li>
+            <li><a href="http://blog.symbian.org" target="_blank">Blog</a></li>
+            <li><a href="http://blogcn.symbian.org" target="_blank">中文博客 (Chinese blog)</a></li>
+            <li><a href="http://www2.symbian.org/cn/" target="_blank">中文网站 (Chinese)</a></li>
+            <li><a href="http://blogjp.symbian.org" target="_blank">日本語ブログ (Japanese blog)</a></li>
+            <li><a href="http://www.symbian.org/jp/" target="_blank">日本語サイト (Japanese)</a></li>
+            <li class="footer">&nbsp;</li>
+          </ul>
+        </li>
+      </ul>
+    </div>
+    <div id="international">
+      <ul><li><a href="/">English</a></li>
+      <li><a href="/jp/" title="日本語">日本語</a></li>
+      <li class="last"><a id="china" href="/cn/" title="中文">中文</a></li>
+      </ul>
+    </div>
+
+<div id="login_bar">
+
+<script type="text/javascript">
+
+if (null==devnetActiveUser) {
+document.write('<div id="signed_out">');
+document.write('<form name="frmLogin" id="frmLogin" action="/main/user_profile/login.php" method="post">');
+document.write('<label for="username">Username</label>');
+document.write('<div class="fieldHolder"><input type="text" name="username" id="username" class="textInput" /></div>');
+document.write('<label for="password">Password</label>');
+document.write('<div class="fieldHolder"><input type="password" name="password" id="password" class="textInput" /></div>');
+document.write('<span class="login_button">[</span><input type="submit" name="submit" id="submit" value="Log in" /><span class="closing_bracket">]</span>');
+document.write('<a id="register" href="/main/user_profile/register.php">Register</a>');
+document.write('<a id="forgot_password" href="/main/user_profile/forgot_password.php">Forgot password?</a>');
+document.write('</form>');
+document.write('<div class="clear"></div>');
+document.write('</div>');
+document.write('</div>');
+
+}
+else
+{
+
+document.write('<div id="signed_in">');
+document.write('<div id="LoginWelcome">');
+document.write('<a id="logout" href="/action/logoutAction.php" class="header_logout"><span>[</span>Log out<span>]</span></a>');
+document.write('<span class="Welcome">Welcome</span> <a href="/main/user_profile/profile.php"><span class="LoginName">'+devnetActiveUser.firstname+'&nbsp;'+devnetActiveUser.lastname+'</span></a></div>');
+document.write('</div></div>');
+}
+</script>
+      </div>
+  <div class="clear"></div>
+ </div>
+</div> <!-- login bar -->
+
+<div id="container">
+    <div id="devnet_header"><a id="home" href="/"><span>Symbian developer community</span></a>
+<!--START of Search Form-->		
+			<div id="searchForm" class="right">				
+				<form name="frmSearch" action="/search/search_results.php" method="get">
+					<label for="txtSearch">Search</label>
+		<div class="fieldHolder">
+		<input type="text" name="txtSearch" id="txtSearch" class="textInput"
+		value="Search" 
+                onfocus="if(this.value == this.defaultValue) this.value = ''" />
+					
+    <input type="image" id="SearchButton" src="/img/skin1009/search_button.png" style="width:46px; height:47px" />
+					</div>
+					<br class="clear" />					
+				</form>
+			</div>
+    
+    </div>
+<!--END of header-->
+<script src="/js/navigation.php"></script>
+<div id="subheader">
+  <div class="left">
+    <div class="breadcrumbs"><a href="/">Home</a> > <a href="./">Bug Tracker</a> &gt; Main Page</div>
+    <h2 class="blockhead_up top">Bug Tracker &ndash; Main Page</h2>
+  </div>
+  <div class="clear"></div>
+</div>
+
+<div id="header"><div id="banner">
+  </div><p id="nmca_msg" style="margin-top: 20px">
+You don't need to be a member to contribute code to the Symbian Foundation, but if you're planning to submit code or a patch 
+with your bug report, please sign the appropriate <a href='/wiki/index.php/Membership_%26_Licensing_for_Contributors' style='color: #00f'>contribution agreement</a> to allow us to use it.
+</p>
+
+<table border="0" cellspacing="0" cellpadding="0" id="titles">
+<tr>
+    <td id="title">
+
+   </td>
+
+    <td id="information">
+      <p class="header_addl_info"></p>
+    </td>
+</tr>
+</table>
+<ul class="links">
+  <li><a href="./">Home</a></li>
+  <li><span class="separator">| </span><a href="enter_bug.cgi">New</a></li>
+  <li><span class="separator">| </span><a href="query.cgi">Search Bugs</a></li>
+
+  <li class="form">
+    <span class="separator">| </span>
+    <form action="buglist.cgi" method="get"
+        onsubmit="if (this.quicksearch.value == '')
+                  { alert('Please enter one or more search terms first.');
+                    return false; } return true;">
+    <input class="txt" type="text" id="quicksearch_top" name="quicksearch">
+    <input class="btn" type="submit" class="buttons" value="Find" id="find_top"></form></li>
+
+  <li><span class="separator">| </span><a href="report.cgi">Reports</a></li>
+
+  <!--li-->
+    
+      <!--span class="separator">| </span-->
+      
+        <!--a href="request.cgi?requester=&amp;requestee=
+                 &amp;do_union=1&amp;group=type&amp;action=queue">My Requests</a-->
+      
+        <!--a href="request.cgi">Requests</a-->
+      
+    <!--/li-->
+
+  
+    <!--li><span class="separator">| </span><a href="votes.cgi?action=show_user">My&nbsp;Votes</a></li-->
+  
+
+</ul>
+
+    
+      <!--li-->
+        <!--span class="separator">| </span>
+        <a href="" target="_blank">Help</a-->
+      <!--/li-->
+
+</div>
+
+<div id="bugzilla-body">
+
+
+<script type="text/javascript">
+<!--
+function addSidebar() {
+  if ((typeof window.sidebar == "object") && (typeof window.sidebar.addPanel == "function"))
+  {
+    var sidebarname=window.location.host;
+    if (!/bug/i.test(sidebarname))
+      sidebarname="Bug Tracker "+sidebarname;
+    window.sidebar.addPanel (sidebarname, "http://developer.symbian.org/bugs/sidebar.cgi", "");
+  }
+  else
+  {
+    var rv = window.confirm ("Your browser does not support the sidebar extension.  " + "Would you like to upgrade now?");
+    if (rv)
+      document.location.href = "http://www.mozilla.org/";
+  }
+}
+//-->
+</script>
+
+
+<div id="page-index">
+  <div class="intro"></div>
+  <p class="intro_text">Welcome to Bug Tracker; the place for registering bugs and minor enhancements for the Symbian Foundation Platform (code packages).</p>
+  <p class="intro_text"><strong>Note*</strong> To raise bugs against the Symbian Foundation website (content, functionality or access) please go to <a href="/webbugs">webbugs</a>.</p>
+  <p>Bug tracker is Symbian Foundation's implementation of Bugzilla (<a href="http://www.bugzilla.org">www.bugzilla.org</a>).</p> 
+ 
+ <p>You may want to read the <a href="docs/en/html/using.html"> User's Guide</a> for guidance on Bugzilla in general. To see what's new in the release of Bugzilla underlying Bug Tracker, see the <a href="/bugs/page.cgi?id=release-notes.html">release notes</a>.
+ To find out more about Bug Tracker and how to use it, see our <a href="/wiki/index.php/Defect_Handling_Guidelines">Defect Handling Guidelines</a>.</p>
+
+  <p>Most common actions:</p>
+  <ul id="common_actions">
+    <li id="query"><img height="9" width="5" alt="" src="/img/btn_cta.gif"/>&nbsp;<a href="query.cgi">Search existing bug reports</a></li>
+    <li id="enter-bug"><img height="9" width="5" alt="" src="/img/btn_cta.gif"/>&nbsp;<a href="enter_bug.cgi">Enter a new bug report</a></li>
+    <li id="report"><img height="9" width="5" alt="" src="/img/btn_cta.gif"/>&nbsp;<a href="report.cgi">Summary reports and charts</a></li>
+    
+
+    <!--li id="userprefs"><a href="userprefs.cgi">Change password or user preferences</a></li-->
+  
+    <!--li id="logout"><a href="relogin.cgi">Log out </a></li-->
+  
+
+  </ul>
+    
+  <ul>
+  
+    <!--li id="account"><a href="createaccount.cgi">Open a new  account</a></li-->
+  
+
+    <li id="sidebar"><a href="javascript:addSidebar()">Add to Sidebar</a> (requires a Mozilla browser like Mozilla Firefox)</li>
+    <li id="quick_search_plugin">
+      <a href="javascript:window.external.AddSearchProvider('http://developer.symbian.org/bugs/search_plugin.cgi')">Install
+      the Quick Search plugin</a> (requires Firefox 2 or Internet Explorer 7)
+    </li>
+
+
+    
+
+  </ul>
+
+  <!--Add Login code here-->
+
+  <div class="outro clr"></div>
+</div>
+</div>
+
+
+<div id="footer">
+  <div class="intro"></div>
+
+
+
+
+
+
+
+
+<ul id="useful-links">
+  <!--li id="links-actions">
+    <div class="label">Actions: </div-->
+      
+  <!--/li-->
+
+  
+    
+
+  
+
+
+  
+</ul>
+
+  <div class="outro"></div>
+ </div>
+</div><!--googleoff: all-->
+<!--START of footer-->
+<div id="dev_footer">
+  <div id="s_footer"></div>
+  <div id="footer_top_links">
+    <ul>
+      <li><a class="thickbox" href="/main/subscribe.php?keepThis=true&amp;TB_iframe=true&amp;height=75%&amp;width=735">Subscribe to our newsletter</a></li>
+       <li class="last"><a class="thickbox" title="Feedback" href="/main/feedback/index.php?keepThis=true&amp;TB_iframe=true&amp;height=95%&amp;width=785">Feedback</a></li>
+    </ul>
+  </div>
+  <div class="clear10"></div>
+  <div class="links_block first">
+    <h4 id="footer_planet">OUR SITES</h4>
+    <ul>
+      <li><a href="http://www.symbian.org">symbian.org</a></li>
+      <li><a href="http://developer.symbian.org">developer</a></li>
+      <li><a href="http://ideas.symbian.org/homepage">ideas</a></li>
+      <li><a href="http://www.symbiansigned.com">symbian signed</a></li>
+      <li><a href="http://blog.symbian.org/">symbian blog</a></li>
+    </ul>
+	
+  </div>
+  <div class="links">
+    <div class="links_block second">
+      <h4>DEVELOPER PROGRAMS</h4>
+      <h4><a href="/main/source/">Source</a></h4>
+      <ul>
+        <li><a href="/main/source/technology_domains/index.php">Technology domains</a></li>
+        <li><a href="/main/source/packages/index.php">Packages</a></li>
+        <li><a href="/main/source/browse/index.php">Browse code</a></li>
+        <li><a href="/bugs/">Bug tracker</a></li>
+        <li><a href="/wiki/index.php/Roadmap_for_the_Symbian_Platform">Roadmap</a></li>
+	<li><a href="/mailman/listinfo">Mailing lists</a></li>
+      </ul>
+      <h4><a href="/webbugs">Website bugs</a></h4>
+    </div>
+    <div class="links_block third">
+      <h4><a href="/main/documentation/">Documentation</a></h4>
+      <ul>
+        <li><a href="/main/documentation/carbide/index.php">Application reference</a></li>
+        <li><a href="/main/documentation/reference/s%5E3/doc_source/">Product reference Symbian^3</a></li>
+        <li><a href="/main/documentation/reference/s%5E2/doc_source/">Product reference Symbian^2</a></li>
+        <li><a href="/wiki">Wiki</a></li>
+        <li><a href="/main/documentation/books/index.php">Books</a></li>
+      </ul>
+      <h4><a href="/forum">Forums</a></h4>
+    </div>
+    <div class="links_block fourth">
+      <h4>CONTACT</h4>
+      <ul class="contact">
+        <li><a href="/main/contact/contact_us/">Got a question? Fire away here</a></li>
+	<li><a href="/main/contact/notify_us.php">Notify us of a copyright infringement</a></li>
+        <li><a href="/main/contact/index.php">Locate our offices</a></li>
+        <li><a target="_blank" href="http://www.symbian.org/about-us/jobs-symbian">Careers at Symbian</a></li>
+      </ul>
+      <h4>Follow us</h4>
+      <ul class="follow">
+        <li><a href="http://twitter.com/symbian">Twitter</a></li>
+        <li><a href="http://www.facebook.com/group.php?sid=6f83cd3416e2c6dae2071a472a5438ea&gid=54539976089">Facebook</a></li>
+        <li><a href="http://www.myspace.com/symbianf">MySpace</a></li>
+        <li><a href="http://www.youtube.com/symbianfoundation">YouTube</a></li>
+      </ul>
+    </div>
+    <div class="clear"></div>
+    <div id="copy">
+      <p>&copy; 2010 Symbian Foundation Limited. <a href="/main/legal/website_t_and_c.php">Terms &amp; Conditions</a> &amp; <a href="/main/legal/privacy.php">Privacy Policy</a></p>
+    </div>
+  </div>
+  <div class="right">
+    <script type="text/javascript">
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+<script type="text/javascript">
+    try {
+    var pageTracker = _gat._getTracker("UA-6718609-1");
+    pageTracker._trackPageview();
+    } catch(err) {}
+    </script>
+  </div>
+</div>
+<div id="subfooter"></div>
+<!--END of footer-->
+<script type="text/javascript">
+//<![CDATA[
+/* Replacement calls. Please see documentation for more information. */
+if(typeof sIFR == "function"){
+// This is the preferred "named argument" syntax
+sIFR.replaceElement(named({sSelector:"body h2.blockhead_up", sFlashSrc:"/img/blockhead-unplugged.swf", sColor:"#000000", sLinkColor:"#000000", sBgColor:"#FFFFFF", sHoverColor:"#CCCCCC", nPaddingTop:0, nPaddingBottom:0, sFlashVars:"", sWmode:"transparent"}));};
+//]]>
+</script>
+<!--googleon: all-->
+</body>
+</html>

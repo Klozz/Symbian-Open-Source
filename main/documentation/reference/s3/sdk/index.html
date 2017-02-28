@@ -1,0 +1,423 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en" xml:lang="en">
+ <head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta name="copyright" content="(C) Copyright 2005" />
+  <meta name="DC.rights.owner" content="(C) Copyright 2005" />
+  <meta name="DC.Type" content="concept" />
+  <meta name="DC.Title" content="About the Symbian Developer Library" />
+  <meta name="abstract" content="The following sections are about the Symbian Developer Library - what it contains, who should read it, and how it is organised." />
+  <meta name="description" content="The following sections are about the Symbian Developer Library - what it contains, who should read it, and how it is organised." />
+  <meta name="DC.Relation" scheme="URI" content="index.html" />
+  <meta name="DC.Format" content="XHTML" />
+  <meta name="DC.Language" content="en" />
+  <link rel="stylesheet" type="text/css" href="commonltr.css" />
+  <title>
+   About the Symbian Developer Library
+  </title>
+  <link type="text/css" rel="stylesheet" href="/min/?g=dev_css" media="screen" />
+<link type="text/css" rel="stylesheet" href="/min/?f=css/print.css" media="print"/>
+<link type="text/css" rel="stylesheet" href="/css/dropdown.css" media="screen"/>
+<link href="/includes/dso_opensearch.xml" rel="search" type="application/opensearchdescription+xml" title="developer.symbian.org" />
+
+<!--[if IE]>
+<link href="/min/?f=css/iefix.css" rel="stylesheet" type="text/css" media="screen" />
+<![endif]-->
+
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+<script type="text/javascript" src="/min/?g=dev_j"></script>
+<script type="text/javascript" src="/min/?g=dev_j_sdln_sdk"></script>
+<script type="text/javascript" src="/js/jquery.cookie.js"></script>
+
+<!--[if IE]>
+<script type="text/javascript">
+$(document).ready(function(){
+$('.body-text a')
+    .filter(function() {
+        return $.trim($(this).text()) === ''
+    })
+    .remove()
+
+});
+</script>
+<![endif]-->
+<script type="text/javascript">
+$(document).ready(function(){
+$('.body-text pre a')
+    .filter(function() {
+        return $.trim($(this).text()) === ''
+    })
+    .remove()
+
+});
+</script>
+ </head>
+ <body class="sdl_home_page sdk">
+  <a name="index">
+   <!-- -->
+  </a>
+  
+<!--googleoff: all-->
+<div id="topannounce" class="announce" style="display:none;">
+This website closing in December: <a href = "/wiki/Symbian_Foundation_web_sites_to_shut_down">Read more</a>
+	<a href = "#" onclick = "$.cookie('notificationBar', 'closed', { expires: 30} ); $('#topannounce').slideUp('fast')" class="rightCloseButton" title = "Click to close this notification">X</a>   
+</div>
+
+<script type="text/javascript">
+$(document).ready(function(){
+	if ($.cookie('notificationBar') != 'closed') {
+		$('#topannounce').fadeIn('slow');
+	}
+});	
+</script>
+<div class="sdl_header">        
+<div id="site_top">
+  <div id="global_links">
+<div id="bookmark_share">
+    <a class="addthis_button" href="https://www.addthis.com/bookmark.php">Bookmark &amp; share</a>
+    <script type="text/javascript" src="https://s7.addthis.com/js/250/addthis_widget.js?pub=xa-4aa66a0a5f0b282c">&#160;</script>
+    </div>
+   <div id="our_sites">
+      <ul id="sites1">
+        <li><a id="our_sites_list" href="#">Our sites</a></li>
+        <li>
+          <ul id="our-sites-box">
+            <li class="header">Symbian's other sites...</li>	
+			            <li><a href="http://www.symbian.org" target="_blank">Symbian.org</a></li>
+			            <li><a href="http://kernel.symbian.org" target="_blank">Kernel</a></li>
+			            <li><a href="http://ideas.symbian.org" target="_blank">Ideas</a></li>
+			            <li><a href="http://horizon.symbian.org" target="_blank">Horizon</a></li>
+			            <li><a href="http://symbiansigned.com" target="_blank">Signed</a></li>
+			            <li><a href="http://blog.symbian.org" target="_blank">Blog</a></li>
+			            <li><a href="http://blogcn.symbian.org" target="_blank">中文博客 (Chinese blog)</a></li>
+			            <li><a href="http://www2.symbian.org/cn/" target="_blank">中文网站 (Chinese)</a></li>
+			            <li><a href="http://blogjp.symbian.org" target="_blank">日本語ブログ (Japanese blog)</a></li>
+			            <li><a href="http://www.symbian.org/jp/" target="_blank">日本語サイト (Japanese)</a></li>
+						<li class="footer">&#160;</li>
+          </ul>
+        </li>
+      </ul>
+    </div>
+
+    
+
+	    <div id="international">
+      <ul>
+	  	  		 		  <li><a href="/" title="English">English</a></li>
+			  		 		  <li><a href="/jp/" title="日本語">日本語</a></li>
+			  		 		 <li class="last"><a href="/cn/" title="中文">中文</a></li>
+		 	        </ul>
+    </div>
+	    	  <div id="login_bar">
+            <script type="text/javascript" src="/includes/skins/2009-12/sdl_login.php">&#160;</script>
+    </div>    
+</div>	
+  <div class="clear">&#160;</div>
+
+</div> <!-- login bar -->
+
+<div id="devnet_header">
+		  <a id="home" href="/"><span>Symbian developer community</span></a>
+		<!--START of Search form-->		
+			<div id="searchForm" class="right">				
+				<form name="frmSearch" action="/search/search_results.php" method="get">
+					<label for="txtSearch">Search</label>
+		<div class="fieldHolder">
+		<input type="text" name="txtSearch" id="txtSearch" class="textInput"
+		value="Search" 
+                onfocus="if(this.value == this.defaultValue) this.value = ''" />
+					
+    <input type="image" id="SearchButton" src="/img/skin1009/search_button.png" style="width:46px; height:47px" />
+					</div>
+					<br class="clear" />					
+				</form>
+			</div><!--END of search form-->
+		
+		</div>
+		<!--END of header-->
+                <div id="portal_nav">
+		<ul id="dropmenu">
+					<li id="m_item1" ><a href="/index.php">Home</a>			
+			 			</li>
+						<li id="m_item2" ><a href="/main/source/index.php">Source</a>			
+			 <ul>				<li><a href="/main/source/technology_domains/index.php">Technology domains</a></li>
+								<li><a href="/main/source/packages/index.php">Packages</a></li>
+								<li><a href="/main/symbian_system_model/index.php">System Model</a></li>
+								<li><a href="/main/source/browse/index.php">Browse code</a></li>
+								<li><a href="/bugs">Bug tracker</a></li>
+								<li><a href="/wiki/index.php/Roadmap_for_the_Symbian_Platform">Roadmap</a></li>
+								<li class="last"><a href="/main/source/ctd/">Collaborative Testing</a></li>
+				</ul>			</li>
+						<li id="m_item3" ><a href="/main/tools_and_kits/index.php">Tools &amp; Kits</a>			
+			 			</li>
+						<li id="m_item4" ><a href="/main/documentation/index.php">Documentation</a>			
+			 <ul>				<li><a href="/main/documentation/reference/s3/sdk/">Application reference Symbian^3</a></li>
+								<li><a href="/main/documentation/reference/s3/pdk/">Product reference Symbian^3</a></li>
+								<li><a href="/main/documentation/reference/s^2/doc_source/">Product reference Symbian^2</a></li>
+								<li><a href="/wiki/">Wiki</a></li>
+								<li class="last"><a href="/main/documentation/books/index.php">Books</a></li>
+				</ul>			</li>
+						<li id="m_item5" ><a href="/forum">Forums</a>			
+			 			</li>
+						<li id="m_item6" ><a href="/main/services/index.php">Services</a>			
+			 <ul>				<li><a href="http://horizon.symbian.org/">Symbian Horizon</a></li>
+								<li><a href="/main/services/symbian_signed/index.php">Symbian Signed</a></li>
+								<li><a href="/main/services/professional_services/index.php">Professional Services</a></li>
+								<li><a href="/main/services/tech_support/index.php">Tech Support</a></li>
+								<li class="last"><a href="/main/services/training/index.php">Training</a></li>
+				</ul>			</li>
+						<li id="m_item7" class="last"><a href="/main/about/index.php">About</a>			
+			 <ul>				<li><a href="/main/about/going_open_source/index.php">Going Open Source</a></li>
+								<li><a href="/main/about/councils/index.php">Councils</a></li>
+								<li class="last"><a href="/main/about/get_involved/index.php">Get involved</a></li>
+				</ul>			</li>
+						
+    </ul></div></div>
+<!--googleon: all-->
+  <div id="sdl_container">
+   <table id="sdl_flexible" cellspacing="0">
+    <tr>
+     <td class="menu">
+      <div id="leftMenu">
+       <div id="expandcontractdiv">
+        <a id="collapseTree" href="javascript:tree.collapseAll()">
+         Collapse all
+        </a>
+        <a id="index" href="index.html">
+         Symbian^3 Application Developer Library
+        </a>
+       </div>
+ <div id="treeDiv1">
+        &#160;
+       </div>
+<script type="text/javascript">
+	var currentIconMode = 0;
+	YAHOO.util.Event.onDOMReady(buildTree, this,true);
+    </script>
+       <div id="treeDiv2">
+        &#160;
+       </div>
+      </div>
+     </td>
+     <td class="divider">
+      &nbsp;
+     </td>
+     <td class="content">
+      <div id="sdl_content">
+       <div class="breadcrumb">
+        <a href="index.html" title="Symbian^3 Product Developer Library">
+         Symbian^3 Application Developer Library
+        </a>
+        &gt;
+       </div>
+       <h1 class="topictitle1">
+        Symbian^3 Application Developer Library
+       </h1>
+       <div id="sdl_home">
+        <table id="flex_wrap">
+         <tr>
+          <td>
+           <div id="books_wrap">
+            <ul>
+             <li id="about">
+              <a href="GUID-00113601-193D-5214-9DFB-1C67456B7039.html">
+               <span>
+                About the Symbian Developer Library
+               </span>
+              </a>
+             </li>
+             <li id="idioms">
+              <a href="GUID-021E8B9C-4A1B-4C6D-B69E-4337A766C39A.html">
+               <span>
+                	Porting applications from S60 5th Edition to Symbian^3
+               </span>
+              </a>
+             </li>
+             <li id="performance">
+              <a href="GUID-AFAD9FAE-D09B-4778-8981-47A8073BC044.html">
+               <span>
+                Getting Started
+               </span>
+              </a>
+             </li>
+             <li id="security" class="last">
+              <a href="GUID-35D7EEFC-B2E4-5444-8875-2A24790E08C2.html">
+               <span>
+                Essential Idioms
+               </span>
+              </a>
+             </li>
+            </ul>
+            <div class="clear">
+            </div>
+            <ul>
+             <li id="guide">
+              <a href=GUID-AB3D07E6-83C9-4948-A13F-75A65498F444.html#GUID-AB3D07E6-83C9-4948-A13F-75A65498F444">
+               <span>
+                Security
+               </span>
+              </a>
+             </li>
+             <li id="reference">
+              <a href="GUID-32E29020-1956-461A-B79A-1492E06049E7.html">
+               <span>
+                Symbian Guide
+               </span>
+              </a>
+             </li>
+             <li id="tools">
+              <a href="GUID-C0498002-7CD9-4B2D-B1F9-FB0908C4C1A5.html">
+               <span>
+                Reference
+               </span>
+              </a>
+             </li>
+             <li id="example" class="last">
+              <a href="GUID-1D0E418B-09D4-5A6E-A1A8-A46F9F9CF371.html">
+               <span>
+                Example Code
+               </span>
+              </a>
+             </li>
+            </ul>
+           </div>
+          </td>
+          <td>
+           <div id="professor_wrap">
+            <div id="professor">
+            </div>
+           </div>
+          </td>
+         </tr>
+        </table>
+       </div>
+       <p class="copyright">Copyright &#169;2010 Nokia Corporation and/or its subsidiary(-ies).<br /> All rights
+reserved. Unless otherwise stated, these materials are provided under the terms of the <a href=" http://www.eclipse.org/legal/epl-v10.html"> Eclipse Public License
+v1.0</a>.</p> 
+      </div>
+     </td>
+    </tr>
+   </table>
+  </div>
+  <!--START of footer-->
+<!--googleoff: all-->
+<div style="clear:both">
+<div id="dev_footer" class="sdl">
+<div id="s_footer">&#160;</div>
+<div id="footer_top_links">
+  <ul>
+    <li><a class="thickbox" href="/main/subscribe.php?keepThis=true&amp;TB_iframe=true&amp;height=75%&amp;width=735">Subscribe to our newsletter</a></li>
+     <li class="last"><a class="thickbox" title="Feedback" href="/main/feedback/index.php?keepThis=true&amp;TB_iframe=true&amp;height=95%&amp;width=785">Feedback</a></li>
+  </ul>
+</div>
+<div class="clear10">&#160;</div>
+	<div class="links_block first">
+		<h4 id="footer_planet">OUR SITES</h4>
+		<ul>
+						<li><a target="_blank" href="http://www.symbian.org">symbian.org</a></li>
+						<li><a target="_blank" href="http://developer.symbian.org">developer</a></li>
+						<li><a target="_blank" href="http://ideas.symbian.org/homepage">ideas</a></li>
+						<li><a target="_blank" href="http://www.symbiansigned.com">symbian signed</a></li>
+						<li><a target="_blank" href="http://blog.symbian.org/">symbian blog</a></li>
+					</ul>
+		<!-- <h4 id="sitemap"><a href="/main/ /sitemap.php">Sitemap</a></h4> -->
+	</div>
+
+	<div class="links">
+	
+		<div class="links_block second">	
+			<h4>DEVELOPER PROGRAMS</h4>
+			<h4><a href="/main/source/technology_domains/index.php">Source</a></h4>
+			<ul>
+								<li><a href="/main/source/technology_domains/index.php">Technology domains</a></li>
+								<li><a href="/main/source/packages/index.php">Packages</a></li>
+								<li><a href="/main/source/browse/index.php">Browse code</a></li>
+								<li><a href="/bugs/">Bug tracker</a></li>
+								<li><a href="/wiki/index.php/Roadmap_for_the_Symbian_Platform">Roadmap</a></li>
+								<li><a href="/mailman/listinfo">Mailing lists</a></li>
+							</ul>
+						<h4><a href="/webbugs">Website bugs</a></h4>
+					</div>
+		
+		<div class="links_block third">
+			<h4><a href="/main/documentation/">Documentation</a></h4>
+			<ul>
+								<li><a href="/main/documentation/carbide/index.php">Application reference</a></li>
+								<li><a href="/main/documentation/reference/s%5E3/doc_source/">Product reference Symbian^3</a></li>
+								<li><a href="/main/documentation/reference/s%5E2/doc_source/">Product reference Symbian^2</a></li>
+								<li><a href="/wiki">Wiki</a></li>
+								<li><a href="/main/documentation/books/index.php">Books</a></li>
+							</ul>
+						<h4><a href="/forum">Forums</a></h4>
+						<h4><a href="/main/sitemap/sitemap.php">Sitemap</a></h4>
+					</div>
+		
+		<div class="links_block fourth">
+			<h4>CONTACT</h4>
+			<ul class="contact">
+				<li><a target="_blank" href="http://developer.symbian.org/main/contact/contact_us/">Got a question? Fire away here</a></li>				<li><a target="_blank" href="http://developer.symbian.org/main/contact/notify_us.php">Notify us of a copyright infringement </a></li>				<li><a target="_blank" href="http://developer.symbian.org/main/contact/index.php">Locate our offices </a></li>
+				<li><a target="_blank" href="http://www.symbian.org/about-us/jobs-symbian">Careers at Symbian</a></li>
+			</ul>
+			
+			<h4>Follow us</h4>
+			<ul class="follow">
+				<li><a target="_blank" href="http://twitter.com/symbian">Twitter</a></li>
+				<li><a target="_blank" href="http://www.facebook.com/group.php?sid=6f83cd3416e2c6dae2071a472a5438ea&amp;gid=54539976089">Facebook</a></li>
+				<li><a target="_blank" href="http://www.myspace.com/symbianf">MySpace</a></li>
+				<li><a target="_blank" href="http://www.youtube.com/symbianfoundation">YouTube</a></li>
+			</ul>
+		</div>
+	
+		<div class="clear"></div>
+		<div id="copy">
+			<p>
+				&copy; 2010 Symbian Foundation Limited. 
+				<a target="_blank" href="http://developer.symbian.org/main/legal/website_t_and_c.php">Terms &amp; conditions</a>
+				<span>&amp;</span>
+				<a target="_blank" href="http://developer.symbian.org/main/legal/privacy.php">Privacy policy</a>
+			</p>
+		</div>
+	</div>
+<div class="right">
+  
+  </div>
+
+</div>
+<div id="subfooter">&#160;</div>
+  <script type="text/javascript">
+			var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+			document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+			</script>
+    <script type="text/javascript">
+			try {
+			var pageTracker = _gat._getTracker("UA-6718609-1");
+			pageTracker._trackPageview();
+			} catch(err) {}
+	</script>
+<script type="text/javascript">
+//<![CDATA[
+/* Replacement calls. Please see documentation for more information. */
+if(typeof sIFR == "function"){
+// This is the preferred "named argument" syntax
+sIFR.replaceElement(named({sSelector:"body h2.blockhead_up,body #profiles_container h3.blockhead_up, body #profiles_container h2.blockhead_up, body #cdt_content h1",
+			  sFlashSrc:"/img/blockhead-unplugged.swf",
+			  sColor:"#000000", sLinkColor:"#000000",
+			  sBgColor:"#FFFFFF", sHoverColor:"#CCCCCC",
+			  nPaddingTop:0, nPaddingBottom:0, sFlashVars:"",
+			  sWmode:"transparent"}));};
+
+sIFR.replaceElement(named({sSelector:"body #profiles_container h2.blockhead_ds",
+			  sFlashSrc:"/img/blockhead-darkside.swf", sColor:"#000000",
+			  sLinkColor:"#000000", sBgColor:"#FFFFFF", sHoverColor:"#CCCCCC",
+			  nPaddingTop:0, nPaddingBottom:0,
+			  sFlashVars:"",
+			  sWmode:"transparent"}));
+
+//]]>
+</script>
+</div>
+<!--googleon: all-->
+<!--END of footer--> </body>
+</html>

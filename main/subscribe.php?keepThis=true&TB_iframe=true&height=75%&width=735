@@ -1,0 +1,108 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="imagetoolbar" content="no" />
+<title></title>
+<meta name="description" content="" />
+<meta name="keywords" content="" />
+<meta http-equiv="Content-Language" content="en" />
+<link type="text/css" rel="stylesheet" href="/min/?f=css/common.css" media="screen"/>
+<link type="text/css" rel="stylesheet" href="/min/?f=css/print.css" media="print"/>
+<link type="text/css" rel="stylesheet" href="/min/?f=css/sIFR-screen.css" media="screen"/>
+<link type="text/css" rel="stylesheet" href="/css/dropdown.css" media="screen"/>
+	<link href="/includes/dso_opensearch.xml" rel="search" type="application/opensearchdescription+xml" title="developer.symbian.org" />
+<!--[if IE]>
+<link href="/min/?f=css/iefix.css" rel="stylesheet" type="text/css" /> 
+<![endif]-->
+
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+<script type="text/javascript" src="/min/?g=dev_j"></script>
+<script type="text/javascript" src="/js/jquery.cookie.js"></script>
+
+<script  type="text/javascript" src="/js/jquery.thickbox.js"></script>
+<script type="text/javascript" src="/js/jquery.selectboxes.js"></script>
+<script type="text/javascript" src="/js/jquery.validate.js"></script>
+<script type="text/javascript" src="/js/jquery.form.js"></script>
+<script type="text/javascript">
+function validatesubscribe() 
+{
+	if( ! document.getElementById('userEmail').value )
+	{
+		alert('Please enter your E-mail');
+		return false;
+	}		
+	else
+		{
+		return true;
+	}
+}
+function loadinparent(url)
+{
+	self.parent.location.href = url;
+  self.parent.tb_remove();
+}
+</script>
+<script type="text/javascript">
+$.validator.setDefaults({
+	submitHandler: function() 
+	{
+	 $("form:first").submit(); 
+	}
+});
+
+$().ready(function() {
+	// validate the comment form when it is submitted
+	$("#commentForm").validate();
+	
+	// validate signup form on keyup and submit
+	$("#signupForm").validate({
+		rules: {			
+			email: {
+				required: true,
+				email: true
+			},			
+			agree: "required"
+		},
+		messages: {			
+			email: "Please enter a valid email address"			
+		}
+	});
+	
+});
+</script>
+</head>
+<body>
+
+ <div id="contentContainer">
+ <div class="left">
+	<!-- <h1><span></span></h1> -->
+		</div>
+  <!--START of page content-->  
+  <div style="width:650px;height:240px;margin:50px auto 0 auto; ">
+ <form class="cmxform" id="commentForm" name="commentForm" action="" method="post">
+  	<input type="hidden" name="email" value="1" />  	    
+    <div class="left BoxFrame" style="width:100%">
+      <div class="colBoxTop">
+        <h2 class="cssImg subscribe_newsletter_headline"><span class="img_subscribe_newsletter_headline"></span></h2>
+      </div>      
+<fieldset>	 
+    <p class="instruction" style="padding-left: 15px; padding-top: 15px;">Thank you for your interest in the Symbian Foundation newsletter. Please confirm the following email address will begin to receive all the news
+and goodies found in our monthly newsletter.</p>
+     <p style="padding-left: 15px; padding-top: 15px;">     
+          <label for="cemail">Your Email:</label>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="text" class="required email" name="email" id="cemail" size="30" maxlength="255" value="" />
+     </p>    
+    <p class="buttons">
+     <input type="submit" name="submitForm" id="submitForm" value="submit" alt="Submit" />	 	  
+    </p>  <br /><br /><br />
+           <br /><br /></fieldset>      
+    </div>
+   </form>
+</div>
+  <!--END of page content-->
+  <div></div>
+	</div>
+	<div class="clear"></div>
+	</body>
+</html>

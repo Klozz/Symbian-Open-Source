@@ -1,0 +1,1469 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+	<head>
+		<meta http-equiv="X-UA-Compatible" content="IE=7" />
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta name="description" content="Symbian wiki documentation: Symbian Developer Community:Copyrights" />
+		<meta name="keywords" content="Symbian, developer, documentation, articles, help, Symbian Developer Community:Copyrights" />
+		<meta http-equiv="Content-Style-Type" content="text/css" />
+		<meta name="generator" content="MediaWiki 1.14.0" />
+		<meta name="keywords" content="Symbian Developer Community:Copyrights" />
+		<link rel="shortcut icon" href="/favicon.ico" />
+		 
+		<link rel="copyright" href="/wiki/index.php/Symbian_Developer_Community:Copyrights" />
+		 
+		 
+		<title>Symbian Developer Community:Copyrights - Symbian Developer Community</title>
+		<link type="text/css" rel="stylesheet" href="/min/?f=css/common.css" media="screen"/>
+<link type="text/css" rel="stylesheet" href="/min/?f=css/print.css" media="print"/>
+<link type="text/css" rel="stylesheet" href="/min/?f=css/sIFR-screen.css" media="screen"/>
+<link type="text/css" rel="stylesheet" href="/css/dropdown.css" media="screen"/>
+	<link href="/includes/dso_opensearch.xml" rel="search" type="application/opensearchdescription+xml" title="developer.symbian.org" />
+<!--[if IE]>
+<link href="/min/?f=css/iefix.css" rel="stylesheet" type="text/css" /> 
+<![endif]-->
+
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+<script type="text/javascript" src="/min/?g=dev_j"></script>
+<script type="text/javascript" src="/js/jquery.cookie.js"></script>
+
+		<link rel="stylesheet" href="/wiki/skins/common/shared.css?195" type="text/css" media="screen" />
+		<link rel="stylesheet" href="/wiki/skins/common/commonPrint.css?195" type="text/css" media="print" />
+		<link rel="stylesheet" href="/wiki/skins/sfdn/main.css?195" type="text/css" media="screen" />
+		<link rel="stylesheet" href="/wiki/skins/sfdn/wiki-skin1209.css?195" type="text/css" media="screen" />
+		<!--[if IE 6]><link rel="stylesheet" href="/wiki/skins/sfdn/IE60Fixes.css?195" type="text/css" media="screen" /><![endif]-->
+		<!--[if IE]><link rel="stylesheet" href="/wiki/skins/sfdn/wiki-skin1209-ie.css?195" type="text/css" media="screen" /><![endif]-->
+		<link rel="stylesheet" href="/wiki/skins/sfdn/TreeAndMenu/treeandmenu.css?195" type="text/css" media="screen" />
+		
+		
+		
+		<!--[if lt IE 7]><script type="text/javascript" src="/wiki/skins/common/IEFixes.js?195"></script>
+		<meta http-equiv="imagetoolbar" content="no" /><![endif]-->
+
+<script type="text/javascript">/*<![CDATA[*/
+		var skin = "sfdn";
+		var stylepath = "/wiki/skins";
+		var wgArticlePath = "/wiki/$1";
+		var wgScriptPath = "/wiki";
+		var wgScript = "/wiki/index.php";
+		var wgVariantArticlePath = false;
+		var wgActionPaths = {};
+		var wgServer = "http://developer.symbian.org";
+		var wgCanonicalNamespace = "Project";
+		var wgCanonicalSpecialPageName = false;
+		var wgNamespaceNumber = 4;
+		var wgPageName = "Symbian_Developer_Community:Copyrights";
+		var wgTitle = "Copyrights";
+		var wgAction = "view";
+		var wgArticleId = "2147";
+		var wgIsArticle = true;
+		var wgUserName = null;
+		var wgUserGroups = null;
+		var wgUserLanguage = "en";
+		var wgContentLanguage = "en";
+		var wgBreakFrames = false;
+		var wgCurRevisionId = "73535";
+		var wgVersion = "1.14.0";
+		var wgEnableAPI = true;
+		var wgEnableWriteAPI = true;
+		var wgSeparatorTransformTable = ["", ""];
+		var wgDigitTransformTable = ["", ""];
+		var wgRestrictionEdit = ["sysop"];
+		var wgRestrictionMove = ["sysop"];
+		/*]]>*/</script>
+		<script type="text/javascript" src="/wiki/skins/common/wikibits.js?195"><!-- wikibits js --></script>
+		<!-- Head Scripts -->
+		<script type="text/javascript" src="/wiki/extensions/TreeAndMenu/dtree.js"><!-- TreeAndMenu --></script>
+		<script type="text/javascript" src="/wiki/skins/common/ajax.js?195"></script>
+		<script type="text/javascript"> 
+function toggleDisplay( id, hidetext, showtext )
+{
+  link = document.getElementById( id + "l" ).childNodes[0];
+ 
+  with( document.getElementById( id ).style )
+    {
+      if( display == "none" )
+	{
+	  display = "inline";
+	  link.nodeValue = hidetext;
+	}
+      else
+	{
+	  display = "none";
+	  link.nodeValue = showtext;
+	}
+    }
+}
+</script>		<script type="text/javascript" src="/wiki/index.php?title=-&amp;action=raw&amp;gen=js&amp;useskin=sfdn"><!-- site js --></script>
+		
+		<!-- Added for Bug: 6817 -->
+<script type="text/javascript"  src="/wiki/extensions/BugzillaReports/scripts/jquery-1.2.6.min.js" ></script>
+    <script type="text/javascript">
+    
+		$(document).ready(function(){		
+		if ( $('#body-navtree').children().size() > 0 )
+		{	
+			if ( $('#body-navtree p').empty() )
+			{
+			 // remove empty <p></p>			
+			 $("#body-navtree p").remove();	
+			
+			}					
+			
+		}else { // don't display the box
+		 $('#p-navtree').hide();
+		 }
+		 
+	 
+		highlightMenu("m_item4");
+		$('td.vbmenu_control').hover(function() {
+			$(this).css('background','#FFD62C');
+		},function() {
+			$(this).css('background','none');
+		});		
+ 	});
+    </script>  
+	<!-- Modified For Bug: 6830. Remove all page tabs for anonymous users -->
+      <style type="text/css">
+	  	#p-cactions { display: none !important; };
+      </style> 
+    </head>
+<body id="variable_width"  class="mediawiki ltr ns-4 ns-subject page-Symbian_Developer_Community_Copyrights skin-sfdn">
+
+<!--googleoff: all-->
+<div id="topannounce" class="announce" style="display:none;">
+This website closing in December: <a href = "/wiki/Symbian_Foundation_web_sites_to_shut_down">Read more</a>
+	<a href = "#" onclick = "$.cookie('notificationBar', 'closed', { expires: 30} ); $('#topannounce').slideUp('fast')" class="rightCloseButton" title = "Click to close this notification">X</a>   
+</div>
+
+<script type="text/javascript">
+$(document).ready(function(){
+	if ($.cookie('notificationBar') != 'closed') {
+		$('#topannounce').fadeIn('slow');
+	}
+});	
+</script>
+<div id="site_top">
+  <div id="global_links">
+    <div id="bookmark_share"><a class="addthis_button" href="https://www.addthis.com/bookmark.php">Bookmark &amp; share</a>
+      <script type="text/javascript" >
+var addthis_config =
+{
+   data_use_cookies: false,
+   data_use_flash: false
+};</script>
+      <script type="text/javascript" src="https://s7.addthis.com/js/250/addthis_widget.js?pub=xa-4aa66a0a5f0b282c">
+</script>
+<script type="text/javascript" src="http://m.developer.symbian.org/mobify/redirect.js"></script>
+<script type="text/javascript">try{_mobify("http://m.developer.symbian.org/");} catch(err) {};</script>
+    </div>
+    <div id="our_sites">
+      <ul id="sites1">
+        <li><a id="our_sites_list" href="#">Our sites</a></li>
+        <li>
+          <ul id="our-sites-box">
+            <li class="header">Symbian's other sites...</li>
+            <li><a href="http://www.symbian.org" target="_blank">Symbian.org</a></li>
+            <li><a href="http://ideas.symbian.org" target="_blank">Ideas</a></li>
+            <li><a href="http://horizon.symbian.org" target="_blank">Horizon</a></li>
+            <li><a href="http://symbiansigned.com" target="_blank">Signed</a></li>
+            <li><a href="http://blog.symbian.org" target="_blank">Blog</a></li>
+            <li><a href="http://blogcn.symbian.org" target="_blank">中文博客 (Chinese blog)</a></li>
+            <li><a href="http://www2.symbian.org/cn/" target="_blank">中文网站 (Chinese)</a></li>
+            <li><a href="http://blogjp.symbian.org" target="_blank">日本語ブログ (Japanese blog)</a></li>
+            <li><a href="http://www.symbian.org/jp/" target="_blank">日本語サイト (Japanese)</a></li>
+            <li class="footer">&#160;</li>
+          </ul>
+        </li>
+      </ul>
+    </div>
+   
+    
+    <div id="international">
+      <ul><li><a href="/">English</a></li>
+      <li><a href="/jp/" title="日本語">日本語</a></li>
+      <li class="last"><a id="china" href="/cn/" title="中文">中文</a></li>
+      </ul>
+ 
+    </div>
+ 
+   <div id="login_bar">
+      	
+      <div id="signed_out">
+        <form name="frmLogin" id="frmLogin" action="https://developer.symbian.org/main/user_profile/login.php" method="post">				      
+          <label for="username">Username</label>
+          <div class="fieldHolder">
+            <input type="text" name="username" id="username" class="textInput"  />
+          </div>
+          <label for="password">Password</label>
+          <div class="fieldHolder">
+            <input type="password" name="password" id="password" class="textInput" />
+          </div>
+          <span class="login_button">[</span><input type="submit" name="submit" id="submit" value="Log in" /><span class="closing_bracket">]</span>
+	 <a id="register" href="https://developer.symbian.org/main/user_profile/register.php">Register</a>	
+	 <a id="forgot_password" href="https://developer.symbian.org/main/user_profile/forgot_password.php">Forgot password?</a>
+        
+	</form>
+	  
+	  <div class="clear">&#160;</div>
+	</div>  
+      </div>
+      <!-- end login section -->
+     
+            
+            
+      </div>
+  <div class="clear">&#160;</div>
+  </div><!-- end login section -->
+
+<div id="container">
+    <div id="devnet_header"><a id="home" href="/"><span>Symbian developer community</span></a>
+<!--START of Search Form-->		
+			<div id="searchForm" class="right">				
+				<form name="frmSearch" action="/search/search_results.php" method="get">
+					<label for="txtSearch">Search</label>
+		<div class="fieldHolder">
+		<input type="text" name="txtSearch" id="txtSearch" class="textInput"
+		value="Search" 
+                onfocus="if(this.value == this.defaultValue) this.value = ''" />
+					
+    <input type="image" id="SearchButton" src="/img/skin1009/search_button.png" style="width:46px; height:47px" />
+					</div>
+					<br class="clear" />					
+				</form>
+			</div>
+    
+    </div>
+
+	<div id="portal_nav">
+		<ul id="dropmenu">
+					<li id="m_item1" ><a href="/index.php" >Home</a>			
+				
+								
+							</li>
+						<li id="m_item2" ><a href="/main/source/index.php" >Source</a>			
+				
+								
+				<ul>				
+								
+				<li><a href="/main/source/technology_domains/index.php">Technology domains</a></li>
+								
+								
+				<li><a href="/main/source/packages/index.php">Packages</a></li>
+								
+								
+				<li><a href="/main/symbian_system_model/index.php">System Model</a></li>
+								
+								
+				<li><a href="/main/source/browse/index.php">Browse code</a></li>
+								
+								
+				<li><a href="/bugs">Bug tracker</a></li>
+								
+								
+				<li><a href="/wiki/index.php/Roadmap_for_the_Symbian_Platform">Roadmap</a></li>
+								
+								
+				<li class="last"><a href="/main/source/ctd/">Collaborative Testing</a></li>
+				</ul>			</li>
+						<li id="m_item3" ><a href="/main/tools_and_kits/index.php" >Tools &amp; Kits</a>			
+				
+								
+							</li>
+						<li id="m_item4" ><a href="/main/documentation/index.php" >Documentation</a>			
+				
+								
+				<ul>				
+								
+				<li><a href="/main/documentation/reference/s3/sdk/">Application reference Symbian^3</a></li>
+								
+								
+				<li><a href="/main/documentation/reference/s3/pdk/">Product reference Symbian^3</a></li>
+								
+								
+				<li><a href="/main/documentation/reference/s^2/doc_source/">Product reference Symbian^2</a></li>
+								
+								
+				<li><a href="/wiki/">Wiki</a></li>
+								
+								
+				<li class="last"><a href="/main/documentation/books/index.php">Books</a></li>
+				</ul>			</li>
+						<li id="m_item5" ><a href="/forum" >Forums</a>			
+				
+								
+							</li>
+						<li id="m_item6" ><a href="/main/services/index.php" >Services</a>			
+				
+								
+				<ul>				
+								
+				<li><a href="http://horizon.symbian.org/">Symbian Horizon</a></li>
+								
+								
+				<li><a href="/main/services/symbian_signed/index.php">Symbian Signed</a></li>
+								
+								
+				<li><a href="/main/services/professional_services/index.php">Professional Services</a></li>
+								
+								
+				<li><a href="/main/services/tech_support/index.php">Tech Support</a></li>
+								
+								
+				<li class="last"><a href="/main/services/training/index.php">Training</a></li>
+				</ul>			</li>
+						<li id="m_item7" class="last"><a href="/main/about/index.php" >About</a>			
+				
+								
+				<ul>				
+								
+				<li><a href="/main/about/going_open_source/index.php">Going Open Source</a></li>
+								
+								
+				<li><a href="/main/about/councils/index.php">Councils</a></li>
+								
+								
+				<li class="last"><a href="/main/about/get_involved/index.php">Get involved</a></li>
+				</ul>			</li>
+						
+    </ul>
+
+	<div class="clear">&#160;</div>
+  </div>
+ <!--googleon: all-->
+	
+<!-- Modified for Bug: 6831. Remove breadcrumb and "Wiki" logo on wiki pages --> 
+<div id="globalWrapper">
+		<div id="column-content">
+			
+		<div id="left_column">	
+	<div class="portlet" id="p-logo">
+		<a style="background-image: url(/wiki/skins/common/images/wiki.png);" href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"></a>
+	</div>
+	<script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script>
+	<div id="p-navtree" class="portlet">	
+	<h5>Contents</h5>	
+		<div class="pBody" id="body-navtree" >	
+﻿<p>
+						 <div class='dtree' id='NavTreeDeveloper'>
+								<script type="text/javascript">/*<![CDATA[*/
+									// TreeAndMenu1.0.8, 2008-12-08
+									tree = new dTree('tamNavTreeDeveloper');
+									for (i in tree.icon) tree.icon[i] = '/wiki/extensions/TreeAndMenu/'+tree.icon[i];																		
+									tree.config.useLines = true;	
+									tree.config.closeSameLevel = true;	
+									tree.config.usealternateicons = false;	
+									tree.config.useGetCookies = 1;							
+									tree.add(0,-1,'Contents');
+									tamNavTreeDeveloper = tree;
+									tamNavTreeDeveloper.add(1, 0, '<a href=\"/wiki/Application_Developer_Wiki\" title=\"Application Developer Wiki\">Application Development</a>');
+tamNavTreeDeveloper.add(2, 1, 'Develop Applications');
+tamNavTreeDeveloper.add(3, 2, '<a href=\"/wiki/Apps:About_Reference_Libraries\" title=\"Apps:About Reference Libraries\">Reference Libraries</a>');
+tamNavTreeDeveloper.add(4, 2, 'Qt C++');
+tamNavTreeDeveloper.add(5, 4, '<a href=\"/wiki/Apps:Qt_Quick_Start\" title=\"Apps:Qt Quick Start\">Quick Start</a>');
+tamNavTreeDeveloper.add(6, 4, '<a href=\"/wiki/Apps:Qt_Reference_Documentation\" title=\"Apps:Qt Reference Documentation\">Qt Reference Documentation</a>');
+tamNavTreeDeveloper.add(7, 4, '<a href=\"/wiki/Apps:About_Qt_on_Symbian_(Trail)\" title=\"Apps:About Qt on Symbian (Trail)\">About Qt</a>');
+tamNavTreeDeveloper.add(8, 7, '<a href=\"/wiki/Apps:Qt_in_a_Nutshell\" title=\"Apps:Qt in a Nutshell\">Nutshell</a>');
+tamNavTreeDeveloper.add(9, 7, '<a href=\"/wiki/Apps:Qt_Technical_Overview\" title=\"Apps:Qt Technical Overview\">Technical Overview</a>');
+tamNavTreeDeveloper.add(10, 7, '<a href=\"/wiki/Apps:Qt_for_the_Symbian_Platform_(Product_Overview)\" title=\"Apps:Qt for the Symbian Platform (Product Overview)\">Product Overview</a>');
+tamNavTreeDeveloper.add(11, 7, '<a href=\"/wiki/Apps:Qt_APIs_for_Mobile_Use_Cases\" title=\"Apps:Qt APIs for Mobile Use Cases\">Mobility APIs</a>');
+tamNavTreeDeveloper.add(12, 7, '<a href=\"/wiki/Apps:Qt_Licensing\" title=\"Apps:Qt Licensing\">Licensing</a>');
+tamNavTreeDeveloper.add(13, 7, '<a href=\"/wiki/Apps:Qt_Q%26As\" title=\"Apps:Qt Q&amp;As\">Q&amp;As</a>');
+tamNavTreeDeveloper.add(14, 4, '<a href=\"/wiki/Apps:Getting_Started_with_Qt_(Trail)\" title=\"Apps:Getting Started with Qt (Trail)\">Get Started</a>');
+tamNavTreeDeveloper.add(15, 14, '<a href=\"/wiki/Apps:Qt_SDK_%26_Development_Environment\" title=\"Apps:Qt SDK &amp; Development Environment\">SDK &amp; Tools</a>');
+tamNavTreeDeveloper.add(16, 14, '<a href=\"/wiki/Apps:Nokia_Qt_SDK\" title=\"Apps:Nokia Qt SDK\">SDK Overview</a>');
+tamNavTreeDeveloper.add(17, 14, '<a href=\"/wiki/Apps:QWidget_Hello_World\" title=\"Apps:QWidget Hello World\">Hello World</a>');
+tamNavTreeDeveloper.add(18, 14, '<a href=\"/wiki/Apps:Nokia_Qt_SDK/Using_the_Command_Line\" title=\"Apps:Nokia Qt SDK/Using the Command Line\">Command Line Usage</a>');
+tamNavTreeDeveloper.add(19, 14, '<a href=\"/wiki/Apps:Nokia_Qt_SDK/Troubleshooting\" title=\"Apps:Nokia Qt SDK/Troubleshooting\">Troubleshooting</a>');
+tamNavTreeDeveloper.add(20, 14, '<a href=\"/wiki/Apps:Qt_for_Symbian_Development_on_Linux\" title=\"Apps:Qt for Symbian Development on Linux\">Development on Linux</a>');
+tamNavTreeDeveloper.add(21, 4, '<a href=\"/wiki/Apps:Developing_a_Qt_Application_(Trail)\" title=\"Apps:Developing a Qt Application (Trail)\">Qt Apps on Symbian</a>');
+tamNavTreeDeveloper.add(22, 21, '<a href=\"/wiki/Apps:Qt_Applications_for_Symbian_Devices\" title=\"Apps:Qt Applications for Symbian Devices\">Writing Qt Applications for Symbian Devices</a>');
+tamNavTreeDeveloper.add(23, 21, '<a href=\"/wiki/Apps:Qt_%26_Symbian_Platform_Security\" title=\"Apps:Qt &amp; Symbian Platform Security\">Platform Security</a>');
+tamNavTreeDeveloper.add(24, 21, '<a href=\"/wiki/Apps:Qt_%26_Application_Signing\" title=\"Apps:Qt &amp; Application Signing\">Application Signing</a>');
+tamNavTreeDeveloper.add(25, 21, '<a href=\"/wiki/Apps:Shared_Library_DLLs_on_Qt_for_Symbian\" title=\"Apps:Shared Library DLLs on Qt for Symbian\">Shared Library DLLs</a>');
+tamNavTreeDeveloper.add(26, 21, '<a href=\"/wiki/Apps:Deploying_a_Qt_Application\" title=\"Apps:Deploying a Qt Application\">Deploying Applications</a>');
+tamNavTreeDeveloper.add(27, 21, '<a href=\"/wiki/Apps:Nokia_Smart_Installer_for_Symbian\" title=\"Apps:Nokia Smart Installer for Symbian\">Smart Installer</a>');
+tamNavTreeDeveloper.add(28, 21, '<a href=\"/wiki/Apps:Qt_Menus\" title=\"Apps:Qt Menus\">Menus</a>');
+tamNavTreeDeveloper.add(29, 21, '<a href=\"/wiki/Apps:Qt_Softkeys\" title=\"Apps:Qt Softkeys\">Softkeys</a>');
+tamNavTreeDeveloper.add(30, 4, 'Mixing Qt and Symbian C++');
+tamNavTreeDeveloper.add(31, 30, '<a href=\"/wiki/Apps:Using_Qt_with_Standalone_SDKs\" title=\"Apps:Using Qt with Standalone SDKs\">Using Qt with Standalone SDKs</a>');
+tamNavTreeDeveloper.add(32, 30, '<a href=\"/wiki/Apps:Using_Qt_and_Symbian_C%2B%2B_Together\" title=\"Apps:Using Qt and Symbian C++ Together\">Using Qt with Symbian C++</a>');
+tamNavTreeDeveloper.add(33, 30, '<a href=\"/wiki/Apps:A_Comparison_of_Leaves_and_Exceptions\" title=\"Apps:A Comparison of Leaves and Exceptions\">Leaves vs. Exceptions</a>');
+tamNavTreeDeveloper.add(34, 4, 'Programming with Qt');
+tamNavTreeDeveloper.add(35, 34, 'UI Elements');
+tamNavTreeDeveloper.add(36, 35, '<a href=\"/wiki/Apps:About_Qt_List_User_Interfaces\" title=\"Apps:About Qt List User Interfaces\">Lists</a>');
+tamNavTreeDeveloper.add(37, 34, 'Signals &amp; Slots');
+tamNavTreeDeveloper.add(38, 37, '<a href=\"/wiki/Apps:Qt_for_Symbian_Blog/Qt_Connections\" title=\"Apps:Qt for Symbian Blog/Qt Connections\">Qt Connections (Blog)</a>');
+tamNavTreeDeveloper.add(39, 37, '<a href=\"/wiki/Apps:Qt_for_Symbian_Blog/Signals_and_Slots\" title=\"Apps:Qt for Symbian Blog/Signals and Slots\">Signals &amp; Slots (Blog)</a>');
+tamNavTreeDeveloper.add(40, 34, 'Drawing');
+tamNavTreeDeveloper.add(41, 40, '<a href=\"/wiki/Apps:Qt_for_Symbian_Blog/Drawing_using_Qt\" title=\"Apps:Qt for Symbian Blog/Drawing using Qt\">Drawing (Blog)</a>');
+tamNavTreeDeveloper.add(42, 40, '<a href=\"/wiki/Apps:Qt_for_Symbian_Blog/The_QPainterPath\" title=\"Apps:Qt for Symbian Blog/The QPainterPath\">QPainterPath (Blog)</a>');
+tamNavTreeDeveloper.add(43, 34, 'Graphics Views');
+tamNavTreeDeveloper.add(44, 43, '<a href=\"/wiki/Apps:Qt_for_Symbian_Blog/Animations_using_Qt\" title=\"Apps:Qt for Symbian Blog/Animations using Qt\">Animations (Blog)</a>');
+tamNavTreeDeveloper.add(45, 34, 'Event handling');
+tamNavTreeDeveloper.add(46, 45, '<a href=\"/wiki/Apps:How_to_Handle_the_Red_(End)_Key_in_a_Qt_Application\" title=\"Apps:How to Handle the Red (End) Key in a Qt Application\">Handle the Red (End) Key</a>');
+tamNavTreeDeveloper.add(47, 34, '<a href=\"/wiki/Apps:Creating_Energy_Efficient_Apps_Using_Qt\" title=\"Apps:Creating Energy Efficient Apps Using Qt\">Creating Energy Efficient Apps</a>');
+tamNavTreeDeveloper.add(48, 34, 'Tools');
+tamNavTreeDeveloper.add(49, 48, '<a href=\"/wiki/Apps:Qt_Creator_Quick_Start\" title=\"Apps:Qt Creator Quick Start\">Qt Creator IDE</a>');
+tamNavTreeDeveloper.add(50, 48, '<a href=\"/wiki/Apps:Qt_Carbide.c%2B%2B_IDE_Quick_Start\" title=\"Apps:Qt Carbide.c++ IDE Quick Start\">Carbide.c++ IDE</a>');
+tamNavTreeDeveloper.add(51, 4, 'Examples');
+tamNavTreeDeveloper.add(52, 51, '<a href=\"/wiki/Category:Qt_Code_Example\" title=\"Category:Qt Code Example\">All Examples</a>');
+tamNavTreeDeveloper.add(53, 51, 'Basic');
+tamNavTreeDeveloper.add(54, 53, '<a href=\"/wiki/File:HelloWorldQt.zip\" title=\"File:HelloWorldQt.zip\">Hello World QWidget (Carbide.c++)</a>');
+tamNavTreeDeveloper.add(55, 53, '<a href=\"/wiki/File:HelloWorldQtCreator.zip\" title=\"File:HelloWorldQtCreator.zip\">Hello World QWidget (Qt Creator)</a>');
+tamNavTreeDeveloper.add(56, 53, '<a href=\"/wiki/File:QtExample-Adder.zip\" title=\"File:QtExample-Adder.zip\">Basic number adder</a>');
+tamNavTreeDeveloper.add(57, 51, 'Drawing');
+tamNavTreeDeveloper.add(58, 57, '<a href=\"/wiki/File:QTExample-CircularText.zip\" title=\"File:QTExample-CircularText.zip\">Drawing text using QPainter</a>');
+tamNavTreeDeveloper.add(59, 57, '<a href=\"/wiki/File:QTExample-PainterPathGradient.zip\" title=\"File:QTExample-PainterPathGradient.zip\">Drawing using Gradients (QPainterPath)</a>');
+tamNavTreeDeveloper.add(60, 51, 'GraphicsView');
+tamNavTreeDeveloper.add(61, 60, '<a href=\"/wiki/File:QtExample-TransparentGraphicsView.zip\" title=\"File:QtExample-TransparentGraphicsView.zip\">File:QtExample-TransparentGraphicsView.zip</a>');
+tamNavTreeDeveloper.add(62, 51, 'Power Efficiency');
+tamNavTreeDeveloper.add(63, 62, '<a href=\"/wiki/File:Energy_Qt_accelerometer.zip\" title=\"File:Energy Qt accelerometer.zip\">File:Energy Qt accelerometer.zip</a>');
+tamNavTreeDeveloper.add(64, 62, '<a href=\"/wiki/File:Energy_Qt_animations.zip\" title=\"File:Energy Qt animations.zip\">File:Energy Qt animations.zip</a>');
+tamNavTreeDeveloper.add(65, 62, '<a href=\"/wiki/File:Energy_Qt_iteration.zip\" title=\"File:Energy Qt iteration.zip\">File:Energy Qt iteration.zip</a>');
+tamNavTreeDeveloper.add(66, 51, 'Qt DLLs');
+tamNavTreeDeveloper.add(67, 66, '<a href=\"/wiki/File:QtSymbianDllExample.zip\" title=\"File:QtSymbianDllExample.zip\">Creating and Loading a DLL</a>');
+tamNavTreeDeveloper.add(68, 51, 'Qt with Symbian C++');
+tamNavTreeDeveloper.add(69, 68, '<a href=\"/wiki/File:Qtbluetoothdiscoveryexample.zip\" title=\"File:Qtbluetoothdiscoveryexample.zip\">Bluetooth device discovery</a>');
+tamNavTreeDeveloper.add(70, 4, 'Other topics');
+tamNavTreeDeveloper.add(71, 70, '<a href=\"/wiki/Apps:A_Guide_to_Creating_a_Qt_Environment_using_binaries_on_Windows\" title=\"Apps:A Guide to Creating a Qt Environment using binaries on Windows\">Apps:A Guide to Creating a Qt Environment using binaries on Windows</a>');
+tamNavTreeDeveloper.add(72, 70, '<a href=\"/wiki/Apps:Direct_UI\" title=\"Apps:Direct UI\">Apps:Direct UI</a>');
+tamNavTreeDeveloper.add(73, 70, '<a href=\"/wiki/Apps:Orbit\" title=\"Apps:Orbit\">Apps:Orbit</a>');
+tamNavTreeDeveloper.add(74, 70, '<a href=\"/wiki/Apps:Qt_for_Symbian_Blog\" title=\"Apps:Qt for Symbian Blog\">Apps:Qt for Symbian Blog</a>');
+tamNavTreeDeveloper.add(75, 70, '<a href=\"/wiki/Symbian%5E3_application_UI_design\" title=\"Symbian^3 application UI design\">Symbian^3 application UI design</a>');
+tamNavTreeDeveloper.add(76, 70, '<a href=\"/wiki/Apps:Qt_for_Symbian_Blog/Getting_Started_with_Qt\" title=\"Apps:Qt for Symbian Blog/Getting Started with Qt\">Qt for Symbian Blog/Getting Started with Qt</a>');
+tamNavTreeDeveloper.add(77, 70, '<a href=\"/wiki/Apps:Rss/Qt\" title=\"Apps:Rss/Qt\">Qt RSS Feed</a>');
+tamNavTreeDeveloper.add(78, 4, '<a href=\"/wiki/Category:Qt\" title=\"Category:Qt\">All Qt Content</a>');
+tamNavTreeDeveloper.add(79, 2, 'Mobile Web Apps');
+tamNavTreeDeveloper.add(80, 79, '<a href=\"/wiki/Apps:Mobile_Web_App_Quick_Start\" title=\"Apps:Mobile Web App Quick Start\">Quick Start</a>');
+tamNavTreeDeveloper.add(81, 79, '<a href=\"/wiki/Apps:Web_Developers_Library\" title=\"Apps:Web Developers Library\">Web Developer\'s Library</a>');
+tamNavTreeDeveloper.add(82, 79, '<a href=\"/wiki/Apps:About_Mobile_Web_Apps_(Trail)\" title=\"Apps:About Mobile Web Apps (Trail)\">About Mobile Web Apps</a>');
+tamNavTreeDeveloper.add(83, 82, '<a href=\"/wiki/Apps:Mobile_Web_Apps_in_a_Nutshell\" title=\"Apps:Mobile Web Apps in a Nutshell\">Nutshell</a>');
+tamNavTreeDeveloper.add(84, 82, '<a href=\"/wiki/Apps:Web_Technologies_Technical_Overview\" title=\"Apps:Web Technologies Technical Overview\">Technical Overview</a>');
+tamNavTreeDeveloper.add(85, 82, '<a href=\"/wiki/Apps:Web_Runtime_Q%26As\" title=\"Apps:Web Runtime Q&amp;As\">Q&amp;As</a>');
+tamNavTreeDeveloper.add(86, 79, '<a href=\"/wiki/Apps:Getting_Started_with_Mobile_Web_Apps_(Trail)\" title=\"Apps:Getting Started with Mobile Web Apps (Trail)\">Get Started</a>');
+tamNavTreeDeveloper.add(87, 86, '<a href=\"/wiki/Apps:Symbian_Web_Development_Tools_(WRT_Tools)/Download_%26_Installation\" title=\"Apps:Symbian Web Development Tools (WRT Tools)/Download &amp; Installation\">Get Tools</a>');
+tamNavTreeDeveloper.add(88, 86, '<a href=\"/wiki/Apps:Symbian_Web_Development_Tools_(WRT_Tools)/Hello_World_Tutorial\" title=\"Apps:Symbian Web Development Tools (WRT Tools)/Hello World Tutorial\">Hello World</a>');
+tamNavTreeDeveloper.add(89, 86, '<a href=\"/wiki/Apps:Symbian_Web_Development_Tools_(WRT_Tools)/Debugging_Web_Apps\" title=\"Apps:Symbian Web Development Tools (WRT Tools)/Debugging Web Apps\">Debugging</a>');
+tamNavTreeDeveloper.add(90, 86, '<a href=\"/wiki/Apps:Symbian_Web_Development_Tools_(WRT_Tools)/Deploy_Web_Apps\" title=\"Apps:Symbian Web Development Tools (WRT Tools)/Deploy Web Apps\">Deployment</a>');
+tamNavTreeDeveloper.add(91, 79, 'Programming Web Apps');
+tamNavTreeDeveloper.add(92, 91, 'Advanced WRT Tutorial');
+tamNavTreeDeveloper.add(93, 92, '<a href=\"/wiki/WRT_Tutorial:_Building_a_Digg_Search_Client\" title=\"WRT Tutorial: Building a Digg Search Client\" class=\"mw-redirect\">Introduction to Digg Search Client</a>');
+tamNavTreeDeveloper.add(94, 92, '<a href=\"/wiki/WRT_Tutorial_%E2%80%93_Part_1:_Creating_a_%E2%80%9CHello_World%E2%80%9D_widget_with_Nokia_WRT_%26_Aptana_Studio\" title=\"WRT Tutorial – Part 1: Creating a “Hello World” widget with Nokia WRT &amp; Aptana Studio\">Hello World</a>');
+tamNavTreeDeveloper.add(95, 92, '<a href=\"/wiki/WRT_Tutorial_-_Part_2:_Structuring_the_Digg_Client_UI\" title=\"WRT Tutorial - Part 2: Structuring the Digg Client UI\">Structuring the Digg Client UI</a>');
+tamNavTreeDeveloper.add(96, 92, '<a href=\"/wiki/WRT_Tutorial_-_Part_3:_Requesting_data_from_Digg_and_displaying_the_results\" title=\"WRT Tutorial - Part 3: Requesting data from Digg and displaying the results\">Requesting data from Digg and displaying the results</a> ');
+tamNavTreeDeveloper.add(97, 92, '<a href=\"/wiki/WRT_Tutorial_-_Part_4:_Refining_the_UI\" title=\"WRT Tutorial - Part 4: Refining the UI\">Refining the UI</a>');
+tamNavTreeDeveloper.add(98, 92, '<a href=\"/wiki/WRT_Tutorial_-_Part_5:_Installing_the_widget_on_your_phone\" title=\"WRT Tutorial - Part 5: Installing the widget on your phone\">Installing the widget on your phone</a> ');
+tamNavTreeDeveloper.add(99, 91, '<a href=\"/wiki/Apps:Anatomy_of_a_widget\" title=\"Apps:Anatomy of a widget\">Anatomy of a WRT Web App</a>');
+tamNavTreeDeveloper.add(100, 91, '<a href=\"/wiki/Apps:Using_multiple_stylesheets_to_support_a_variety_of_devices_(Web_Runtime)\" title=\"Apps:Using multiple stylesheets to support a variety of devices (Web Runtime)\">How to use Stylesheets to Support Multiple Devices</a>');
+tamNavTreeDeveloper.add(101, 91, '<a href=\"/wiki/Apps:Home_screen_widgets_(Web_Runtime)\" title=\"Apps:Home screen widgets (Web Runtime)\">Home Screen Widgets</a>');
+tamNavTreeDeveloper.add(102, 91, '<a href=\"/wiki/Apps:Create_a_Web_Runtime_Theme_for_WRTKit\" title=\"Apps:Create a Web Runtime Theme for WRTKit\">How to Create a Theme</a>');
+tamNavTreeDeveloper.add(103, 91, '<a href=\"/wiki/Apps:How_to_customise_Web_Runtime_WRTKit_View_class\" title=\"Apps:How to customise Web Runtime WRTKit View class\">How to Customise WRT View class</a>');
+tamNavTreeDeveloper.add(104, 91, '<a href=\"/wiki/Apps:How_to_load_a_data_file_from_the_widget_archive_in_Web_Runtime\" title=\"Apps:How to load a data file from the widget archive in Web Runtime\">How to Load a Data File From the App Archive</a>');
+tamNavTreeDeveloper.add(105, 91, '<a href=\"/wiki/Apps:Protecting_Web_Runtime_widget_source_code\" title=\"Apps:Protecting Web Runtime widget source code\">How to Protect Web App Source Code</a>');
+tamNavTreeDeveloper.add(106, 91, '<a href=\"/wiki/Apps:How_to_cancel_outstanding_AJAX_call_in_Web_Runtime\" title=\"Apps:How to cancel outstanding AJAX call in Web Runtime\">How to Cancel Outstanding AJAX Calls</a>');
+tamNavTreeDeveloper.add(107, 91, '<a href=\"/wiki/Apps:Programmatically_controlling_font_size_in_a_WRT_application\" title=\"Apps:Programmatically controlling font size in a WRT application\">How to Control Font Size</a>');
+tamNavTreeDeveloper.add(108, 91, '<a href=\"/wiki/Apps:Using_Yahoo_User_Interface_(YUI)_Library_in_Symbian_Web_Runtime_(WRT)_Widgets\" title=\"Apps:Using Yahoo User Interface (YUI) Library in Symbian Web Runtime (WRT) Widgets\">How to use the Yahoo User Interface (YUI) Library</a>');
+tamNavTreeDeveloper.add(109, 91, '<a href=\"/wiki/Apps:Making_a_call_with_Web_Runtime_Widgets\" title=\"Apps:Making a call with Web Runtime Widgets\">How to Make a Phone Call</a>');
+tamNavTreeDeveloper.add(110, 91, '<a href=\"/wiki/Apps:Create_Auto-update_Feature_for_a_WRT_Widget\" title=\"Apps:Create Auto-update Feature for a WRT Widget\">How to Create a Web App that Auto-Updates Itself</a>');
+tamNavTreeDeveloper.add(111, 91, '<a href=\"/wiki/Apps:Create_a_WRTKit_control\" title=\"Apps:Create a WRTKit control\">How to create a WRTKit Control</a>');
+tamNavTreeDeveloper.add(112, 91, '<a href=\"/wiki/Apps:Avoid_Problems_with_Browser_Cache_in_WRT_Widgets\" title=\"Apps:Avoid Problems with Browser Cache in WRT Widgets\">Preventing Browser Cache Issues</a>');
+tamNavTreeDeveloper.add(113, 91, 'Debugging &amp; Troubleshooting');
+tamNavTreeDeveloper.add(114, 113, '<a href=\"/wiki/Apps:Tips_for_Debugging_Web_Apps\" title=\"Apps:Tips for Debugging Web Apps\">Debugging tips</a>');
+tamNavTreeDeveloper.add(115, 113, '<a href=\"/wiki/Apps:How_to_avoid_problems_with_Web_Runtime_Widget_icons\" title=\"Apps:How to avoid problems with Web Runtime Widget icons\">Apps:How to avoid problems with Web Runtime Widget icons</a>');
+tamNavTreeDeveloper.add(116, 113, '<a href=\"/wiki/Apps:Troubleshooting_Web_Runtime_Widgets\" title=\"Apps:Troubleshooting Web Runtime Widgets\">Troubleshooting</a>');
+tamNavTreeDeveloper.add(117, 91, 'Tools');
+tamNavTreeDeveloper.add(118, 117, '<a href=\"/wiki/Apps:Mobile_Web_App_Development_Tools\" title=\"Apps:Mobile Web App Development Tools\">Mobile Web App Development Tools</a>');
+tamNavTreeDeveloper.add(119, 117, '<a href=\"/wiki/Apps:Symbian_Web_Development_Tools_(WRT_Tools)\" title=\"Apps:Symbian Web Development Tools (WRT Tools)\">Symbian Web Development Tools</a>');
+tamNavTreeDeveloper.add(120, 117, '<a href=\"/wiki/Apps:Nokia_Web_SDK\" title=\"Apps:Nokia Web SDK\">Nokia Web SDK</a>');
+tamNavTreeDeveloper.add(121, 117, '<a href=\"/wiki/Apps:Aptana_Studio\" title=\"Apps:Aptana Studio\">Aptana Studio</a>');
+tamNavTreeDeveloper.add(122, 121, '<a href=\"/wiki/Apps:Aptana_Studio/A_First_Look_at_Nokia_WRT_Plug-in_for_Aptana_Studio_2.0\" title=\"Apps:Aptana Studio/A First Look at Nokia WRT Plug-in for Aptana Studio 2.0\">A First Look at Nokia WRT Plug-in</a>');
+tamNavTreeDeveloper.add(123, 121, '<a href=\"/wiki/Apps:Aptana_Studio/Nokia_Wrt_Development_tools_Quick_Start\" title=\"Apps:Aptana Studio/Nokia Wrt Development tools Quick Start\">Nokia Wrt Development tools Quick Start</a>');
+tamNavTreeDeveloper.add(124, 121, '<a href=\"/wiki/Apps:Aptana_Studio/Deploying_WRT_Widgets\" title=\"Apps:Aptana Studio/Deploying WRT Widgets\">Deploying WRT Widgets</a>');
+tamNavTreeDeveloper.add(125, 79, 'Examples');
+tamNavTreeDeveloper.add(126, 125, '<a href=\"/wiki/File:AJAXWithCancelWidget.wgz\" title=\"File:AJAXWithCancelWidget.wgz\">Cancel an Ajax Call</a>');
+tamNavTreeDeveloper.add(127, 125, '<a href=\"/wiki/File:Beep.wgz\" title=\"File:Beep.wgz\">Play beep sound</a>');
+tamNavTreeDeveloper.add(128, 125, '<a href=\"/wiki/File:LoadFileWidget.wgz\" title=\"File:LoadFileWidget.wgz\">Load Data From a File</a>');
+tamNavTreeDeveloper.add(129, 125, '<a href=\"/wiki/File:MyWidget.wgz\" title=\"File:MyWidget.wgz\">Homescreen</a>');
+tamNavTreeDeveloper.add(130, 125, '<a href=\"/wiki/File:SymbianFoundationWidgetTheme.zip\" title=\"File:SymbianFoundationWidgetTheme.zip\">Symbian web app theme</a>');
+tamNavTreeDeveloper.add(131, 125, '<a href=\"/wiki/Apps:Example_WRT_widget_using_Yahoo_User_Interface_(YUI)_library\" title=\"Apps:Example WRT widget using Yahoo User Interface (YUI) library\">Using the Yahoo User Interface (YUI) library</a> (<a href=\"/wiki/File:TabViewExample.wgz\" title=\"File:TabViewExample.wgz\">file</a>)');
+tamNavTreeDeveloper.add(132, 125, '<a href=\"/wiki/Using_Google_Maps_with_WRTKit\" title=\"Using Google Maps with WRTKit\">Using Google Maps with WRTKit</a>');
+tamNavTreeDeveloper.add(133, 125, '<a href=\"/wiki/File:WidgetLoggingEx.wgz\" title=\"File:WidgetLoggingEx.wgz\">Simple logging</a>');
+tamNavTreeDeveloper.add(134, 125, '<a href=\"/wiki/Apps:Wikipedia_Reader_Widget\" title=\"Apps:Wikipedia Reader Widget\">Wikipedia Reader</a> (<a href=\"/wiki/File:Wikipedia.wgz\" title=\"File:Wikipedia.wgz\">file</a>)');
+tamNavTreeDeveloper.add(135, 125, '<a href=\"/wiki/Apps:Symbian.org_WRT_Widget\" title=\"Apps:Symbian.org WRT Widget\">Symbian.org Reader</a> (<a href=\"/wiki/File:Symbian.org.wgz\" title=\"File:Symbian.org.wgz\">file</a>)');
+tamNavTreeDeveloper.add(136, 125, '<a href=\"/wiki/Apps:OSCON_2009_Schedule_Example_Widget\" title=\"Apps:OSCON 2009 Schedule Example Widget\">OSCON 2009 Schedule</a> (<a href=\"/wiki/File:Oscon2009.wgz\" title=\"File:Oscon2009.wgz\">file</a>)');
+tamNavTreeDeveloper.add(137, 125, '<a href=\"/wiki/Apps:SEE_2009_Widget\" title=\"Apps:SEE 2009 Widget\">SEE 2009 Shedule</a> (<a href=\"/wiki/File:See09Widget.wgz\" title=\"File:See09Widget.wgz\">file</a>)');
+tamNavTreeDeveloper.add(138, 125, '<a href=\"/wiki/Category:Web_App_Code_Example\" title=\"Category:Web App Code Example\">All Examples</a>');
+tamNavTreeDeveloper.add(139, 79, 'Other topics');
+tamNavTreeDeveloper.add(140, 139, '<a href=\"/wiki/Apps:Bootcamp_Jan_2010_London_WRT_Widgets\" title=\"Apps:Bootcamp Jan 2010 London WRT Widgets\">Bootcamp Jan 2010</a>');
+tamNavTreeDeveloper.add(141, 139, '<a href=\"/wiki/Apps:Multi-Language_Programming_-_RESTful_Widgets\" title=\"Apps:Multi-Language Programming - RESTful Widgets\">RESTful Widgets</a>');
+tamNavTreeDeveloper.add(142, 139, '<a href=\"/wiki/Apps:Presentation_on_Mobile_Widget_Development_July_2009\" title=\"Apps:Presentation on Mobile Widget Development July 2009\">Apps:Presentation on Mobile Widget Development July 2009</a>');
+tamNavTreeDeveloper.add(143, 139, '<a href=\"/wiki/Apps:WRT_Widgets_Book_ToC\" title=\"Apps:WRT Widgets Book ToC\">Apps:WRT Widgets Book ToC</a>');
+tamNavTreeDeveloper.add(144, 139, '<a href=\"/wiki/Apps:Web_Browser_in_a_Nutshell\" title=\"Apps:Web Browser in a Nutshell\">Apps:Web Browser in a Nutshell</a>');
+tamNavTreeDeveloper.add(145, 139, '<a href=\"/wiki/Scripting_Symbian_Developer_Sites\" title=\"Scripting Symbian Developer Sites\">Scripting Symbian Developer Sites</a>');
+tamNavTreeDeveloper.add(146, 139, '<a href=\"/wiki/Apps:IChoose_-_An_Introduction_to_AJAX_with_Python\" title=\"Apps:IChoose - An Introduction to AJAX with Python\">Apps:IChoose - An Introduction to AJAX with Python</a>');
+tamNavTreeDeveloper.add(147, 139, '<a href=\"/wiki/Apps:Rss/Web_Technologies\" title=\"Apps:Rss/Web Technologies\">RSS Feed</a>');
+tamNavTreeDeveloper.add(148, 79, '<a href=\"/wiki/Category:Web_technologies\" title=\"Category:Web technologies\">All Web App Content</a>');
+tamNavTreeDeveloper.add(149, 2, 'Symbian C++');
+tamNavTreeDeveloper.add(150, 149, '<a href=\"/wiki/Apps:Symbian_C%2B%2B_Quick_Start\" title=\"Apps:Symbian C++ Quick Start\">Quick Start</a>');
+tamNavTreeDeveloper.add(151, 149, '<a href=\"/wiki/Apps:C%2B%2B_App_Developer_Library\" title=\"Apps:C++ App Developer Library\">C++ App Developer Library</a>');
+tamNavTreeDeveloper.add(152, 149, '<a href=\"/wiki/Apps:About_Symbian_C%2B%2B_(Trail)\" title=\"Apps:About Symbian C++ (Trail)\">About Symbian C++</a>');
+tamNavTreeDeveloper.add(153, 152, '<a href=\"/wiki/Apps:Symbian_C%2B%2B_in_a_Nutshell\" title=\"Apps:Symbian C++ in a Nutshell\">Nutshell</a>');
+tamNavTreeDeveloper.add(154, 152, '<a href=\"/wiki/Apps:Symbian_C%2B%2B_Technical_Overview\" title=\"Apps:Symbian C++ Technical Overview\">Technical Overview</a>');
+tamNavTreeDeveloper.add(155, 152, '<a href=\"/wiki/C%2B%2B_Development_Q%26As\" title=\"C++ Development Q&amp;As\">Q&amp;As</a>');
+tamNavTreeDeveloper.add(156, 149, '<a href=\"/wiki/Apps:Getting_Started_with_Symbian_C%2B%2B_(Trail)\" title=\"Apps:Getting Started with Symbian C++ (Trail)\">Get Started</a>');
+tamNavTreeDeveloper.add(157, 156, '<a href=\"/wiki/Apps:Symbian_C%2B%2B_SDK_%26_Developer_Environment\" title=\"Apps:Symbian C++ SDK &amp; Developer Environment\">SDK &amp; Tools</a>');
+tamNavTreeDeveloper.add(158, 156, '<a href=\"/wiki/Apps:Symbian_C%2B%2B_Hello_World\" title=\"Apps:Symbian C++ Hello World\">Hello World Tutorial</a>');
+tamNavTreeDeveloper.add(159, 156, '<a href=\"/wiki/Apps:Symbian_C%2B%2B_Deployment_%26_Distribution\" title=\"Apps:Symbian C++ Deployment &amp; Distribution\">Deployment &amp; Distribution</a>');
+tamNavTreeDeveloper.add(160, 156, '<a href=\"/wiki/Apps:Symbian_C%2B%2B_Command-line_Overview\" title=\"Apps:Symbian C++ Command-line Overview\">Command-line Overview</a>');
+tamNavTreeDeveloper.add(161, 156, '<a href=\"/wiki/Apps:Going_Beyond_Hello_-_A_Tutorial_for_Symbian_C%2B%2B_Applications\" title=\"Apps:Going Beyond Hello - A Tutorial for Symbian C++ Applications\">Advanced Tutorial</a>');
+tamNavTreeDeveloper.add(162, 156, '<a href=\"/wiki/Apps:Fundamentals_of_Symbian_C%2B%2B\" title=\"Apps:Fundamentals of Symbian C++\">Fundamentals</a>');
+tamNavTreeDeveloper.add(163, 149, 'Programming with Symbian C++');
+tamNavTreeDeveloper.add(164, 163, 'Fundamentals');
+tamNavTreeDeveloper.add(165, 164, 'Active Objects');
+tamNavTreeDeveloper.add(166, 165, '<a href=\"/wiki/Apps:Fundamentals_of_Symbian_C%2B%2B/Active_Objects\" title=\"Apps:Fundamentals of Symbian C++/Active Objects\">Active Objects (Fundamentals)</a>');
+tamNavTreeDeveloper.add(167, 165, '<a href=\"/wiki/CActive_and_Friends\" title=\"CActive and Friends\" class=\"mw-redirect\">CActive and Friends</a>');
+tamNavTreeDeveloper.add(168, 165, '<a href=\"/wiki/Apps:Long_Running_Active_Object\" title=\"Apps:Long Running Active Object\">Apps:Long Running Active Object</a>');
+tamNavTreeDeveloper.add(169, 164, 'Arrays');
+tamNavTreeDeveloper.add(170, 169, '<a href=\"/wiki/Apps:Fundamentals_of_Symbian_C%2B%2B/Arrays\" title=\"Apps:Fundamentals of Symbian C++/Arrays\">Arrays (Fundamentals)</a>');
+tamNavTreeDeveloper.add(171, 169, '<a href=\"/wiki/Apps:Advanced_RArray\" title=\"Apps:Advanced RArray\">Advanced RArray</a>');
+tamNavTreeDeveloper.add(172, 164, 'Basic Types');
+tamNavTreeDeveloper.add(173, 172, '<a href=\"/wiki/Apps:Fundamentals_of_Symbian_C%2B%2B/Class_Types_%26_Declarations\" title=\"Apps:Fundamentals of Symbian C++/Class Types &amp; Declarations\">Class Types and Declarations (Fundamentals)</a>');
+tamNavTreeDeveloper.add(174, 172, '<a href=\"/wiki/An_Introduction_to_C_Classes\" title=\"An Introduction to C Classes\" class=\"mw-redirect\">An Introduction to C Classes</a>');
+tamNavTreeDeveloper.add(175, 172, '<a href=\"/wiki/An_Introduction_to_R_Classes\" title=\"An Introduction to R Classes\" class=\"mw-redirect\">An Introduction to R Classes</a>');
+tamNavTreeDeveloper.add(176, 172, '<a href=\"/wiki/An_Introduction_to_T_Classes\" title=\"An Introduction to T Classes\" class=\"mw-redirect\">An Introduction to T Classes</a>');
+tamNavTreeDeveloper.add(177, 172, '<a href=\"/wiki/An_Introduction_to_M_Classes\" title=\"An Introduction to M Classes\" class=\"mw-redirect\">An Introduction to M Classes</a>');
+tamNavTreeDeveloper.add(178, 172, '<a href=\"/wiki/Apps:EUserHL_Core_Idiom_Library\" title=\"Apps:EUserHL Core Idiom Library\">EUserHL Core Idiom Library</a>');
+tamNavTreeDeveloper.add(179, 172, '<a href=\"/wiki/Apps:String_constant_arrays_in_Symbian_C%2B%2B\" title=\"Apps:String constant arrays in Symbian C++\">String constant arrays</a>');
+tamNavTreeDeveloper.add(180, 164, 'Client-Server Framework');
+tamNavTreeDeveloper.add(181, 180, '<a href=\"/wiki/Apps:Fundamentals_of_Symbian_C%2B%2B/Client-Server_Framework\" title=\"Apps:Fundamentals of Symbian C++/Client-Server Framework\">Client-Server Framework (Fundamentals)</a>');
+tamNavTreeDeveloper.add(182, 180, '<a href=\"/wiki/Apps:Transient_Server_Template\" title=\"Apps:Transient Server Template\">Transient Server Template</a>');
+tamNavTreeDeveloper.add(183, 164, '<a href=\"/wiki/Apps:Fundamentals_of_Symbian_C%2B%2B/Compatibility\" title=\"Apps:Fundamentals of Symbian C++/Compatibility\">Compatibility</a>');
+tamNavTreeDeveloper.add(184, 164, 'Descriptors');
+tamNavTreeDeveloper.add(185, 184, '<a href=\"/wiki/Apps:Fundamentals_of_Symbian_C%2B%2B/Descriptors\" title=\"Apps:Fundamentals of Symbian C++/Descriptors\">Descriptors  (Fundamentals)</a>');
+tamNavTreeDeveloper.add(186, 184, '<a href=\"/wiki/Apps:Introducing_the_RBuf_Descriptor\" title=\"Apps:Introducing the RBuf Descriptor\">Introducing the RBuf Descriptor</a>');
+tamNavTreeDeveloper.add(187, 184, '<a href=\"/wiki/Descriptors_Cookbook\" title=\"Descriptors Cookbook\" class=\"mw-redirect\">Descriptors Cookbook</a>');
+tamNavTreeDeveloper.add(188, 187, '<a href=\"/wiki/File:Descriptors_Cookbook_Code.zip\" title=\"File:Descriptors Cookbook Code.zip\">File:Descriptors Cookbook Code.zip</a>');
+tamNavTreeDeveloper.add(189, 187, '<a href=\"/wiki/Apps:Concatenate_Two_Strings\" title=\"Apps:Concatenate Two Strings\">Add Two Strings</a>');
+tamNavTreeDeveloper.add(190, 187, '<a href=\"/wiki/Apps:Format_a_Number_into_a_String\" title=\"Apps:Format a Number into a String\">Format Number into String</a>');
+tamNavTreeDeveloper.add(191, 187, '<a href=\"/wiki/Apps:Convert_a_Descriptor_to_a_Number\" title=\"Apps:Convert a Descriptor to a Number\">Convert Descriptor to Number</a>');
+tamNavTreeDeveloper.add(192, 187, '<a href=\"/wiki/Apps:Externalize_%26_Internalize_a_Descriptor\" title=\"Apps:Externalize &amp; Internalize a Descriptor\">Externalize &amp; Internalize a Descriptor</a>');
+tamNavTreeDeveloper.add(193, 187, '<a href=\"/wiki/Apps:Write_Binary_Data_into_a_Descriptor_or_String_Literal\" title=\"Apps:Write Binary Data into a Descriptor or String Literal\">Write Binary Data into a Descriptor/String Literal</a>');
+tamNavTreeDeveloper.add(194, 187, '<a href=\"/wiki/Apps:Format_Strings\" title=\"Apps:Format Strings\">Format Strings</a>');
+tamNavTreeDeveloper.add(195, 187, '<a href=\"/wiki/Apps:Convert_Between_C_Strings_and_Descriptors\" title=\"Apps:Convert Between C Strings and Descriptors\">Convert Between C Strings and Descriptors</a>');
+tamNavTreeDeveloper.add(196, 187, '<a href=\"/wiki/Apps:Convert_Between_8-bit_and_16-bit_Strings\" title=\"Apps:Convert Between 8-bit and 16-bit Strings\">Apps:Convert Between 8-bit and 16-bit Strings</a>');
+tamNavTreeDeveloper.add(197, 187, '<a href=\"/wiki/Apps:Pass_Descriptors_as_Function_Arguments\" title=\"Apps:Pass Descriptors as Function Arguments\">Pass Descriptors as Function Arguments</a>');
+tamNavTreeDeveloper.add(198, 187, '<a href=\"/wiki/Apps:Pass_and_Return_Modifiable_Descriptors\" title=\"Apps:Pass and Return Modifiable Descriptors\">Pass and Return Modifiable Descriptors</a>');
+tamNavTreeDeveloper.add(199, 187, '<a href=\"/wiki/Apps:Convert_from_One_Descriptor_Type_to_Another\" title=\"Apps:Convert from One Descriptor Type to Another\">Convert from One Descriptor Type to Another</a>');
+tamNavTreeDeveloper.add(200, 187, '<a href=\"/wiki/Apps:Use_the_RBuf_Modifiable_Dynamic_Descriptor\" title=\"Apps:Use the RBuf Modifiable Dynamic Descriptor\">Use the RBuf Modifiable Dynamic Descriptor</a>');
+tamNavTreeDeveloper.add(201, 187, '<a href=\"/wiki/Apps:Find_and_Match_Descriptors\" title=\"Apps:Find and Match Descriptors\">Find and Match Descriptors</a>');
+tamNavTreeDeveloper.add(202, 187, '<a href=\"/wiki/Apps:Compare_Descriptors\" title=\"Apps:Compare Descriptors\">Compare Descriptors</a>');
+tamNavTreeDeveloper.add(203, 187, '<a href=\"/wiki/Apps:Lexical_Parsing_of_Data_in_a_Descriptor\" title=\"Apps:Lexical Parsing of Data in a Descriptor\">Lexical Parsing of Data in a Descriptor</a>');
+tamNavTreeDeveloper.add(204, 187, '<a href=\"/wiki/Apps:Write_Binary_Data_to_a_File\" title=\"Apps:Write Binary Data to a File\">Write Binary Data to a File</a>');
+tamNavTreeDeveloper.add(205, 164, '<a href=\"/wiki/Apps:Fundamentals_of_Symbian_C%2B%2B/File_Server\" title=\"Apps:Fundamentals of Symbian C++/File Server\">File Server</a>');
+tamNavTreeDeveloper.add(206, 164, 'Exceptions (Leaves) and the Cleanup Stack');
+tamNavTreeDeveloper.add(207, 206, '<a href=\"/wiki/Apps:Fundamentals_of_Symbian_C%2B%2B/Leaves_%26_The_Cleanup_Stack\" title=\"Apps:Fundamentals of Symbian C++/Leaves &amp; The Cleanup Stack\">Leaves and the Cleanup Stack (Fundamentals)</a>');
+tamNavTreeDeveloper.add(208, 206, '<a href=\"/wiki/Apps:The_Implications_of_Leaving_in_a_Constructor\" title=\"Apps:The Implications of Leaving in a Constructor\">Apps:The Implications of Leaving in a Constructor</a>');
+tamNavTreeDeveloper.add(209, 206, '<a href=\"/wiki/Apps:The_Implications_of_Leaving_in_a_Destructor\" title=\"Apps:The Implications of Leaving in a Destructor\">Apps:The Implications of Leaving in a Destructor</a>');
+tamNavTreeDeveloper.add(210, 206, '<a href=\"/wiki/Apps:XTRAP-olation_(v9.2)\" title=\"Apps:XTRAP-olation (v9.2)\">Apps:XTRAP-olation (v9.2)</a>');
+tamNavTreeDeveloper.add(211, 206, '<a href=\"/wiki/Apps:Symbian_Panics_Explained\" title=\"Apps:Symbian Panics Explained\">Apps:Symbian Panics Explained</a>');
+tamNavTreeDeveloper.add(212, 206, '<a href=\"/wiki/Apps:Mixin_Inheritance_and_the_Cleanup_Stack\" title=\"Apps:Mixin Inheritance and the Cleanup Stack\">Apps:Mixin Inheritance and the Cleanup Stack</a>');
+tamNavTreeDeveloper.add(213, 206, '<a href=\"/wiki/Exception_Handling\" title=\"Exception Handling\">Exception Handling</a>');
+tamNavTreeDeveloper.add(214, 164, '<a href=\"/wiki/Apps:Fundamentals_of_Symbian_C%2B%2B/Object_Construction\" title=\"Apps:Fundamentals of Symbian C++/Object Construction\">Object Construction and Destruction</a>');
+tamNavTreeDeveloper.add(215, 164, 'Platform Security');
+tamNavTreeDeveloper.add(216, 215, '<a href=\"/wiki/Apps:Fundamentals_of_Symbian_C%2B%2B/Platform_Security\" title=\"Apps:Fundamentals of Symbian C++/Platform Security\">Platform Security (Fundamentals)</a>');
+tamNavTreeDeveloper.add(217, 215, '<a href=\"/wiki/Apps:Troubleshooting_platform_security_problems\" title=\"Apps:Troubleshooting platform security problems\">Troubleshooting</a>');
+tamNavTreeDeveloper.add(218, 215, '<a href=\"/wiki/Apps:Platform_Security_For_All\" title=\"Apps:Platform Security For All\">Platform Security For All</a>');
+tamNavTreeDeveloper.add(219, 164, '<a href=\"/wiki/Apps:Fundamentals_of_Symbian_C%2B%2B/Sockets\" title=\"Apps:Fundamentals of Symbian C++/Sockets\">Sockets</a>');
+tamNavTreeDeveloper.add(220, 164, '<a href=\"/wiki/Apps:Fundamentals_of_Symbian_C%2B%2B/Streams_And_Stores\" title=\"Apps:Fundamentals of Symbian C++/Streams And Stores\">Streams and Stores</a>');
+tamNavTreeDeveloper.add(221, 164, '<a href=\"/wiki/Apps:Fundamentals_of_Symbian_C%2B%2B/Symbian_C%2B%2B_Miscellany\" title=\"Apps:Fundamentals of Symbian C++/Symbian C++ Miscellany\">Symbian C++ Miscellany</a>');
+tamNavTreeDeveloper.add(222, 164, 'Threads, Processes and IPC');
+tamNavTreeDeveloper.add(223, 222, '<a href=\"/wiki/Apps:Fundamentals_of_Symbian_C%2B%2B/Threads,_Processes,_and_IPC\" title=\"Apps:Fundamentals of Symbian C++/Threads, Processes, and IPC\">Threads, Processes and IPC (Fundamentals)</a>');
+tamNavTreeDeveloper.add(224, 222, '<a href=\"/wiki/Apps:New_IPC_Mechanisms_for_Symbian_OS\" title=\"Apps:New IPC Mechanisms for Symbian OS\">Apps:New IPC Mechanisms for Symbian OS</a>');
+tamNavTreeDeveloper.add(225, 164, '<a href=\"/wiki/Apps:Data_Sharing_and_Persistence_with_Symbian_C%2B%2B\" title=\"Apps:Data Sharing and Persistence with Symbian C++\">Data Sharing and Persistence</a>');
+tamNavTreeDeveloper.add(226, 164, 'Writeable Static Data and the Singleton Pattern');
+tamNavTreeDeveloper.add(227, 226, '<a href=\"/wiki/Apps:Symbian_Platform_Support_for_Writeable_Static_Data_in_DLLs\" title=\"Apps:Symbian Platform Support for Writeable Static Data in DLLs\">Apps:Symbian Platform Support for Writeable Static Data in DLLs</a>');
+tamNavTreeDeveloper.add(228, 226, '<a href=\"/wiki/Apps:WSD_and_the_Singleton_Pattern\" title=\"Apps:WSD and the Singleton Pattern\">Apps:WSD and the Singleton Pattern</a>');
+tamNavTreeDeveloper.add(229, 164, '<a href=\"/wiki/Apps:Fundamentals_of_Symbian_C%2B%2B/Tool_Chain\" title=\"Apps:Fundamentals of Symbian C++/Tool Chain\">Tool Chain</a>');
+tamNavTreeDeveloper.add(230, 163, 'Design &amp; Best Practices');
+tamNavTreeDeveloper.add(231, 230, '<a href=\"/wiki/Apps:Best_Practices_in_Symbian_C%2B%2B_Design\" title=\"Apps:Best Practices in Symbian C++ Design\">Best Practices in Symbian C++ Design</a>');
+tamNavTreeDeveloper.add(232, 231, '<a href=\"/wiki/Apps:Best_Practices_in_Symbian_C%2B%2B_Design/Co-operative_multitasking\" title=\"Apps:Best Practices in Symbian C++ Design/Co-operative multitasking\">Co-operative multitasking</a>');
+tamNavTreeDeveloper.add(233, 231, '<a href=\"/wiki/Apps:Best_Practices_in_Symbian_C%2B%2B_Design/Error-handling\" title=\"Apps:Best Practices in Symbian C++ Design/Error-handling\">Error-handling</a>');
+tamNavTreeDeveloper.add(234, 231, '<a href=\"/wiki/Apps:Best_Practices_in_Symbian_C%2B%2B_Design/Optimizing_execution_time\" title=\"Apps:Best Practices in Symbian C++ Design/Optimizing execution time\">Optimizing execution time</a>');
+tamNavTreeDeveloper.add(235, 231, '<a href=\"/wiki/Apps:Best_Practices_in_Symbian_C%2B%2B_Design/Resource_lifetimes\" title=\"Apps:Best Practices in Symbian C++ Design/Resource lifetimes\">Resource lifetimes</a>');
+tamNavTreeDeveloper.add(236, 231, '<a href=\"/wiki/Apps:Best_Practices_in_Symbian_C%2B%2B_Design/Event-driven_programming\" title=\"Apps:Best Practices in Symbian C++ Design/Event-driven programming\">Event-driven programming</a>');
+tamNavTreeDeveloper.add(237, 231, '<a href=\"/wiki/Apps:Best_Practices_in_Symbian_C%2B%2B_Design/Security\" title=\"Apps:Best Practices in Symbian C++ Design/Security\">Security</a>');
+tamNavTreeDeveloper.add(238, 230, '<a href=\"/wiki/Apps:Modularizing_Symbian_C%2B%2B_Applications\" title=\"Apps:Modularizing Symbian C++ Applications\">Apps:Modularizing Symbian C++ Applications</a>');
+tamNavTreeDeveloper.add(239, 230, '<a href=\"/wiki/Apps:Power_Management\" title=\"Apps:Power Management\">Power Management</a>');
+tamNavTreeDeveloper.add(240, 230, '<a href=\"/wiki/Apps:Using_Assertions_to_detect_bugs_in_C%2B%2B\" title=\"Apps:Using Assertions to detect bugs in C++\">Using Assertions to detect bugs</a>');
+tamNavTreeDeveloper.add(241, 230, '<a href=\"/wiki/Apps:Essential_Symbian_C%2B%2B_Coding_Tips\" title=\"Apps:Essential Symbian C++ Coding Tips\">Coding Tips</a>');
+tamNavTreeDeveloper.add(242, 230, '<a href=\"/wiki/Apps:Symbian_C%2B%2B_Performance_Tips\" title=\"Apps:Symbian C++ Performance Tips\">Performance Tips</a>');
+tamNavTreeDeveloper.add(243, 230, '<a href=\"/wiki/Apps:Eliminating_Memory_Leaks_in_Symbian_C%2B%2B_Code\" title=\"Apps:Eliminating Memory Leaks in Symbian C++ Code\">Eliminating Memory Leaks</a>');
+tamNavTreeDeveloper.add(244, 230, '<a href=\"/wiki/Apps:Roids_-_Game_Design_and_Implementation\" title=\"Apps:Roids - Game Design and Implementation\">Roids - Game Design and Implementation</a>');
+tamNavTreeDeveloper.add(245, 163, 'Other APIs');
+tamNavTreeDeveloper.add(246, 245, 'Bluetooth');
+tamNavTreeDeveloper.add(247, 246, '<a href=\"/wiki/Apps:Discover_Bluetooth_Devices\" title=\"Apps:Discover Bluetooth Devices\">Discover Bluetooth Devices</a>');
+tamNavTreeDeveloper.add(248, 246, '<a href=\"/wiki/Apps:Using_Bluetooth_PAN\" title=\"Apps:Using Bluetooth PAN\">Using Bluetooth PAN</a>');
+tamNavTreeDeveloper.add(249, 245, 'Camera');
+tamNavTreeDeveloper.add(250, 249, '<a href=\"/wiki/Apps:Introduction_to_the_Camera_API\" title=\"Apps:Introduction to the Camera API\">Apps:Introduction to the Camera API</a>');
+tamNavTreeDeveloper.add(251, 245, 'Connectivity');
+tamNavTreeDeveloper.add(252, 251, '<a href=\"/wiki/PC_Connectivity:_How_To_Write_Backup_Aware_Software_for_Symbian\" title=\"PC Connectivity: How To Write Backup Aware Software for Symbian\">PC Connectivity: How To Write Backup Aware Software for Symbian</a>');
+tamNavTreeDeveloper.add(253, 245, 'Databases');
+tamNavTreeDeveloper.add(254, 253, '<a href=\"/wiki/Apps:Symbian_SQL_Overview\" title=\"Apps:Symbian SQL Overview\">Symbian SQL Overview</a>');
+tamNavTreeDeveloper.add(255, 253, '<a href=\"/wiki/Apps:How_To_Use_Symbian_SQL\" title=\"Apps:How To Use Symbian SQL\">How To Use Symbian SQL</a>');
+tamNavTreeDeveloper.add(256, 253, '<a href=\"/wiki/Apps:Optimizing_Database_Design\" title=\"Apps:Optimizing Database Design\">Optimizing Database Design</a>');
+tamNavTreeDeveloper.add(257, 253, '<a href=\"/wiki/Apps:Optimizing_Database_Operations\" title=\"Apps:Optimizing Database Operations\">Optimizing Database Operations</a>');
+tamNavTreeDeveloper.add(258, 253, '<a href=\"/wiki/Apps:Optimizing_RAM_usage_when_using_Symbian_SQL\" title=\"Apps:Optimizing RAM usage when using Symbian SQL\">Optimizing RAM usage</a>');
+tamNavTreeDeveloper.add(259, 253, '<a href=\"/wiki/Apps:How_to_Optimize_Symbian_SQL_Server_Usage\" title=\"Apps:How to Optimize Symbian SQL Server Usage\">Optimize Symbian SQL Server Usage</a>');
+tamNavTreeDeveloper.add(260, 253, '<a href=\"/wiki/Apps:Multi-Table_Database_Considerations\" title=\"Apps:Multi-Table Database Considerations\">Apps:Multi-Table Database Considerations</a>');
+tamNavTreeDeveloper.add(261, 253, '<a href=\"/wiki/Apps:Multi-User_Database_Considerations\" title=\"Apps:Multi-User Database Considerations\">Apps:Multi-User Database Considerations</a>');
+tamNavTreeDeveloper.add(262, 253, '<a href=\"/wiki/Apps:Database_Configuration_Optimizations\" title=\"Apps:Database Configuration Optimizations\">Apps:Database Configuration Optimizations</a>');
+tamNavTreeDeveloper.add(263, 253, '<a href=\"/wiki/Apps:Wikipedia_SQL_Demo\" title=\"Apps:Wikipedia SQL Demo\">Apps:Wikipedia SQL Demo</a>');
+tamNavTreeDeveloper.add(264, 253, '<a href=\"/wiki/Apps:Wikipedia_Symbian_SQL_Example_Application\" title=\"Apps:Wikipedia Symbian SQL Example Application\">Apps:Wikipedia Symbian SQL Example Application</a>');
+tamNavTreeDeveloper.add(265, 245, 'Location');
+tamNavTreeDeveloper.add(266, 265, '<a href=\"/wiki/Apps:Get_the_Default_Multimedia_Storage_Location\" title=\"Apps:Get the Default Multimedia Storage Location\">Apps:Get the Default Multimedia Storage Location</a>');
+tamNavTreeDeveloper.add(267, 265, '<a href=\"/wiki/Apps:Get_the_list_of_Available_Positioning_Technology_Modules\" title=\"Apps:Get the list of Available Positioning Technology Modules\">Apps:Get the list of Available Positioning Technology Modules</a>');
+tamNavTreeDeveloper.add(268, 265, '<a href=\"/wiki/Apps:Creating_Location-Aware_Applications\" title=\"Apps:Creating Location-Aware Applications\">Apps:Creating Location-Aware Applications</a>');
+tamNavTreeDeveloper.add(269, 245, 'Multimedia');
+tamNavTreeDeveloper.add(270, 269, '<a href=\"/wiki/Apps:Play_a_MIDI_File\" title=\"Apps:Play a MIDI File\">Play a MIDI File</a>');
+tamNavTreeDeveloper.add(271, 269, '<a href=\"/wiki/Apps:How_to_fetch_multimedia_files\" title=\"Apps:How to fetch multimedia files\">How to fetch multimedia files</a>');
+tamNavTreeDeveloper.add(272, 269, '<a href=\"/wiki/Apps:Retrieve_a_list_of_audio_and_video_codecs_available\" title=\"Apps:Retrieve a list of audio and video codecs available\">List available audio and video codecs</a>');
+tamNavTreeDeveloper.add(273, 245, 'Messaging');
+tamNavTreeDeveloper.add(274, 273, '<a href=\"/wiki/Apps:Handle_Incoming_SMS_Messages\" title=\"Apps:Handle Incoming SMS Messages\">Apps:Handle Incoming SMS Messages</a>');
+tamNavTreeDeveloper.add(275, 245, 'Notification Services');
+tamNavTreeDeveloper.add(276, 275, '<a href=\"/wiki/Apps:Symbian_C%2B%2B_Notification_Services\" title=\"Apps:Symbian C++ Notification Services\">Notification Services</a>');
+tamNavTreeDeveloper.add(277, 245, 'Networking');
+tamNavTreeDeveloper.add(278, 277, '<a href=\"/wiki/Apps:Domain_Name_Resolution\" title=\"Apps:Domain Name Resolution\">Domain Name Resolution</a>');
+tamNavTreeDeveloper.add(279, 277, '<a href=\"/wiki/Apps:An_Introduction_to_IMS\" title=\"Apps:An Introduction to IMS\">Apps:An Introduction to IMS</a>');
+tamNavTreeDeveloper.add(280, 277, '<a href=\"/wiki/Apps:Symbian_OS_IMS_and_IETF_APIs\" title=\"Apps:Symbian OS IMS and IETF APIs\">Apps:Symbian OS IMS and IETF APIs</a>');
+tamNavTreeDeveloper.add(281, 277, '<a href=\"/wiki/Apps:Automatically_migrate_to_a_preferred_carrier_for_a_connection_when_available\" title=\"Apps:Automatically migrate to a preferred carrier for a connection when available\">Apps:Automatically migrate to a preferred carrier for a connection when available</a>');
+tamNavTreeDeveloper.add(282, 245, 'Platform information');
+tamNavTreeDeveloper.add(283, 282, '<a href=\"/wiki/Apps:Retrieve_the_platform_version_at_runtime\" title=\"Apps:Retrieve the platform version at runtime\">Apps:Retrieve the platform version at runtime</a>');
+tamNavTreeDeveloper.add(284, 245, 'Sensors');
+tamNavTreeDeveloper.add(285, 284, '<a href=\"/wiki/Apps:Discover_available_sensors\" title=\"Apps:Discover available sensors\">Apps:Discover available sensors</a>');
+tamNavTreeDeveloper.add(286, 245, 'Telephony');
+tamNavTreeDeveloper.add(287, 286, '<a href=\"/wiki/Apps:Make_a_Phone_Call\" title=\"Apps:Make a Phone Call\">Make a Phone Call</a>');
+tamNavTreeDeveloper.add(288, 245, 'User Interface');
+tamNavTreeDeveloper.add(289, 288, '<a href=\"/wiki/Apps:Support_touch_and_non-touch_user_interfaces\" title=\"Apps:Support touch and non-touch user interfaces\">Support touch and non-touch user interfaces</a>');
+tamNavTreeDeveloper.add(290, 288, '<a href=\"/wiki/Apps:Discover_available_input_modes\" title=\"Apps:Discover available input modes\">Discover available input modes</a>');
+tamNavTreeDeveloper.add(291, 288, '<a href=\"/wiki/Apps:Detect_if_a_touch-screen_user_interface_is_supported\" title=\"Apps:Detect if a touch-screen user interface is supported\">Test for touch screen support</a>');
+tamNavTreeDeveloper.add(292, 288, '<a href=\"/wiki/Apps:Receive_notification_of_changes_to_screen_layout\" title=\"Apps:Receive notification of changes to screen layout\">Apps:Receive notification of changes to screen layout</a>');
+tamNavTreeDeveloper.add(293, 288, '<a href=\"/wiki/Apps:Retrieve_information_on_a_chosen_display_screen\" title=\"Apps:Retrieve information on a chosen display screen\">Apps:Retrieve information on a chosen display screen</a>');
+tamNavTreeDeveloper.add(294, 245, 'Applications');
+tamNavTreeDeveloper.add(295, 294, '<a href=\"/wiki/Apps:How_to_programmatically_start_another_application\" title=\"Apps:How to programmatically start another application\">Apps:How to programmatically start another application</a>');
+tamNavTreeDeveloper.add(296, 163, 'Porting');
+tamNavTreeDeveloper.add(297, 296, '<a href=\"/wiki/Apps:Porting_from_Windows_Mobile_to_Symbian_OS_v9.x\" title=\"Apps:Porting from Windows Mobile to Symbian OS v9.x\">Apps:Porting from Windows Mobile to Symbian OS v9.x</a>');
+tamNavTreeDeveloper.add(298, 296, '<a href=\"/wiki/Apps:Multi-Language_Programming_-_Combining_Python_with_Flash_Lite_and_Symbian_C%2B%2B\" title=\"Apps:Multi-Language Programming - Combining Python with Flash Lite and Symbian C++\">Apps:Multi-Language Programming - Combining Python with Flash Lite and Symbian C++</a>');
+tamNavTreeDeveloper.add(299, 163, 'Other topics');
+tamNavTreeDeveloper.add(300, 299, '<a href=\"/wiki/Apps:FleaC_%E2%80%93_A_Smarter_API_for_Symbian_OS\" title=\"Apps:FleaC – A Smarter API for Symbian OS\">Apps:FleaC – A Smarter API for Symbian OS</a>');
+tamNavTreeDeveloper.add(301, 299, '<a href=\"/wiki/Apps:Rss/Symbian_C%2B%2B\" title=\"Apps:Rss/Symbian C++\">Symbian C++ RSS feed</a>');
+tamNavTreeDeveloper.add(302, 299, '<a href=\"/wiki/Apps:Symbian_OS_v9.x_SIS_File_Format_Specification\" title=\"Apps:Symbian OS v9.x SIS File Format Specification\">Apps:Symbian OS v9.x SIS File Format Specification</a>');
+tamNavTreeDeveloper.add(303, 299, 'Legacy');
+tamNavTreeDeveloper.add(304, 303, '<a href=\"/wiki/Apps:Symbian_C%2B%2B_Knowledgebase_Q%26As\" title=\"Apps:Symbian C++ Knowledgebase Q&amp;As\">Apps:Symbian C++ Knowledgebase Q&amp;As</a>');
+tamNavTreeDeveloper.add(305, 303, '<a href=\"/wiki/Apps:Start_on_boot_API\" title=\"Apps:Start on boot API\">Apps:Start on boot API</a>');
+tamNavTreeDeveloper.add(306, 149, 'Examples');
+tamNavTreeDeveloper.add(307, 306, '<a href=\"/wiki/Reference_Library_C%2B%2B_Code_Examples\" title=\"Reference Library C++ Code Examples\">Reference Library C++ Code Examples</a>');
+tamNavTreeDeveloper.add(308, 306, 'Basic Types');
+tamNavTreeDeveloper.add(309, 308, '<a href=\"/wiki/File:EUserHL.zip\" title=\"File:EUserHL.zip\">EUserHL</a>');
+tamNavTreeDeveloper.add(310, 306, 'Arrays');
+tamNavTreeDeveloper.add(311, 310, '<a href=\"/wiki/File:Example_RArray.zip\" title=\"File:Example RArray.zip\">File:Example RArray.zip</a>');
+tamNavTreeDeveloper.add(312, 306, 'Bluetooth');
+tamNavTreeDeveloper.add(313, 312, '<a href=\"/wiki/File:Bluetooth_Device_Discovery.zip\" title=\"File:Bluetooth Device Discovery.zip\">File:Bluetooth Device Discovery.zip</a>');
+tamNavTreeDeveloper.add(314, 312, '<a href=\"/wiki/File:RockPaperScissorsGameSourceCode_S60.zip\" title=\"File:RockPaperScissorsGameSourceCode S60.zip\">File:RockPaperScissorsGameSourceCode S60.zip</a>');
+tamNavTreeDeveloper.add(315, 312, '<a href=\"/wiki/File:RockPaperScissorsGameSourceCode_UIQ.zip\" title=\"File:RockPaperScissorsGameSourceCode UIQ.zip\">File:RockPaperScissorsGameSourceCode UIQ.zip</a> (legacy)');
+tamNavTreeDeveloper.add(316, 306, 'Client/Server');
+tamNavTreeDeveloper.add(317, 316, '<a href=\"/wiki/File:TransientServerTemplate.zip\" title=\"File:TransientServerTemplate.zip\">Transient server template</a>');
+tamNavTreeDeveloper.add(318, 306, 'Connectivity');
+tamNavTreeDeveloper.add(319, 318, '<a href=\"/wiki/File:Quick_Recipes_on_Symbian_OS_Connectivity_Example_Code.zip\" title=\"File:Quick Recipes on Symbian OS Connectivity Example Code.zip\">Quick Recipes on Symbian OS Connectivity Example Code</a>');
+tamNavTreeDeveloper.add(320, 306, 'Databases');
+tamNavTreeDeveloper.add(321, 320, '<a href=\"/wiki/File:InsideSymbianSqlSampleCodeChapter2.zip\" title=\"File:InsideSymbianSqlSampleCodeChapter2.zip\">InsideSymbianSql - SampleCodeChapter2</a>');
+tamNavTreeDeveloper.add(322, 320, '<a href=\"/wiki/File:Wikipedia_src_v1.0.zip\" title=\"File:Wikipedia src v1.0.zip\">Wikipedia example</a>');
+tamNavTreeDeveloper.add(323, 306, 'Descriptors/Strings');
+tamNavTreeDeveloper.add(324, 323, '<a href=\"/wiki/File:Descriptors_Cookbook_Code.zip\" title=\"File:Descriptors Cookbook Code.zip\">Descriptors Cookbook Code</a>');
+tamNavTreeDeveloper.add(325, 323, '<a href=\"/wiki/File:Writing_to_a_Binary_File.zip\" title=\"File:Writing to a Binary File.zip\">Writing to a Binary File</a>');
+tamNavTreeDeveloper.add(326, 306, 'Graphics');
+tamNavTreeDeveloper.add(327, 326, '<a href=\"/wiki/File:Quick_Recipes_on_Symbian_OS_Graphics_Example_Code.zip\" title=\"File:Quick Recipes on Symbian OS Graphics Example Code.zip\">File:Quick Recipes on Symbian OS Graphics Example Code.zip</a>');
+tamNavTreeDeveloper.add(328, 326, '<a href=\"/wiki/File:Quick_Recipes_on_Symbian_OS_Graphics_and_Drawing_Example_Code.zip\" title=\"File:Quick Recipes on Symbian OS Graphics and Drawing Example Code.zip\">File:Quick Recipes on Symbian OS Graphics and Drawing Example Code.zip</a>');
+tamNavTreeDeveloper.add(329, 306, 'Location');
+tamNavTreeDeveloper.add(330, 329, '<a href=\"/wiki/File:LocationExample_-_List_Available_Positioning_Technology_Modules.zip\" title=\"File:LocationExample - List Available Positioning Technology Modules.zip\">File:LocationExample - List Available Positioning Technology Modules.zip</a>');
+tamNavTreeDeveloper.add(331, 329, '<a href=\"/wiki/File:Quick_Recipes_on_Symbian_OS_Location_Based_Services_Example_Code.zip\" title=\"File:Quick Recipes on Symbian OS Location Based Services Example Code.zip\">File:Quick Recipes on Symbian OS Location Based Services Example Code.zip</a>');
+tamNavTreeDeveloper.add(332, 306, 'Messaging');
+tamNavTreeDeveloper.add(333, 332, '<a href=\"/wiki/File:SmsManager.zip\" title=\"File:SmsManager.zip\">SMS Manager</a>');
+tamNavTreeDeveloper.add(334, 306, 'Multimedia');
+tamNavTreeDeveloper.add(335, 334, '<a href=\"/wiki/File:Multimedia_on_Symbian_OS_Image_Conversion_Library_Example_Code.zip\" title=\"File:Multimedia on Symbian OS Image Conversion Library Example Code.zip\">Image Conversion Library</a>');
+tamNavTreeDeveloper.add(336, 334, '<a href=\"/wiki/File:Multimedia_on_Symbian_OS_Multimedia_Framework_Audio_Example_Code.zip\" title=\"File:Multimedia on Symbian OS Multimedia Framework Audio Example Code.zip\">Audio</a>');
+tamNavTreeDeveloper.add(337, 334, '<a href=\"/wiki/File:Multimedia_on_Symbian_OS_Multimedia_Framework_Video_Example_Code.zip\" title=\"File:Multimedia on Symbian OS Multimedia Framework Video Example Code.zip\">Video</a>');
+tamNavTreeDeveloper.add(338, 334, '<a href=\"/wiki/File:Multimedia_on_Symbian_OS_Onboard_Camera_Example_code.zip\" title=\"File:Multimedia on Symbian OS Onboard Camera Example code.zip\">Camera</a>');
+tamNavTreeDeveloper.add(339, 334, '<a href=\"/wiki/File:Multimedia_on_Symbian_OS_Tuner_API_Example_Code.zip\" title=\"File:Multimedia on Symbian OS Tuner API Example Code.zip\">Tuner</a>');
+tamNavTreeDeveloper.add(340, 334, '<a href=\"/wiki/File:Quick_Recipes_on_Symbian_OS_Multimedia_Example_Code.zip\" title=\"File:Quick Recipes on Symbian OS Multimedia Example Code.zip\">Quick Recipes on Symbian OS Multimedia Example Code</a>');
+tamNavTreeDeveloper.add(341, 334, '<a href=\"/wiki/File:Oggvorbiscodec.zip\" title=\"File:Oggvorbiscodec.zip\">File:Oggvorbiscodec.zip</a>');
+tamNavTreeDeveloper.add(342, 334, '<a href=\"/wiki/File:Oggvorbiscodec94.zip\" title=\"File:Oggvorbiscodec94.zip\">File:Oggvorbiscodec94.zip</a>');
+tamNavTreeDeveloper.add(343, 334, '<a href=\"/wiki/File:Playing_a_Midi_File.zip\" title=\"File:Playing a Midi File.zip\">Playing a Midi File</a>');
+tamNavTreeDeveloper.add(344, 306, 'Networking');
+tamNavTreeDeveloper.add(345, 344, '<a href=\"/wiki/IP_connection_management_code_examples\" title=\"IP connection management code examples\">IP connection management code examples</a>');
+tamNavTreeDeveloper.add(346, 344, '<a href=\"/wiki/File:Domain_Name_Host_Resolver.zip\" title=\"File:Domain Name Host Resolver.zip\">Domain Name Host Resolver</a>');
+tamNavTreeDeveloper.add(347, 306, 'Telephony');
+tamNavTreeDeveloper.add(348, 347, '<a href=\"/wiki/File:Telephony_Dialer.zip\" title=\"File:Telephony Dialer.zip\">Telephony Dialer</a>');
+tamNavTreeDeveloper.add(349, 347, '<a href=\"/wiki/File:Quick_Recipes_on_Symbian_OS_Telephony_Example_Code.zip\" title=\"File:Quick Recipes on Symbian OS Telephony Example Code.zip\">Quick Recipes on Symbian OS Telephony Example Code</a>');
+tamNavTreeDeveloper.add(350, 306, 'Web technologies');
+tamNavTreeDeveloper.add(351, 350, '<a href=\"/wiki/Apps:NPR_Application\" title=\"Apps:NPR Application\">Apps:NPR Application</a>');
+tamNavTreeDeveloper.add(352, 350, '<a href=\"/wiki/Apps:Flickr_Upload_DLL\" title=\"Apps:Flickr Upload DLL\">Apps:Flickr Upload DLL</a>');
+tamNavTreeDeveloper.add(353, 306, 'Book &amp; Other Mixed-API Examples');
+tamNavTreeDeveloper.add(354, 353, '<a href=\"/wiki/File:NotifierExample.zip\" title=\"File:NotifierExample.zip\">Notifiers</a>');
+tamNavTreeDeveloper.add(355, 353, '<a href=\"/wiki/File:Example_-_Modularizing_Symbian_OS_Applications.zip\" title=\"File:Example - Modularizing Symbian OS Applications.zip\">Modularizing Symbian OS Applications</a>');
+tamNavTreeDeveloper.add(356, 353, '<a href=\"/wiki/File:Fundamentals_of_Symbian_C%2B%2B_Exercises_v1.zip\" title=\"File:Fundamentals of Symbian C++ Exercises v1.zip\">Fundamentals of Symbian C++ Exercises</a>');
+tamNavTreeDeveloper.add(357, 353, '<a href=\"/wiki/File:Games_on_symbian_os_code_examples.zip\" title=\"File:Games on symbian os code examples.zip\">Games on symbian os code examples</a>');
+tamNavTreeDeveloper.add(358, 353, '<a href=\"/wiki/File:HelloSymbianWorld_Example_Code.zip\" title=\"File:HelloSymbianWorld Example Code.zip\">HelloSymbianWorld Example Code</a>');
+tamNavTreeDeveloper.add(359, 353, '<a href=\"/wiki/File:Quick_Recipes_on_Symbian_OS_Carbide.c%2B%2B_Hello_World_Template_for_S60_and_UIQ_Templates.zip\" title=\"File:Quick Recipes on Symbian OS Carbide.c++ Hello World Template for S60 and UIQ Templates.zip\">Quick Recipes on Symbian OS Carbide.c++ Hello World Template for S60 and UIQ</a>');
+tamNavTreeDeveloper.add(360, 353, '<a href=\"/wiki/File:Quick_Recipes_on_Symbian_OS_Contacts_and_Agenda_Example_Code.zip\" title=\"File:Quick Recipes on Symbian OS Contacts and Agenda Example Code.zip\">Quick Recipes on Symbian OS Contacts and Agenda Example Code</a>');
+tamNavTreeDeveloper.add(361, 353, '<a href=\"/wiki/File:Quick_Recipes_on_Symbian_OS_Handling_Example_Code.zip\" title=\"File:Quick Recipes on Symbian OS Handling Example Code.zip\">Quick Recipes on Symbian OS Handling Example Code</a>');
+tamNavTreeDeveloper.add(362, 353, '<a href=\"/wiki/File:RecipeEx.zip\" title=\"File:RecipeEx.zip\">File:RecipeEx.zip</a>');
+tamNavTreeDeveloper.add(363, 353, '<a href=\"/wiki/File:RoidsS60.zip\" title=\"File:RoidsS60.zip\">Roids S60</a>');
+tamNavTreeDeveloper.add(364, 353, '<a href=\"/wiki/File:RoidsUIQ.zip\" title=\"File:RoidsUIQ.zip\">Roids UIQ</a> (legacy)');
+tamNavTreeDeveloper.add(365, 353, '<a href=\"/wiki/File:S60_Programming_a_tutorial_source_Example_Code.zip\" title=\"File:S60 Programming a tutorial source Example Code.zip\">S60 Programming a tutorial source Example Code</a>');
+tamNavTreeDeveloper.add(366, 353, '<a href=\"/wiki/File:Symbian_OS_Communications_Programming_2nd_Edition_Example_Code.zip\" title=\"File:Symbian OS Communications Programming 2nd Edition Example Code.zip\">Symbian OS Communications Programming 2nd Edition Example Code</a>');
+tamNavTreeDeveloper.add(367, 353, '<a href=\"/wiki/File:Symbian_OS_Explained_Hercules-v7_Example_Code.zip\" title=\"File:Symbian OS Explained Hercules-v7 Example Code.zip\">Symbian OS Explained Hercules-v7 Example Code</a>');
+tamNavTreeDeveloper.add(368, 353, '<a href=\"/wiki/File:Symbian_OS_Explained_Hercules-v9_Example_Code.zip\" title=\"File:Symbian OS Explained Hercules-v9 Example Code.zip\">Symbian OS Explained Hercules-v9 Example Code</a>');
+tamNavTreeDeveloper.add(369, 353, '<a href=\"/wiki/File:Symbian_OS_cpp_for_mobile_phones_v3_Example_Code.zip\" title=\"File:Symbian OS cpp for mobile phones v3 Example Code.zip\">Symbian OS C++ for mobile phones v3 Example Code</a>');
+tamNavTreeDeveloper.add(370, 353, '<a href=\"/wiki/File:Common_Design_Patterns_for_Symbian_OS_Example_Code.zip\" title=\"File:Common Design Patterns for Symbian OS Example Code.zip\">File:Common Design Patterns for Symbian OS Example Code.zip</a>');
+tamNavTreeDeveloper.add(371, 353, '<a href=\"/wiki/File:Developing_Software_for_Symbian_OS_vol2_Example_Code.zip\" title=\"File:Developing Software for Symbian OS vol2 Example Code.zip\">Developing Software for Symbian OS vol2</a>');
+tamNavTreeDeveloper.add(372, 353, '<a href=\"/wiki/File:Symbian_os_communications_programming_book_v2_example_code.zip\" title=\"File:Symbian os communications programming book v2 example code.zip\">Symbian os communications programming book v2 example code</a>');
+tamNavTreeDeveloper.add(373, 306, 'Porting');
+tamNavTreeDeveloper.add(374, 373, '<a href=\"/wiki/File:PortingFromLinux_GuitarTunerExample.zip\" title=\"File:PortingFromLinux GuitarTunerExample.zip\">Guitar Tuner Example</a>');
+tamNavTreeDeveloper.add(375, 306, '<a href=\"/wiki/Skeleton_Code_Example_Release_Notes_Topic\" title=\"Skeleton Code Example Release Notes Topic\">Skeleton Code Example Release Notes Topic</a>');
+tamNavTreeDeveloper.add(376, 306, '<a href=\"/wiki/Category:Symbian_C%2B%2B_Code_Example\" title=\"Category:Symbian C++ Code Example\">All Examples</a>');
+tamNavTreeDeveloper.add(377, 149, 'Debugging');
+tamNavTreeDeveloper.add(378, 377, '<a href=\"/wiki/Debugging_on_the_Device_Quick_Start\" title=\"Debugging on the Device Quick Start\">Debugging on the Device Quick Start</a>');
+tamNavTreeDeveloper.add(379, 377, '<a href=\"/wiki/Analyzing_Application_Performance_with_the_Carbide.c%2B%2B_Performance_Investigator\" title=\"Analyzing Application Performance with the Carbide.c++ Performance Investigator\">Analyzing Application Performance with the Carbide.c++ Performance Investigator</a>');
+tamNavTreeDeveloper.add(380, 377, '<a href=\"/wiki/Coverity_Prevent_on_the_Symbian_Platform\" title=\"Coverity Prevent on the Symbian Platform\">Coverity Prevent on the Symbian Platform</a>');
+tamNavTreeDeveloper.add(381, 149, '<a href=\"/wiki/Accredited_Symbian_Developer_Quick_Start\" title=\"Accredited Symbian Developer Quick Start\">Accreditation</a>');
+tamNavTreeDeveloper.add(382, 149, '<a href=\"/wiki/Category:Symbian_C%2B%2B\" title=\"Category:Symbian C++\">All Symbian C++ Content</a>');
+tamNavTreeDeveloper.add(383, 2, 'Other Programming Environments');
+tamNavTreeDeveloper.add(384, 383, 'Java ME');
+tamNavTreeDeveloper.add(385, 384, '<a href=\"/wiki/Apps:Java_ME_Quick_Start\" title=\"Apps:Java ME Quick Start\">Quick Start</a>');
+tamNavTreeDeveloper.add(386, 384, '<a href=\"/wiki/Apps:About_Java_ME_(Trail)\" title=\"Apps:About Java ME (Trail)\">About Java ME</a>');
+tamNavTreeDeveloper.add(387, 386, '<a href=\"/wiki/Apps:Java_ME_in_a_Nutshell\" title=\"Apps:Java ME in a Nutshell\">Nutshell</a>');
+tamNavTreeDeveloper.add(388, 386, '<a href=\"/wiki/Apps:Java_ME_Technical_Overview\" title=\"Apps:Java ME Technical Overview\">Technical Overview</a>');
+tamNavTreeDeveloper.add(389, 386, '<a href=\"/wiki/Apps:Java_ME_Terminology\" title=\"Apps:Java ME Terminology\">Terminology</a>');
+tamNavTreeDeveloper.add(390, 384, '<a href=\"/wiki/Apps:Getting_Started_with_Java_ME_(Trail)\" title=\"Apps:Getting Started with Java ME (Trail)\">Get Started</a>');
+tamNavTreeDeveloper.add(391, 390, '<a href=\"/wiki/Apps:Java_ME_SDK_%26_Tools\" title=\"Apps:Java ME SDK &amp; Tools\">Java ME SDK &amp; Tools</a>');
+tamNavTreeDeveloper.add(392, 390, '<a href=\"/wiki/Apps:Java_ME_Debugging_%26_Testing\" title=\"Apps:Java ME Debugging &amp; Testing\">Debugging &amp; Testing</a>');
+tamNavTreeDeveloper.add(393, 390, '<a href=\"/wiki/Apps:Java_Verified\" title=\"Apps:Java Verified\">Signing</a>');
+tamNavTreeDeveloper.add(394, 384, 'Programming with Java ME');
+tamNavTreeDeveloper.add(395, 394, '<a href=\"/wiki/Creating_Location-Aware_Applications#Java_technology\" title=\"Creating Location-Aware Applications\" class=\"mw-redirect\">Location Aware Apps</a>');
+tamNavTreeDeveloper.add(396, 394, '<a href=\"/wiki/Apps:Writing_MIDP_2.0_Games\" title=\"Apps:Writing MIDP 2.0 Games\">Apps:Writing MIDP 2.0 Games</a>');
+tamNavTreeDeveloper.add(397, 384, '<a href=\"/wiki/Category:Java_ME_Code_Example\" title=\"Category:Java ME Code Example\">Examples</a>');
+tamNavTreeDeveloper.add(398, 397, '<a href=\"/wiki/File:Third_Degree_Game_Example_Code.zip\" title=\"File:Third Degree Game Example Code.zip\">File:Third Degree Game Example Code.zip</a>');
+tamNavTreeDeveloper.add(399, 384, '<a href=\"/wiki/Category:Java_ME\" title=\"Category:Java ME\">All Java ME Content</a>');
+tamNavTreeDeveloper.add(400, 383, 'Python');
+tamNavTreeDeveloper.add(401, 400, '<a href=\"/wiki/Apps:Python_Quick_Start\" title=\"Apps:Python Quick Start\">Quick Start</a>');
+tamNavTreeDeveloper.add(402, 400, '<a href=\"/wiki/Apps:Python_Reference_Library\" title=\"Apps:Python Reference Library\">Python Reference Library</a>');
+tamNavTreeDeveloper.add(403, 400, '<a href=\"/wiki/Apps:About_Python_on_Symbian_(Trail)\" title=\"Apps:About Python on Symbian (Trail)\">About Python</a>');
+tamNavTreeDeveloper.add(404, 403, '<a href=\"/wiki/Apps:Python_in_a_Nutshell\" title=\"Apps:Python in a Nutshell\">Nutshell</a>');
+tamNavTreeDeveloper.add(405, 403, '<a href=\"/wiki/Apps:Python_Technical_Overview\" title=\"Apps:Python Technical Overview\">Technical Overview</a>');
+tamNavTreeDeveloper.add(406, 403, '<a href=\"/wiki/Apps:Python_Q%26As\" title=\"Apps:Python Q&amp;As\">Q&amp;As</a>');
+tamNavTreeDeveloper.add(407, 403, '<a href=\"/wiki/Apps:Python_Downloads\" title=\"Apps:Python Downloads\">Python Downloads</a>');
+tamNavTreeDeveloper.add(408, 403, '<a href=\"/wiki/Python_on_Symbian/01._Introduction\" title=\"Python on Symbian/01. Introduction\" class=\"mw-redirect\">Python on Symbian Book</a>');
+tamNavTreeDeveloper.add(409, 400, '<a href=\"/wiki/Apps:Getting_Started_with_Python_(Trail)\" title=\"Apps:Getting Started with Python (Trail)\">Getting Started</a>');
+tamNavTreeDeveloper.add(410, 409, '<a href=\"/wiki/Apps:Downloading_and_Installing_Python_on_Symbian\" title=\"Apps:Downloading and Installing Python on Symbian\">SDK &amp; Tools</a>');
+tamNavTreeDeveloper.add(411, 409, '<a href=\"/wiki/Apps:Python_Hello_World\" title=\"Apps:Python Hello World\">Hello World</a>');
+tamNavTreeDeveloper.add(412, 409, '<a href=\"/wiki/Apps:Python_Application_Packaging_%26_Distribution\" title=\"Apps:Python Application Packaging &amp; Distribution\">Packaging &amp; Distribution</a>');
+tamNavTreeDeveloper.add(413, 400, 'Programming with Python');
+tamNavTreeDeveloper.add(414, 413, '<a href=\"/wiki/Apps:Python_on_Symbian\" title=\"Apps:Python on Symbian\">Python on Symbian Book</a>');
+tamNavTreeDeveloper.add(415, 413, '<a href=\"/wiki/Apps:Python_on_Symbian/02._Basic_Python_Elements\" title=\"Apps:Python on Symbian/02. Basic Python Elements\">Basic Python Elements</a>');
+tamNavTreeDeveloper.add(416, 413, '<a href=\"/wiki/Apps:Python_on_Symbian/03._System_Information_and_Operations\" title=\"Apps:Python on Symbian/03. System Information and Operations\">System Info &amp; Operations</a>');
+tamNavTreeDeveloper.add(417, 413, '<a href=\"/wiki/Apps:Python_on_Symbian/04._Basic_User_Interface\" title=\"Apps:Python on Symbian/04. Basic User Interface\">Basic UI</a>');
+tamNavTreeDeveloper.add(418, 413, '<a href=\"/wiki/Apps:Python_on_Symbian/15._Platform_Security_and_Application_Signing\" title=\"Apps:Python on Symbian/15. Platform Security and Application Signing\">Platform Security/Signing</a>');
+tamNavTreeDeveloper.add(419, 413, '<a href=\"/wiki/Apps:Python_on_Symbian/16._Standalone_Applications\" title=\"Apps:Python on Symbian/16. Standalone Applications\">Standalone Applications</a>');
+tamNavTreeDeveloper.add(420, 413, '<a href=\"/wiki/Apps:Python_on_Symbian/08._Touch_User_Interface\" title=\"Apps:Python on Symbian/08. Touch User Interface\">Touch UI</a>');
+tamNavTreeDeveloper.add(421, 413, '<a href=\"/wiki/Apps:Python_on_Symbian/05._Contacts_and_Calendar\" title=\"Apps:Python on Symbian/05. Contacts and Calendar\">Contacts &amp; Calendar</a>');
+tamNavTreeDeveloper.add(422, 413, '<a href=\"/wiki/Apps:Python_on_Symbian/06._Telephony_and_Messaging\" title=\"Apps:Python on Symbian/06. Telephony and Messaging\">Telephony &amp; Messaging</a>');
+tamNavTreeDeveloper.add(423, 413, '<a href=\"/wiki/Apps:Python_on_Symbian/07._Graphics_and_Multimedia\" title=\"Apps:Python on Symbian/07. Graphics and Multimedia\">Graphics &amp; Multimedia</a>');
+tamNavTreeDeveloper.add(424, 413, '<a href=\"/wiki/Apps:Python_on_Symbian/10._Location_Based_Services\" title=\"Apps:Python on Symbian/10. Location Based Services\">Location Services</a>');
+tamNavTreeDeveloper.add(425, 413, '<a href=\"/wiki/Apps:Python_on_Symbian/11._Sensor_Framework\" title=\"Apps:Python on Symbian/11. Sensor Framework\">Sensor Framework</a>');
+tamNavTreeDeveloper.add(426, 413, '<a href=\"/wiki/Apps:Python_on_Symbian/12._Platform_Services\" title=\"Apps:Python on Symbian/12. Platform Services\">Platform Services</a>');
+tamNavTreeDeveloper.add(427, 413, 'Networking');
+tamNavTreeDeveloper.add(428, 427, '<a href=\"/wiki/Apps:Python_on_Symbian/09._Basic_Network_Programming\" title=\"Apps:Python on Symbian/09. Basic Network Programming\">Basic Networking</a>');
+tamNavTreeDeveloper.add(429, 427, '<a href=\"/wiki/Apps:Python_on_Symbian/14._Advanced_Network_Programming\" title=\"Apps:Python on Symbian/14. Advanced Network Programming\">Advanced Networking</a>');
+tamNavTreeDeveloper.add(430, 427, '<a href=\"/wiki/Apps:Controlling_a_device_remotely_using_Python\" title=\"Apps:Controlling a device remotely using Python\">Controlling a device remotely</a>');
+tamNavTreeDeveloper.add(431, 413, '<a href=\"/wiki/Apps:Python_on_Symbian/17._Debugging_Techniques\" title=\"Apps:Python on Symbian/17. Debugging Techniques\">Debugging</a>');
+tamNavTreeDeveloper.add(432, 413, '<a href=\"/wiki/Apps:Python_on_Symbian/13._Extending_Python_on_Symbian\" title=\"Apps:Python on Symbian/13. Extending Python on Symbian\">Extending Python</a>');
+tamNavTreeDeveloper.add(433, 400, 'Examples');
+tamNavTreeDeveloper.add(434, 433, '<a href=\"/wiki/Category:Python_Code_Example\" title=\"Category:Python Code Example\">All Examples</a>');
+tamNavTreeDeveloper.add(435, 433, '<a href=\"/wiki/File:PythonHelloWorld.zip\" title=\"File:PythonHelloWorld.zip\">Hello World</a>');
+tamNavTreeDeveloper.add(436, 433, 'Basic UI');
+tamNavTreeDeveloper.add(437, 436, '<a href=\"/wiki/File:PythonOnSymbianBookExampleCode_ApplicationUI.zip\" title=\"File:PythonOnSymbianBookExampleCode ApplicationUI.zip\">Application UI</a>');
+tamNavTreeDeveloper.add(438, 436, '<a href=\"/wiki/File:PythonOnSymbianBookExampleCode_appuifw_notes.zip\" title=\"File:PythonOnSymbianBookExampleCode appuifw notes.zip\">Notes</a>');
+tamNavTreeDeveloper.add(439, 436, '<a href=\"/wiki/File:PythonOnSymbianBookExampleCode_appuifw_popup_menu.zip\" title=\"File:PythonOnSymbianBookExampleCode appuifw popup menu.zip\">Popup Menu</a>');
+tamNavTreeDeveloper.add(440, 436, '<a href=\"/wiki/File:PythonOnSymbianBookExampleCode_appuifw_queries.zip\" title=\"File:PythonOnSymbianBookExampleCode appuifw queries.zip\">Queries</a>');
+tamNavTreeDeveloper.add(441, 436, '<a href=\"/wiki/File:PythonOnSymbianBookExampleCode_Double_listbox.zip\" title=\"File:PythonOnSymbianBookExampleCode Double listbox.zip\">Double Listbox</a> ');
+tamNavTreeDeveloper.add(442, 436, '<a href=\"/wiki/File:PythonOnSymbianBookExampleCode_Form.zip\" title=\"File:PythonOnSymbianBookExampleCode Form.zip\">Form</a>');
+tamNavTreeDeveloper.add(443, 436, '<a href=\"/wiki/File:PythonOnSymbianBookExampleCode_globalui_notes.zip\" title=\"File:PythonOnSymbianBookExampleCode globalui notes.zip\">Global Note</a>');
+tamNavTreeDeveloper.add(444, 436, '<a href=\"/wiki/File:PythonOnSymbianBookExampleCode_globalui_popup_menu.zip\" title=\"File:PythonOnSymbianBookExampleCode globalui popup menu.zip\">Global Popup Menu</a>');
+tamNavTreeDeveloper.add(445, 436, '<a href=\"/wiki/File:PythonOnSymbianBookExampleCode_globalui_queries.zip\" title=\"File:PythonOnSymbianBookExampleCode globalui queries.zip\">Global Queries</a>');
+tamNavTreeDeveloper.add(446, 436, '<a href=\"/wiki/File:PythonOnSymbianBookExampleCode_Infopopup.zip\" title=\"File:PythonOnSymbianBookExampleCode Infopopup.zip\">Info Popup</a>');
+tamNavTreeDeveloper.add(447, 436, '<a href=\"/wiki/File:PythonOnSymbianBookExampleCode_Menu_with_submenu.zip\" title=\"File:PythonOnSymbianBookExampleCode Menu with submenu.zip\">Menu+submenu</a>');
+tamNavTreeDeveloper.add(448, 436, '<a href=\"/wiki/File:PythonOnSymbianBookExampleCode_Multi_selection_list.zip\" title=\"File:PythonOnSymbianBookExampleCode Multi selection list.zip\">Multi selection list</a>');
+tamNavTreeDeveloper.add(449, 436, '<a href=\"/wiki/File:PythonOnSymbianBookExampleCode_Orientation.zip\" title=\"File:PythonOnSymbianBookExampleCode Orientation.zip\">Orientation</a> ');
+tamNavTreeDeveloper.add(450, 436, '<a href=\"/wiki/File:PythonOnSymbianBookExampleCode_Screen_size.zip\" title=\"File:PythonOnSymbianBookExampleCode Screen size.zip\">Screen Size</a>');
+tamNavTreeDeveloper.add(451, 436, '<a href=\"/wiki/File:PythonOnSymbianBookExampleCode_Simple_menu.zip\" title=\"File:PythonOnSymbianBookExampleCode Simple menu.zip\">Simple menu</a>');
+tamNavTreeDeveloper.add(452, 436, '<a href=\"/wiki/File:PythonOnSymbianBookExampleCode_Single_listbox.zip\" title=\"File:PythonOnSymbianBookExampleCode Single listbox.zip\">Single Listbox</a>');
+tamNavTreeDeveloper.add(453, 436, '<a href=\"/wiki/File:PythonOnSymbianBookExampleCode_Tabs.zip\" title=\"File:PythonOnSymbianBookExampleCode Tabs.zip\">Tabs</a>');
+tamNavTreeDeveloper.add(454, 436, '<a href=\"/wiki/File:PythonOnSymbianBookExampleCode_Text.zip\" title=\"File:PythonOnSymbianBookExampleCode Text.zip\">Text</a>');
+tamNavTreeDeveloper.add(455, 436, '<a href=\"/wiki/File:PythonOnSymbianBookExampleCode_TopWindow.zip\" title=\"File:PythonOnSymbianBookExampleCode TopWindow.zip\">Top Window</a>');
+tamNavTreeDeveloper.add(456, 433, 'Touch UI');
+tamNavTreeDeveloper.add(457, 456, '<a href=\"/wiki/File:PythonOnSymbianBookExampleCode_TouchOnFullscreen.zip\" title=\"File:PythonOnSymbianBookExampleCode TouchOnFullscreen.zip\">Touch on Fullscreen</a>');
+tamNavTreeDeveloper.add(458, 456, '<a href=\"/wiki/File:PythonOnSymbianBookExampleCode_TouchWithinRectangle.zip\" title=\"File:PythonOnSymbianBookExampleCode TouchWithinRectangle.zip\">Touch within Rectangle</a>');
+tamNavTreeDeveloper.add(459, 456, '<a href=\"/wiki/File:PythonOnSymbianBookExampleCode_TouchArbitaryRegions.zip\" title=\"File:PythonOnSymbianBookExampleCode TouchArbitaryRegions.zip\">Touch Arbitrary Regions</a>');
+tamNavTreeDeveloper.add(460, 456, '<a href=\"/wiki/File:PythonOnSymbianBookExampleCode_TouchyPaint.zip\" title=\"File:PythonOnSymbianBookExampleCode TouchyPaint.zip\">Paint Application (touch)</a>');
+tamNavTreeDeveloper.add(461, 456, '<a href=\"/wiki/File:PythonOnSymbianBookExampleCode_TicTacToe.zip\" title=\"File:PythonOnSymbianBookExampleCode TicTacToe.zip\">Tic-Tac-Toe (touch)</a>');
+tamNavTreeDeveloper.add(462, 433, 'Contacts');
+tamNavTreeDeveloper.add(463, 462, '<a href=\"/wiki/File:PythonOnSymbianBookExampleCode_AddContact.zip\" title=\"File:PythonOnSymbianBookExampleCode AddContact.zip\">Add Contact</a>');
+tamNavTreeDeveloper.add(464, 462, '<a href=\"/wiki/File:PythonOnSymbianBookExampleCode_AddToContactGroup.zip\" title=\"File:PythonOnSymbianBookExampleCode AddToContactGroup.zip\">Add to Group</a>');
+tamNavTreeDeveloper.add(465, 462, '<a href=\"/wiki/File:PythonOnSymbianBookExampleCode_DeleteContact.zip\" title=\"File:PythonOnSymbianBookExampleCode DeleteContact.zip\">Delete Contact</a>');
+tamNavTreeDeveloper.add(466, 462, '<a href=\"/wiki/File:PythonOnSymbianBookExampleCode_DeleteContactsGroup.zip\" title=\"File:PythonOnSymbianBookExampleCode DeleteContactsGroup.zip\">Delete Group</a>');
+tamNavTreeDeveloper.add(467, 462, '<a href=\"/wiki/File:PythonOnSymbianBookExampleCode_ModifyContact1.zip\" title=\"File:PythonOnSymbianBookExampleCode ModifyContact1.zip\">Modify Contact1</a>');
+tamNavTreeDeveloper.add(468, 462, '<a href=\"/wiki/File:PythonOnSymbianBookExampleCode_ModifyContact2.zip\" title=\"File:PythonOnSymbianBookExampleCode ModifyContact2.zip\">Modify Contact2</a>');
+tamNavTreeDeveloper.add(469, 462, '<a href=\"/wiki/File:PythonOnSymbianBookExampleCode_CreateContactsGroup.zip\" title=\"File:PythonOnSymbianBookExampleCode CreateContactsGroup.zip\">Create Group</a>');
+tamNavTreeDeveloper.add(470, 462, '<a href=\"/wiki/File:PythonOnSymbianBookExampleCode_RetrieveExistingContactGroups.zip\" title=\"File:PythonOnSymbianBookExampleCode RetrieveExistingContactGroups.zip\">List Groups</a>');
+tamNavTreeDeveloper.add(471, 433, 'Calendar');
+tamNavTreeDeveloper.add(472, 471, '<a href=\"/wiki/File:PythonOnSymbianBookExampleCode_AddCalendarEntry.zip\" title=\"File:PythonOnSymbianBookExampleCode AddCalendarEntry.zip\">Add Calendar Entry</a>');
+tamNavTreeDeveloper.add(473, 471, '<a href=\"/wiki/File:PythonOnSymbianBookExampleCode_AnniversaryEntry.zip\" title=\"File:PythonOnSymbianBookExampleCode AnniversaryEntry.zip\">Add Anniversary</a>');
+tamNavTreeDeveloper.add(474, 471, '<a href=\"/wiki/File:PythonOnSymbianBookExampleCode_DisplayCalendarEntries.zip\" title=\"File:PythonOnSymbianBookExampleCode DisplayCalendarEntries.zip\">Display Entries</a>');
+tamNavTreeDeveloper.add(475, 471, '<a href=\"/wiki/File:PythonOnSymbianBookExampleCode_RepeatedAnniversaryEntry.zip\" title=\"File:PythonOnSymbianBookExampleCode RepeatedAnniversaryEntry.zip\">Repeat Entries</a>');
+tamNavTreeDeveloper.add(476, 471, '<a href=\"/wiki/File:PythonOnSymbianBookExampleCode_ToDoEntry.zip\" title=\"File:PythonOnSymbianBookExampleCode ToDoEntry.zip\">Add Todo</a>');
+tamNavTreeDeveloper.add(477, 433, 'Telephony');
+tamNavTreeDeveloper.add(478, 477, '<a href=\"/wiki/File:PythonOnSymbianBookExampleCode_CallNotes.zip\" title=\"File:PythonOnSymbianBookExampleCode CallNotes.zip\">Call Notes</a>');
+tamNavTreeDeveloper.add(479, 433, 'Messaging');
+tamNavTreeDeveloper.add(480, 479, '<a href=\"/wiki/File:PythonOnSymbianBookExampleCode_SmsAutoReply.zip\" title=\"File:PythonOnSymbianBookExampleCode SmsAutoReply.zip\">SMS Auto Reply</a>');
+tamNavTreeDeveloper.add(481, 433, 'Graphics');
+tamNavTreeDeveloper.add(482, 481, '<a href=\"/wiki/File:PythonOnSymbianBookExampleCode_CanvasShapes.zip\" title=\"File:PythonOnSymbianBookExampleCode CanvasShapes.zip\">Canvas Shapes</a>');
+tamNavTreeDeveloper.add(483, 481, '<a href=\"/wiki/File:PythonOnSymbianBookExampleCode_CanvasText.zip\" title=\"File:PythonOnSymbianBookExampleCode CanvasText.zip\">Canvas Text</a>');
+tamNavTreeDeveloper.add(484, 481, '<a href=\"/wiki/File:PythonOnSymbianBookExampleCode_ImageEditing.zip\" title=\"File:PythonOnSymbianBookExampleCode ImageEditing.zip\">Image Editing</a>');
+tamNavTreeDeveloper.add(485, 433, 'Multimedia');
+tamNavTreeDeveloper.add(486, 485, '<a href=\"/wiki/File:PythonOnSymbianBookExampleCode_PyMPlayer.zip\" title=\"File:PythonOnSymbianBookExampleCode PyMPlayer.zip\">Music Player</a>');
+tamNavTreeDeveloper.add(487, 485, '<a href=\"/wiki/File:PythonOnSymbianBookExampleCode_PySymCamera.zip\" title=\"File:PythonOnSymbianBookExampleCode PySymCamera.zip\">Camera App</a>');
+tamNavTreeDeveloper.add(488, 485, '<a href=\"/wiki/File:PythonOnSymbianBookExampleCode_RecordVideo.zip\" title=\"File:PythonOnSymbianBookExampleCode RecordVideo.zip\">Video Recorder</a>');
+tamNavTreeDeveloper.add(489, 485, '<a href=\"/wiki/File:PythonOnSymbianBookExampleCode_ScreenShot.zip\" title=\"File:PythonOnSymbianBookExampleCode ScreenShot.zip\">Screen Shot</a>');
+tamNavTreeDeveloper.add(490, 485, '<a href=\"/wiki/File:PythonOnSymbianBookExampleCode_SoundFiles.zip\" title=\"File:PythonOnSymbianBookExampleCode SoundFiles.zip\">Sound Files</a>');
+tamNavTreeDeveloper.add(491, 485, '<a href=\"/wiki/File:PythonOnSymbianBookExampleCode_TakeMaxresPhoto.zip\" title=\"File:PythonOnSymbianBookExampleCode TakeMaxresPhoto.zip\">Take Photo High Res</a>');
+tamNavTreeDeveloper.add(492, 485, '<a href=\"/wiki/File:PythonOnSymbianBookExampleCode_TakePhoto.zip\" title=\"File:PythonOnSymbianBookExampleCode TakePhoto.zip\">Take Photo</a>');
+tamNavTreeDeveloper.add(493, 485, '<a href=\"/wiki/File:PythonOnSymbianBookExampleCode_TextToSpeech.zip\" title=\"File:PythonOnSymbianBookExampleCode TextToSpeech.zip\">Text to Speech</a>');
+tamNavTreeDeveloper.add(494, 485, '<a href=\"/wiki/File:PythonOnSymbianBookExampleCode_UsingViewFinder.zip\" title=\"File:PythonOnSymbianBookExampleCode UsingViewFinder.zip\">Using View Finder</a>');
+tamNavTreeDeveloper.add(495, 433, 'Location');
+tamNavTreeDeveloper.add(496, 495, '<a href=\"/wiki/File:PythonOnSymbianBookExampleCode_WhereAmI.zip\" title=\"File:PythonOnSymbianBookExampleCode WhereAmI.zip\">Where Am I App</a>');
+tamNavTreeDeveloper.add(497, 433, 'Sensor');
+tamNavTreeDeveloper.add(498, 497, '<a href=\"/wiki/File:PythonOnSymbianBookExampleCode_SensorBall.zip\" title=\"File:PythonOnSymbianBookExampleCode SensorBall.zip\">Sensor Ball</a>');
+tamNavTreeDeveloper.add(499, 433, 'Platform Services');
+tamNavTreeDeveloper.add(500, 499, 'None');
+tamNavTreeDeveloper.add(501, 433, 'Networking');
+tamNavTreeDeveloper.add(502, 501, '<a href=\"/wiki/File:PythonOnSymbianBookExampleCode_Ch09BasicNetProg.zip\" title=\"File:PythonOnSymbianBookExampleCode Ch09BasicNetProg.zip\">Basic Networking</a>');
+tamNavTreeDeveloper.add(503, 501, '<a href=\"/wiki/File:PythonOnSymbianBookExampleCode_Ch14AdvNetProg.zip\" title=\"File:PythonOnSymbianBookExampleCode Ch14AdvNetProg.zip\">Advanced Networking</a>');
+tamNavTreeDeveloper.add(504, 433, 'Extending Python');
+tamNavTreeDeveloper.add(505, 504, '<a href=\"/wiki/File:PythonOnSymbianBookExampleCode_ExtendingPython.zip\" title=\"File:PythonOnSymbianBookExampleCode ExtendingPython.zip\">Demo Math extension</a>');
+tamNavTreeDeveloper.add(506, 433, 'Localisation');
+tamNavTreeDeveloper.add(507, 506, '<a href=\"/wiki/File:PythonOnSymbianBookExampleCode_Localization.zip\" title=\"File:PythonOnSymbianBookExampleCode Localization.zip\">Localisation</a>');
+tamNavTreeDeveloper.add(508, 433, 'Applications/Other');
+tamNavTreeDeveloper.add(509, 508, '<a href=\"/wiki/File:PythonOnSymbianBookExampleCode_RegistrationCode.zip\" title=\"File:PythonOnSymbianBookExampleCode RegistrationCode.zip\">App Registration Code</a>');
+tamNavTreeDeveloper.add(510, 400, 'Sign and Deploy');
+tamNavTreeDeveloper.add(511, 510, '<a href=\"/wiki/Apps:Python_Application_Signing\" title=\"Apps:Python Application Signing\">Python Application Signing</a>');
+tamNavTreeDeveloper.add(512, 400, '<a href=\"/wiki/Category:Python\" title=\"Category:Python\">All Python Content</a>');
+tamNavTreeDeveloper.add(513, 383, 'Flash Lite');
+tamNavTreeDeveloper.add(514, 513, '<a href=\"/wiki/Apps:Flash_Lite_Quick_Start\" title=\"Apps:Flash Lite Quick Start\">Quick Start</a>');
+tamNavTreeDeveloper.add(515, 513, 'About Flash');
+tamNavTreeDeveloper.add(516, 515, '<a href=\"/wiki/Apps:Flash_Lite_in_a_Nutshell\" title=\"Apps:Flash Lite in a Nutshell\">Nutshell</a>');
+tamNavTreeDeveloper.add(517, 515, '<a href=\"/wiki/Apps:Flash_Lite_Technical_Overview\" title=\"Apps:Flash Lite Technical Overview\">Technical Overview</a>');
+tamNavTreeDeveloper.add(518, 513, '<a href=\"/wiki/Apps:Getting_Started_with_Flash_Lite_(Trail)\" title=\"Apps:Getting Started with Flash Lite (Trail)\">Getting Started</a>');
+tamNavTreeDeveloper.add(519, 518, '<a href=\"/wiki/Apps:Flash_Lite_SDK_%26_Tools\" title=\"Apps:Flash Lite SDK &amp; Tools\">SDK &amp; Tools</a>');
+tamNavTreeDeveloper.add(520, 518, '<a href=\"/wiki/Apps:Flash_Lite_Hello_World\" title=\"Apps:Flash Lite Hello World\">Hello World</a>');
+tamNavTreeDeveloper.add(521, 518, '<a href=\"/wiki/Apps:Flash_Lite_Packaging_%26_Distribution\" title=\"Apps:Flash Lite Packaging &amp; Distribution\">Packaging &amp; Distribution</a>');
+tamNavTreeDeveloper.add(522, 518, '<a href=\"/wiki/Apps:Flash_Lite_Photo_Viewer_Example\" title=\"Apps:Flash Lite Photo Viewer Example\">Photo Viewer Tutorial</a>');
+tamNavTreeDeveloper.add(523, 513, 'Programming with Flash');
+tamNavTreeDeveloper.add(524, 523, '<a href=\"/wiki/Apps:Multi-Language_Programming_-_Extending_Flash_Lite_with_Java_ME_or_Symbian_C%2B%2B\" title=\"Apps:Multi-Language Programming - Extending Flash Lite with Java ME or Symbian C++\">Extending Flash Lite</a>');
+tamNavTreeDeveloper.add(525, 513, '<a href=\"/wiki/Category:Flash_Lite_Code_Example\" title=\"Category:Flash Lite Code Example\">Examples</a>');
+tamNavTreeDeveloper.add(526, 525, '<a href=\"/wiki/File:Hello_Symbian_Flash_Lite.sis\" title=\"File:Hello Symbian Flash Lite.sis\">File:Hello Symbian Flash Lite.sis</a>');
+tamNavTreeDeveloper.add(527, 525, '<a href=\"/wiki/File:OSCON2009_FlashLite_FlickrExample.zip\" title=\"File:OSCON2009 FlashLite FlickrExample.zip\">File:OSCON2009 FlashLite FlickrExample.zip</a>');
+tamNavTreeDeveloper.add(528, 513, 'Sign and Deploy');
+tamNavTreeDeveloper.add(529, 528, '<a href=\"/wiki/Apps:Symbian_Signed_for_Flash_Lite_Applications\" title=\"Apps:Symbian Signed for Flash Lite Applications\">Signing</a>');
+tamNavTreeDeveloper.add(530, 513, '<a href=\"/wiki/Category:Flash_Lite\" title=\"Category:Flash Lite\">All Flash Lite Content</a>');
+tamNavTreeDeveloper.add(531, 383, 'Ruby');
+tamNavTreeDeveloper.add(532, 531, '<a href=\"/wiki/Apps:Ruby_Quick_Start\" title=\"Apps:Ruby Quick Start\">Quick Start</a>');
+tamNavTreeDeveloper.add(533, 531, '<a href=\"/wiki/Apps:About_Ruby_on_Symbian_(Trail)\" title=\"Apps:About Ruby on Symbian (Trail)\">About Ruby</a>');
+tamNavTreeDeveloper.add(534, 533, '<a href=\"/wiki/Apps:Ruby_in_a_Nutshell\" title=\"Apps:Ruby in a Nutshell\">Nutshell</a>');
+tamNavTreeDeveloper.add(535, 533, '<a href=\"/wiki/Apps:Ruby_Technical_Overview\" title=\"Apps:Ruby Technical Overview\">Technical Overview</a>');
+tamNavTreeDeveloper.add(536, 533, '<a href=\"/wiki/Apps:Ruby_Q%26As\" title=\"Apps:Ruby Q&amp;As\">Q&amp;As</a>');
+tamNavTreeDeveloper.add(537, 531, '<a href=\"/wiki/Apps:Getting_Started_with_Ruby_(Trail)\" title=\"Apps:Getting Started with Ruby (Trail)\">Getting Started</a>');
+tamNavTreeDeveloper.add(538, 537, '<a href=\"/wiki/Apps:Downloading_and_Installing_Ruby_on_Symbian\" title=\"Apps:Downloading and Installing Ruby on Symbian\">Download and Install</a>');
+tamNavTreeDeveloper.add(539, 537, '<a href=\"/wiki/Apps:Ruby_Hello_World_Tutorial\" title=\"Apps:Ruby Hello World Tutorial\">Hello World</a>');
+tamNavTreeDeveloper.add(540, 531, '<a href=\"/wiki/Category:Ruby\" title=\"Category:Ruby\">All Ruby Content</a>');
+tamNavTreeDeveloper.add(541, 1, 'Sign and Deploy');
+tamNavTreeDeveloper.add(542, 541, '<a href=\"/wiki/Apps:About_Application_Signing\" title=\"Apps:About Application Signing\">About Signing</a> ');
+tamNavTreeDeveloper.add(543, 541, 'Symbian Signed');
+tamNavTreeDeveloper.add(544, 543, 'Introduction');
+tamNavTreeDeveloper.add(545, 544, '<a href=\"/wiki/Apps:Complete_Guide_To_Symbian_Signed\" title=\"Apps:Complete Guide To Symbian Signed\">Complete Guide to Symbian Signed</a>');
+tamNavTreeDeveloper.add(546, 544, '<a href=\"/wiki/Apps:Symbian_Signed_Q%26As\" title=\"Apps:Symbian Signed Q&amp;As\">Symbian Signed Q&amp;As</a>');
+tamNavTreeDeveloper.add(547, 543, 'Testing');
+tamNavTreeDeveloper.add(548, 547, '<a href=\"/wiki/Apps:Guide_to_Symbian_Signed_Testing\" title=\"Apps:Guide to Symbian Signed Testing\">Guide to Symbian Signed Testing</a>');
+tamNavTreeDeveloper.add(549, 547, '<a href=\"/wiki/Apps:Symbian_Signed_Test_Criteria_V4_Wiki_version#Test_Criteria\" title=\"Apps:Symbian Signed Test Criteria V4 Wiki version\">Symbian Signed Test Critieria</a>');
+tamNavTreeDeveloper.add(550, 547, '<a href=\"/wiki/Apps:Symbian_Signed_Device_Table_(for_v4_of_test_criteria)\" title=\"Apps:Symbian Signed Device Table (for v4 of test criteria)\">Symbian Signed Device Table</a>');
+tamNavTreeDeveloper.add(551, 547, '<a href=\"/wiki/Apps:Symbian_Signed_For_Testing_Your_Application\" title=\"Apps:Symbian Signed For Testing Your Application\">Symbian Signed for Testing your App</a>');
+tamNavTreeDeveloper.add(552, 547, '<a href=\"/wiki/Apps:Ten_Top_Tips_To_Passing_Symbian_Signed_Testing\" title=\"Apps:Ten Top Tips To Passing Symbian Signed Testing\">Ten Top Tips To Passing Symbian Signed Testing</a>');
+tamNavTreeDeveloper.add(553, 547, '<a href=\"/wiki/Apps:Symbian_Signed_Changes_March_2010_-_Q%26As\" title=\"Apps:Symbian Signed Changes March 2010 - Q&amp;As\">Symbian Signed Change March 2010 Q&amp;A</a>');
+tamNavTreeDeveloper.add(554, 543, 'Express Signed');
+tamNavTreeDeveloper.add(555, 554, '<a href=\"/wiki/Apps:Express_Signed_(Symbian_Signed)\" title=\"Apps:Express Signed (Symbian Signed)\">Express Signed</a>');
+tamNavTreeDeveloper.add(556, 554, '<a href=\"/wiki/Apps:Express_Signed_Audit_(Symbian_Signed)\" title=\"Apps:Express Signed Audit (Symbian Signed)\">Express Signed Audit</a>');
+tamNavTreeDeveloper.add(557, 543, 'Certified Signed');
+tamNavTreeDeveloper.add(558, 557, '<a href=\"/wiki/Apps:Certified_Signed_(Symbian_Signed)\" title=\"Apps:Certified Signed (Symbian Signed)\">Certified Signed</a>');
+tamNavTreeDeveloper.add(559, 557, '<a href=\"/wiki/Apps:Symbian_Signed_Test_House\" title=\"Apps:Symbian Signed Test House\">Symbian Signed Test House</a>');
+tamNavTreeDeveloper.add(560, 557, '<a href=\"/wiki/Apps:Sogeti_(Symbian_Signed_Test_House)\" title=\"Apps:Sogeti (Symbian Signed Test House)\">Sogeti - Certified Signed Test House</a>');
+tamNavTreeDeveloper.add(561, 543, 'Certificates and IDs');
+tamNavTreeDeveloper.add(562, 561, '<a href=\"/wiki/Apps:Publisher_ID_(Symbian_Signed)\" title=\"Apps:Publisher ID (Symbian Signed)\">Publisher ID</a>');
+tamNavTreeDeveloper.add(563, 561, '<a href=\"/wiki/Apps:Developer_Certificate_(Symbian_Signed)\" title=\"Apps:Developer Certificate (Symbian Signed)\">Developer Certificate</a>');
+tamNavTreeDeveloper.add(564, 561, '<a href=\"/wiki/Apps:Content_ID_(Symbian_Signed)\" title=\"Apps:Content ID (Symbian Signed)\">Content ID</a>');
+tamNavTreeDeveloper.add(565, 561, '<a href=\"/wiki/Apps:UID_Q%26As_(Symbian_Signed)\" title=\"Apps:UID Q&amp;As (Symbian Signed)\">UID Q&amp;As</a>');
+tamNavTreeDeveloper.add(566, 543, 'Symbian Signed Knowledge Base');
+tamNavTreeDeveloper.add(567, 566, 'Symbian Signed Tools');
+tamNavTreeDeveloper.add(568, 567, 'Signing Tools');
+tamNavTreeDeveloper.add(569, 568, '<a href=\"/wiki/Apps:Symbian_Signed_Tools\" title=\"Apps:Symbian Signed Tools\">Symbian Signed Tools</a>');
+tamNavTreeDeveloper.add(570, 568, '<a href=\"/wiki/File:TC-ConvertP12.zip\" title=\"File:TC-ConvertP12.zip\">Export Publisher ID (TC-ConvertP12)</a>');
+tamNavTreeDeveloper.add(571, 568, '<a href=\"/wiki/File:DevCertRequest_2.3.zip\" title=\"File:DevCertRequest 2.3.zip\">Request DevCerts (DevCertRequest)</a>');
+tamNavTreeDeveloper.add(572, 568, '<a href=\"/wiki/File:Symbian_Certificate_Manager_Plug-in_for_Carbide.c%2B%2B.zip\" title=\"File:Symbian Certificate Manager Plug-in for Carbide.c++.zip\">Certificate Manager Plug-in for Carbide</a>');
+tamNavTreeDeveloper.add(573, 568, '<a href=\"http://wiki.forum.nokia.com/index.php/Listing_IMEIs_and_Capabilities_in_a_DevCert\" class=\"external text\" title=\"http://wiki.forum.nokia.com/index.php/Listing_IMEIs_and_Capabilities_in_a_DevCert\" rel=\"nofollow\">Listing IMEIs and Capabilities in a DevCert</a>');
+tamNavTreeDeveloper.add(574, 568, 'Legacy Tools');
+tamNavTreeDeveloper.add(575, 574, '<a href=\"/wiki/File:VerifySymbianSigned_v2.4.zip\" title=\"File:VerifySymbianSigned v2.4.zip\">File:VerifySymbianSigned v2.4.zip</a>');
+tamNavTreeDeveloper.add(576, 574, '<a href=\"/wiki/File:Vs_pkcs.zip\" title=\"File:Vs pkcs.zip\">File:Vs pkcs.zip</a>');
+tamNavTreeDeveloper.add(577, 567, 'Tools for Testing');
+tamNavTreeDeveloper.add(578, 577, '<a href=\"/wiki/File_Manager_Applications\" title=\"File Manager Applications\">File Manager Applications</a>');
+tamNavTreeDeveloper.add(579, 577, '<a href=\"http://www.whatisinmysis.com\" class=\"external text\" title=\"http://www.whatisinmysis.com\" rel=\"nofollow\">WhatsInMySIS</a>');
+tamNavTreeDeveloper.add(580, 577, 'Legacy Tools (pre-Symbian OS v9)');
+tamNavTreeDeveloper.add(581, 580, '<a href=\"/wiki/File:LowMem_S60_v_1_4_Signed.zip\" title=\"File:LowMem S60 v 1 4 Signed.zip\">Low Memory Testing S60 (LowMem)</a>');
+tamNavTreeDeveloper.add(582, 580, '<a href=\"/wiki/File:LowMem_S80_v_1_4_Signed.zip\" title=\"File:LowMem S80 v 1 4 Signed.zip\">Low Memory S80 (LowMem)</a>');
+tamNavTreeDeveloper.add(583, 580, '<a href=\"/wiki/File:LowMem_UIQ_v_1_4_Signed.zip\" title=\"File:LowMem UIQ v 1 4 Signed.zip\">Low Memory UIQ (LowMem)</a>');
+tamNavTreeDeveloper.add(584, 580, '<a href=\"/wiki/File:UnSIS_Setup.zip\" title=\"File:UnSIS Setup.zip\">Extract SIS files (UnSIS)</a>');
+tamNavTreeDeveloper.add(585, 566, 'Capabilities');
+tamNavTreeDeveloper.add(586, 585, '<a href=\"/wiki/Apps:Capabilities_(Symbian_Signed)\" title=\"Apps:Capabilities (Symbian Signed)\">Explanation of Capabilities</a>');
+tamNavTreeDeveloper.add(587, 585, '<a href=\"/wiki/Apps:Device_Manufacturer_Capabilities_(Symbian_Signed)\" title=\"Apps:Device Manufacturer Capabilities (Symbian Signed)\">Device Manufacturer Capabilities</a>');
+tamNavTreeDeveloper.add(588, 585, '<a href=\"/wiki/Apps:Declarative_Statement_(Symbian_Signed)\" title=\"Apps:Declarative Statement (Symbian Signed)\">Declarative Statement</a>');
+tamNavTreeDeveloper.add(589, 585, 'User Capabilities');
+tamNavTreeDeveloper.add(590, 589, '<a href=\"/wiki/Capabilities_(Symbian_Signed)/LocalServices_Capability\" title=\"Capabilities (Symbian Signed)/LocalServices Capability\">LocalServices Capability</a>');
+tamNavTreeDeveloper.add(591, 589, '<a href=\"/wiki/Capabilities_(Symbian_Signed)/Location_Capability\" title=\"Capabilities (Symbian Signed)/Location Capability\">Location Capability</a>');
+tamNavTreeDeveloper.add(592, 589, '<a href=\"/wiki/Capabilities_(Symbian_Signed)/NetworkServices_Capability\" title=\"Capabilities (Symbian Signed)/NetworkServices Capability\">NetworkService Capability</a>');
+tamNavTreeDeveloper.add(593, 589, '<a href=\"/wiki/Capabilities_(Symbian_Signed)/ReadUserData_Capability\" title=\"Capabilities (Symbian Signed)/ReadUserData Capability\">ReadUserData Capability</a>');
+tamNavTreeDeveloper.add(594, 589, '<a href=\"/wiki/Capabilities_(Symbian_Signed)/UserEnvironment_Capability\" title=\"Capabilities (Symbian Signed)/UserEnvironment Capability\">UserEnvironment Capability</a>');
+tamNavTreeDeveloper.add(595, 589, '<a href=\"/wiki/Capabilities_(Symbian_Signed)/WriteUserData_Capability\" title=\"Capabilities (Symbian Signed)/WriteUserData Capability\">WriteUserData Capability</a>');
+tamNavTreeDeveloper.add(596, 585, 'System Capabilities');
+tamNavTreeDeveloper.add(597, 596, '<a href=\"/wiki/Capabilities_(Symbian_Signed)/PowerMgmt_Capability\" title=\"Capabilities (Symbian Signed)/PowerMgmt Capability\">PowerMgmt Capability</a>');
+tamNavTreeDeveloper.add(598, 596, '<a href=\"/wiki/Capabilities_(Symbian_Signed)/ProtServ_Capability\" title=\"Capabilities (Symbian Signed)/ProtServ Capability\">ProtServ Capability</a>');
+tamNavTreeDeveloper.add(599, 596, '<a href=\"/wiki/Capabilities_(Symbian_Signed)/ReadDeviceData_Capability\" title=\"Capabilities (Symbian Signed)/ReadDeviceData Capability\">ReadDeviceData Capability</a>');
+tamNavTreeDeveloper.add(600, 596, '<a href=\"/wiki/Capabilities_(Symbian_Signed)/SurroundingsDD_Capability\" title=\"Capabilities (Symbian Signed)/SurroundingsDD Capability\">SurroundingsDD Capability</a>');
+tamNavTreeDeveloper.add(601, 596, '<a href=\"/wiki/Capabilities_(Symbian_Signed)/SwEvent_Capability\" title=\"Capabilities (Symbian Signed)/SwEvent Capability\">SwEvent Capability</a>');
+tamNavTreeDeveloper.add(602, 596, '<a href=\"/wiki/Capabilities_(Symbian_Signed)/TrustedUI_Capability\" title=\"Capabilities (Symbian Signed)/TrustedUI Capability\">TrustedUI Capability</a>');
+tamNavTreeDeveloper.add(603, 596, '<a href=\"/wiki/Capabilities_(Symbian_Signed)/WriteDeviceData_Capability\" title=\"Capabilities (Symbian Signed)/WriteDeviceData Capability\">WriteDeviceData Capability</a>');
+tamNavTreeDeveloper.add(604, 585, 'Restricted Capabilities');
+tamNavTreeDeveloper.add(605, 604, '<a href=\"/wiki/Capabilities_(Symbian_Signed)/CommDD_Capability\" title=\"Capabilities (Symbian Signed)/CommDD Capability\">CommDD Capability</a>');
+tamNavTreeDeveloper.add(606, 604, '<a href=\"/wiki/Capabilities_(Symbian_Signed)/DiskAdmin_Capability\" title=\"Capabilities (Symbian Signed)/DiskAdmin Capability\">DiskAdmin Capability</a>');
+tamNavTreeDeveloper.add(607, 604, '<a href=\"/wiki/Capabilities_(Symbian_Signed)/NetworkControl_Capability\" title=\"Capabilities (Symbian Signed)/NetworkControl Capability\">NetworkControl Capability</a>');
+tamNavTreeDeveloper.add(608, 604, '<a href=\"/wiki/Capabilities_(Symbian_Signed)/MultimediaDD_Capability\" title=\"Capabilities (Symbian Signed)/MultimediaDD Capability\">MultimediaDD Capability</a>');
+tamNavTreeDeveloper.add(609, 585, 'Device Manufacturer Capabilities');
+tamNavTreeDeveloper.add(610, 609, '<a href=\"/wiki/Capabilities_(Symbian_Signed)/AllFiles_Capability\" title=\"Capabilities (Symbian Signed)/AllFiles Capability\">AllFiles Capability</a>');
+tamNavTreeDeveloper.add(611, 609, '<a href=\"/wiki/Capabilities_(Symbian_Signed)/DRM_Capability\" title=\"Capabilities (Symbian Signed)/DRM Capability\">DRM Capability</a>');
+tamNavTreeDeveloper.add(612, 609, '<a href=\"/wiki/Capabilities_(Symbian_Signed)/TCB_Capability\" title=\"Capabilities (Symbian Signed)/TCB Capability\">TCB Capability</a>');
+tamNavTreeDeveloper.add(613, 566, 'Self Signed');
+tamNavTreeDeveloper.add(614, 613, '<a href=\"/wiki/Apps:Introduction_to_Self_Signed\" title=\"Apps:Introduction to Self Signed\">Introduction to Self Signing</a>');
+tamNavTreeDeveloper.add(615, 613, '<a href=\"/wiki/Apps:How_to_enable_installation_of_self-signed_applications\" title=\"Apps:How to enable installation of self-signed applications\">How to enable installation of self-signed applications</a>');
+tamNavTreeDeveloper.add(616, 613, '<a href=\"/wiki/Category:Self_Signed\" title=\"Category:Self Signed\">More about Self Signing</a>');
+tamNavTreeDeveloper.add(617, 566, 'Open Signed');
+tamNavTreeDeveloper.add(618, 617, '<a href=\"/wiki/Apps:Open_Signed_Online_(Symbian_Signed)\" title=\"Apps:Open Signed Online (Symbian Signed)\">Open Signed Online</a>');
+tamNavTreeDeveloper.add(619, 617, '<a href=\"/wiki/Apps:Open_Signed_Offline_(Symbian_Signed)\" title=\"Apps:Open Signed Offline (Symbian Signed)\">Open Signed Offline</a>');
+tamNavTreeDeveloper.add(620, 566, 'Waiver Requests');
+tamNavTreeDeveloper.add(621, 620, '<a href=\"/wiki/Apps:Waiver_(Symbian_Signed)\" title=\"Apps:Waiver (Symbian Signed)\">Waiver Requests</a>');
+tamNavTreeDeveloper.add(622, 620, '<a href=\"/wiki/Apps:Symbian_Signed_Forms_and_Documents\" title=\"Apps:Symbian Signed Forms and Documents\">Waiver Request Form</a>');
+tamNavTreeDeveloper.add(623, 566, 'Other Symbian Signed Topics');
+tamNavTreeDeveloper.add(624, 623, '<a href=\"/wiki/Apps:Symbian_Signed_For_Passive_Content\" title=\"Apps:Symbian Signed For Passive Content\">Symbian Signed for Passive Content</a>');
+tamNavTreeDeveloper.add(625, 623, '<a href=\"/wiki/Apps:Symbian_Signed_For_Shared_DLLs\" title=\"Apps:Symbian Signed For Shared DLLs\">Symbian Signed for Shared DLLs</a>');
+tamNavTreeDeveloper.add(626, 623, '<a href=\"/wiki/Apps:Symbian_Signed_For_Embedded_SIS_files\" title=\"Apps:Symbian Signed For Embedded SIS files\">Symbian Signed for Embedded SIS Files</a>');
+tamNavTreeDeveloper.add(627, 623, '<a href=\"/wiki/Apps:Creating_a_single_SIS_installation_file_for_S60_3rd_edition_and_S60_5th_edition\" title=\"Apps:Creating a single SIS installation file for S60 3rd edition and S60 5th edition\">Creating A Single SIS Installation File</a>');
+tamNavTreeDeveloper.add(628, 623, '<a href=\"/wiki/Apps:Symbian_Signed_for_Flash_Lite_Applications\" title=\"Apps:Symbian Signed for Flash Lite Applications\">Symbian Signed for Flash Lite Applications</a>');
+tamNavTreeDeveloper.add(629, 623, '<a href=\"/wiki/Apps:Symbian_Signed_For_Stub_SIS_files\" title=\"Apps:Symbian Signed For Stub SIS files\">Symbian Signed for Stub SIS Files</a>');
+tamNavTreeDeveloper.add(630, 623, '<a href=\"/wiki/Apps:Qt_%26_Application_Signing\" title=\"Apps:Qt &amp; Application Signing\">Qt &amp; Application Signing</a>');
+tamNavTreeDeveloper.add(631, 541, 'Deployment');
+tamNavTreeDeveloper.add(632, 631, '<a href=\"/wiki/Apps:Symbian_Signed_For_Distributing_Your_Application\" title=\"Apps:Symbian Signed For Distributing Your Application\">Symbian Signed For Distributing Your Application</a>');
+tamNavTreeDeveloper.add(633, 0, '<a href=\"/wiki/Platform_Developer_Wiki\" title=\"Platform Developer Wiki\">Platform Development</a>');
+tamNavTreeDeveloper.add(634, 633, 'Introduction');
+tamNavTreeDeveloper.add(635, 634, '<a href=\"/wiki/Symbian_Foundation_Fast_Facts\" title=\"Symbian Foundation Fast Facts\">Symbian Foundation Fast Facts</a>');
+tamNavTreeDeveloper.add(636, 634, '<a href=\"/wiki/Milestones_in_the_Evolution_of_Symbian_and_the_Symbian_platform\" title=\"Milestones in the Evolution of Symbian and the Symbian platform\">Evolution Milestones</a>');
+tamNavTreeDeveloper.add(637, 634, '<a href=\"/wiki/Symbian_Software:_Historical_Statistics\" title=\"Symbian Software: Historical Statistics\">Market Statistics</a>');
+tamNavTreeDeveloper.add(638, 634, '<a href=\"/wiki/Contributors_Report\" title=\"Contributors Report\">Contributors to the Symbian codebase</a>');
+tamNavTreeDeveloper.add(639, 633, 'Architecture');
+tamNavTreeDeveloper.add(640, 639, '<a href=\"/wiki/Symbian_System_Model\" title=\"Symbian System Model\">Symbian System Model</a>');
+tamNavTreeDeveloper.add(641, 639, 'Technology Domains');
+tamNavTreeDeveloper.add(642, 641, '<a href=\"/wiki/Category:Technology_Domains\" title=\"Category:Technology Domains\">Overview</a>');
+tamNavTreeDeveloper.add(643, 641, '<a href=\"/wiki/Category:Data_Communications_Technology_Domain\" title=\"Category:Data Communications Technology Domain\">Data Communications</a>');
+tamNavTreeDeveloper.add(644, 641, '<a href=\"/wiki/Category:Device_Connectivity_Technology_Domain\" title=\"Category:Device Connectivity Technology Domain\">Device Connectivity</a>');
+tamNavTreeDeveloper.add(645, 641, '<a href=\"/wiki/Category:Device_Management_Technology_Domain\" title=\"Category:Device Management Technology Domain\">Device Management</a>');
+tamNavTreeDeveloper.add(646, 641, '<a href=\"/wiki/Category:Documentation_Technology_Domain\" title=\"Category:Documentation Technology Domain\">Documentation Technology</a>');
+tamNavTreeDeveloper.add(647, 641, '<a href=\"/wiki/Category:Multimedia_Applications_Technology_Domain\" title=\"Category:Multimedia Applications Technology Domain\">Multimedia Applications</a>');
+tamNavTreeDeveloper.add(648, 641, '<a href=\"/wiki/Category:OS_Base_Services_Technology_Domain\" title=\"Category:OS Base Services Technology Domain\">OS Base Services</a>');
+tamNavTreeDeveloper.add(649, 641, '<a href=\"/wiki/Category:Location_Technology_Domain\" title=\"Category:Location Technology Domain\">Location</a>');
+tamNavTreeDeveloper.add(650, 641, '<a href=\"/wiki/Category:Multimedia_Technology_Domain\" title=\"Category:Multimedia Technology Domain\">Multimedia</a>');
+tamNavTreeDeveloper.add(651, 641, '<a href=\"/wiki/Category:User_Interface_Technology_Domain\" title=\"Category:User Interface Technology Domain\">User Interface</a>');
+tamNavTreeDeveloper.add(652, 641, '<a href=\"/wiki/Category:Runtimes_Technology_Domain\" title=\"Category:Runtimes Technology Domain\">Runtimes</a>');
+tamNavTreeDeveloper.add(653, 641, '<a href=\"/wiki/Category:Security_Technology_Domain\" title=\"Category:Security Technology Domain\">Security</a>');
+tamNavTreeDeveloper.add(654, 641, '<a href=\"/wiki/Category:Personal_Communications_Technology_Domain\" title=\"Category:Personal Communications Technology Domain\">Personal Communications</a>');
+tamNavTreeDeveloper.add(655, 641, '<a href=\"/wiki/Category:Productivity_Technology_Domain\" title=\"Category:Productivity Technology Domain\">Productivity</a>');
+tamNavTreeDeveloper.add(656, 641, '<a href=\"/wiki/Category:SHAI_Domain\" title=\"Category:SHAI Domain\" class=\"mw-redirect\">SHAI</a>');
+tamNavTreeDeveloper.add(657, 641, '<a href=\"/wiki/Category:Tools_Technology_Domain\" title=\"Category:Tools Technology Domain\">Tools</a>');
+tamNavTreeDeveloper.add(658, 639, '<a href=\"http://developer.symbian.org/main/source/packages/index.php\" class=\"external text\" title=\"http://developer.symbian.org/main/source/packages/index.php\" rel=\"nofollow\">Packages</a>');
+tamNavTreeDeveloper.add(659, 639, '<a href=\"/wiki/Meet_the_Technology_Management_team\" title=\"Meet the Technology Management team\">Meet the Technology Management team</a>');
+tamNavTreeDeveloper.add(660, 633, 'Development');
+tamNavTreeDeveloper.add(661, 660, 'Roles');
+tamNavTreeDeveloper.add(662, 661, '<a href=\"http://blog.symbian.org/2010/02/08/package-owners-committers-contributors/\" class=\"external text\" title=\"http://blog.symbian.org/2010/02/08/package-owners-committers-contributors/\" rel=\"nofollow\">Overview</a>');
+tamNavTreeDeveloper.add(663, 661, '<a href=\"/wiki/Being_a_package_owner\" title=\"Being a package owner\">Package Owners</a>');
+tamNavTreeDeveloper.add(664, 661, '<a href=\"/wiki/Committers\" title=\"Committers\">Committers</a>');
+tamNavTreeDeveloper.add(665, 661, '<a href=\"/wiki/Technology_Managers%E2%80%99_role_in_working_with_Package_Owners\" title=\"Technology Managers’ role in working with Package Owners\">Technology Managers</a>');
+tamNavTreeDeveloper.add(666, 660, 'Package Leadership');
+tamNavTreeDeveloper.add(667, 666, '<a href=\"/wiki/Category:Package_Owners\" title=\"Category:Package Owners\">Package Owners</a>');
+tamNavTreeDeveloper.add(668, 667, 'Essential Reading');
+tamNavTreeDeveloper.add(669, 668, ' <a href=\"/wiki/Taking_ownership_of_my_package\" title=\"Taking ownership of my package\">Taking ownership of my package</a> ');
+tamNavTreeDeveloper.add(670, 668, ' <a href=\"/wiki/Package_owner_best_practice\" title=\"Package owner best practice\">Package owner best practice</a>');
+tamNavTreeDeveloper.add(671, 668, ' <a href=\"/wiki/Being_a_package_owner\" title=\"Being a package owner\">Being a package owner</a> ');
+tamNavTreeDeveloper.add(672, 668, '<a href=\"/wiki/Contribution_Process\" title=\"Contribution Process\">Contribution Process</a>');
+tamNavTreeDeveloper.add(673, 668, '<a href=\"/wiki/IP_Guidelines\" title=\"IP Guidelines\">IP Guidelines</a>');
+tamNavTreeDeveloper.add(674, 668, '<a href=\"/wiki/Good_Community_Behaviour\" title=\"Good Community Behaviour\" class=\"mw-redirect\">Good Community Behaviour</a>');
+tamNavTreeDeveloper.add(675, 667, 'Working on my Package');
+tamNavTreeDeveloper.add(676, 675, '<a href=\"/wiki/Logging_into_Bugzilla_for_the_first_time\" title=\"Logging into Bugzilla for the first time\">Logging into Bugzilla for the first time</a>');
+tamNavTreeDeveloper.add(677, 675, '<a href=\"/wiki/Tracking_Package_features\" title=\"Tracking Package features\">Tracking Package features</a>');
+tamNavTreeDeveloper.add(678, 675, '<a href=\"/wiki/Managing_my_Mailing_Lists\" title=\"Managing my Mailing Lists\">Managing my Mailing Lists</a>');
+tamNavTreeDeveloper.add(679, 675, '<a href=\"/wiki/Managing_my_Landing_Page\" title=\"Managing my Landing Page\">Managing my Landing Page</a>');
+tamNavTreeDeveloper.add(680, 675, '<a href=\"/wiki/Managing_my_Wiki_Pages\" title=\"Managing my Wiki Pages\">Managing my Wiki Pages</a>');
+tamNavTreeDeveloper.add(681, 675, '<a href=\"/wiki/Highlight_Hot_Bugs\" title=\"Highlight Hot Bugs\">Highlight Hot Bugs</a>');
+tamNavTreeDeveloper.add(682, 675, '<a href=\"/wiki/Symbian_Documentation_Q%26As\" title=\"Symbian Documentation Q&amp;As\">Symbian Documentation Q&amp;As</a>');
+tamNavTreeDeveloper.add(683, 675, '<a href=\"http://hginit.com/\" class=\"external text\" title=\"http://hginit.com/\" rel=\"nofollow\">A really good introduction to Mercurial</a>');
+tamNavTreeDeveloper.add(684, 666, '<a href=\"/wiki/Category:Committers\" title=\"Category:Committers\">Committers</a>');
+tamNavTreeDeveloper.add(685, 684, '<a href=\"/wiki/Starting_as_a_Committer\" title=\"Starting as a Committer\">Starting as a Committer</a>');
+tamNavTreeDeveloper.add(686, 666, 'Managing Contributions ');
+tamNavTreeDeveloper.add(687, 686, '<a href=\"/wiki/images/c/ce/Contribution_summary.pdf\" class=\"internal\" title=\"Contribution summary.pdf\">Overview (slideset)</a>');
+tamNavTreeDeveloper.add(688, 686, '<a href=\"/wiki/IP_Guidelines\" title=\"IP Guidelines\">IP Guidelines</a>');
+tamNavTreeDeveloper.add(689, 688, '<a href=\"/wiki/Category:IP_Management\" title=\"Category:IP Management\">IP Management</a> ');
+tamNavTreeDeveloper.add(690, 686, '<a href=\"/wiki/Accepting_Contributions\" title=\"Accepting Contributions\">Accepting Contributions</a>');
+tamNavTreeDeveloper.add(691, 690, '<a href=\"/wiki/Checking_legal_prerequisites_before_accepting_contributions\" title=\"Checking legal prerequisites before accepting contributions\">Checking legal prerequisites before accepting contributions</a>');
+tamNavTreeDeveloper.add(692, 690, '<a href=\"/wiki/Accepting_Symbian%5E2_Contributions\" title=\"Accepting Symbian^2 Contributions\">Accepting Symbian^2 Contributions</a>');
+tamNavTreeDeveloper.add(693, 686, '<a href=\"/wiki/Contributing_Changes_with_Mercurial\" title=\"Contributing Changes with Mercurial\">Contributing Changes with Mercurial</a>');
+tamNavTreeDeveloper.add(694, 686, '<a href=\"/wiki/Tracking_contributions_using_commit_Mailing_Lists\" title=\"Tracking contributions using commit Mailing Lists\">Tracking contributions using commit Mailing Lists</a>');
+tamNavTreeDeveloper.add(695, 686, '<a href=\"/wiki/Tracking_Bugtracker_Patches\" title=\"Tracking Bugtracker Patches\">Tracking Bugtracker Patches</a>');
+tamNavTreeDeveloper.add(696, 686, '<a href=\"/wiki/How_to_keep_on_top_of_the_PDK_evolution\" title=\"How to keep on top of the PDK evolution\">How to keep on top of the PDK evolution</a>');
+tamNavTreeDeveloper.add(697, 666, 'Development Processes and Resources');
+tamNavTreeDeveloper.add(698, 697, '<a href=\"/wiki/Source_Tree_Structure_for_Packages\" title=\"Source Tree Structure for Packages\">Source Tree Structure for Packages</a>');
+tamNavTreeDeveloper.add(699, 697, '<a href=\"/wiki/Developer_Guidelines:_Foundation_Builds\" title=\"Developer Guidelines: Foundation Builds\">Developer Guidelines: Foundation Builds</a>');
+tamNavTreeDeveloper.add(700, 697, '<a href=\"/wiki/Defect_Handling_Guidelines\" title=\"Defect Handling Guidelines\">Defect Handling Guidelines</a>');
+tamNavTreeDeveloper.add(701, 697, '<a href=\"/wiki/Symbian_BC_Break_Management_Process\" title=\"Symbian BC Break Management Process\">Symbian BC Break Management Process</a>');
+tamNavTreeDeveloper.add(702, 697, '<a href=\"/wiki/How_to_raise_a_Public_API_CR\" title=\"How to raise a Public API CR\">How to raise a Public API CR</a>');
+tamNavTreeDeveloper.add(703, 697, '<a href=\"/wiki/Coding_Standards_and_Conventions\" title=\"Coding Standards and Conventions\">Coding Standards and Conventions</a>');
+tamNavTreeDeveloper.add(704, 660, 'Other Contributors');
+tamNavTreeDeveloper.add(705, 704, '<a href=\"/wiki/Get_involved_with_Symbian\" title=\"Get involved with Symbian\">Overview</a>');
+tamNavTreeDeveloper.add(706, 704, '<a href=\"/wiki/Contributing_to_the_Symbian_Platform_(Trail)\" title=\"Contributing to the Symbian Platform (Trail)\">Contributing Code</a>');
+tamNavTreeDeveloper.add(707, 706, '<a href=\"/wiki/Contributing_Code_Quick_Start\" title=\"Contributing Code Quick Start\">Quick Start</a>');
+tamNavTreeDeveloper.add(708, 706, '<a href=\"/wiki/Contribution_Q%26As\" title=\"Contribution Q&amp;As\">Q&amp;As</a>');
+tamNavTreeDeveloper.add(709, 706, '<a href=\"/wiki/Category:Bug_Squad\" title=\"Category:Bug Squad\">Bug Squad</a>');
+tamNavTreeDeveloper.add(710, 706, '<a href=\"/wiki/Category:Symbian_Platform_Contributors\" title=\"Category:Symbian Platform Contributors\">Symbian Platform Contributors</a>');
+tamNavTreeDeveloper.add(711, 706, '<a href=\"/wiki/Category:Submission_Guidelines\" title=\"Category:Submission Guidelines\">Submission Guidelines</a>');
+tamNavTreeDeveloper.add(712, 704, 'Community Projects');
+tamNavTreeDeveloper.add(713, 712, '<a href=\"/wiki/Category:Community_Projects\" title=\"Category:Community Projects\">Join a Community Project</a> ');
+tamNavTreeDeveloper.add(714, 712, '<a href=\"/wiki/Category:Bug_Squad\" title=\"Category:Bug Squad\">Category:Bug Squad</a> ');
+tamNavTreeDeveloper.add(715, 712, '<a href=\"http://developer.symbian.org/main/source/packages/index.php?package_type=2\" class=\"external text\" title=\"http://developer.symbian.org/main/source/packages/index.php?package_type=2\" rel=\"nofollow\">Incubation Projects</a>');
+tamNavTreeDeveloper.add(716, 715, '<a href=\"/wiki/Category:Incubation_Project\" title=\"Category:Incubation Project\">Overview</a>');
+tamNavTreeDeveloper.add(717, 715, '<a href=\"http://developer.symbian.org/main/source/packages/openmar\" class=\"external text\" title=\"http://developer.symbian.org/main/source/packages/openmar\" rel=\"nofollow\">OpenMar</a>');
+tamNavTreeDeveloper.add(718, 715, '<a href=\"http://developer.symbian.org/main/source/packages/python\" class=\"external text\" title=\"http://developer.symbian.org/main/source/packages/python\" rel=\"nofollow\">Python</a>');
+tamNavTreeDeveloper.add(719, 715, '<a href=\"http://developer.symbian.org/main/source/packages/freedomfighters\" class=\"external text\" title=\"http://developer.symbian.org/main/source/packages/freedomfighters\" rel=\"nofollow\">Software Freedom Fighters</a>');
+tamNavTreeDeveloper.add(720, 715, '<a href=\"http://developer.symbian.org/main/source/packages/stemkit\" class=\"external text\" title=\"http://developer.symbian.org/main/source/packages/stemkit\" rel=\"nofollow\">Stem Kit</a>');
+tamNavTreeDeveloper.add(721, 715, '<a href=\"/wiki/Category:Wild_Ducks\" title=\"Category:Wild Ducks\">Wild Ducks</a>');
+tamNavTreeDeveloper.add(722, 712, '<a href=\"/wiki/Category:Research\" title=\"Category:Research\">Run a research project</a>');
+tamNavTreeDeveloper.add(723, 660, 'Builds and Releases');
+tamNavTreeDeveloper.add(724, 723, '<a href=\"/wiki/Category:Release_Planning\" title=\"Category:Release Planning\">Overview</a>');
+tamNavTreeDeveloper.add(725, 723, '<a href=\"/wiki/Category:Release_Notes\" title=\"Category:Release Notes\">Release Notes</a>');
+tamNavTreeDeveloper.add(726, 723, '<a href=\"/wiki/Category:Builds\" title=\"Category:Builds\">Builds</a>');
+tamNavTreeDeveloper.add(727, 723, '<a href=\"/wiki/Category:Compatibility_Management\" title=\"Category:Compatibility Management\">Compatibility Management</a>');
+tamNavTreeDeveloper.add(728, 660, 'Kits');
+tamNavTreeDeveloper.add(729, 728, '<a href=\"/wiki/What_are_the_product_development_kits%3F\" title=\"What are the product development kits?\">Introduction</a>');
+tamNavTreeDeveloper.add(730, 728, '<a href=\"/wiki/Product_Development_Kit_Quick_Start\" title=\"Product Development Kit Quick Start\">Product Development Kit (PDK) Quick Start</a>');
+tamNavTreeDeveloper.add(731, 728, '<a href=\"/wiki/Product_Development_Toolkit_Quick_Start\" title=\"Product Development Toolkit Quick Start\">Product Development Toolkit (PDT) Quick Start</a>');
+tamNavTreeDeveloper.add(732, 728, '<a href=\"/wiki/Category:Kernel_%26_Hardware_Services\" title=\"Category:Kernel &amp; Hardware Services\">Kernel Taster Kit</a>');
+tamNavTreeDeveloper.add(733, 728, '<a href=\"http://developer.symbian.org/main/tools_and_kits/index.php\" class=\"external text\" title=\"http://developer.symbian.org/main/tools_and_kits/index.php\" rel=\"nofollow\">Kits main page</a>');
+tamNavTreeDeveloper.add(734, 633, 'Roadmap');
+tamNavTreeDeveloper.add(735, 734, '<a href=\"/wiki/Roadmap_for_the_Symbian_Platform\" title=\"Roadmap for the Symbian Platform\">Roadmap for the Symbian Platform</a>');
+tamNavTreeDeveloper.add(736, 734, 'Releases');
+tamNavTreeDeveloper.add(737, 736, '<a href=\"/wiki/Symbian%5E2\" title=\"Symbian^2\">Symbian^2</a>');
+tamNavTreeDeveloper.add(738, 736, '<a href=\"/wiki/Symbian%5E3\" title=\"Symbian^3\" class=\"mw-redirect\">Symbian^3</a>');
+tamNavTreeDeveloper.add(739, 736, '<a href=\"/wiki/Symbian%5E4\" title=\"Symbian^4\" class=\"mw-redirect\">Symbian^4</a>');
+tamNavTreeDeveloper.add(740, 734, 'Technology Domain Roadmaps');
+tamNavTreeDeveloper.add(741, 740, '<a href=\"/wiki/Roadmap_for_OS_Base_Services\" title=\"Roadmap for OS Base Services\">OS Base Services</a>');
+tamNavTreeDeveloper.add(742, 740, '<a href=\"/wiki/Roadmap_for_Data_Communications\" title=\"Roadmap for Data Communications\">Data Communications</a>');
+tamNavTreeDeveloper.add(743, 740, '<a href=\"/wiki/Roadmap_and_Strategy_for_Device_Connectivity\" title=\"Roadmap and Strategy for Device Connectivity\">Device Connectivity</a>');
+tamNavTreeDeveloper.add(744, 740, '<a href=\"/wiki/Roadmap_for_Device_Management\" title=\"Roadmap for Device Management\">Device Management</a>');
+tamNavTreeDeveloper.add(745, 740, '<a href=\"/wiki/Roadmap_for_Location\" title=\"Roadmap for Location\">Location</a>');
+tamNavTreeDeveloper.add(746, 740, '<a href=\"/wiki/Roadmap_and_Strategy_for_Multimedia\" title=\"Roadmap and Strategy for Multimedia\">Multimedia</a>');
+tamNavTreeDeveloper.add(747, 740, '<a href=\"/wiki/Roadmap_and_Strategy_for_Multimedia_Applications\" title=\"Roadmap and Strategy for Multimedia Applications\">Multimedia Applications</a>');
+tamNavTreeDeveloper.add(748, 740, '<a href=\"/wiki/Roadmap_and_Strategy_for_Personal_Communications\" title=\"Roadmap and Strategy for Personal Communications\">Personal Communications</a>');
+tamNavTreeDeveloper.add(749, 740, '<a href=\"/wiki/Roadmap_for_Productivity\" title=\"Roadmap for Productivity\">Productivity</a>');
+tamNavTreeDeveloper.add(750, 740, '<a href=\"/wiki/Roadmap_and_Strategy_for_Security\" title=\"Roadmap and Strategy for Security\">Security</a>');
+tamNavTreeDeveloper.add(751, 740, '<a href=\"/wiki/Roadmap_and_Strategy_for_Runtimes\" title=\"Roadmap and Strategy for Runtimes\">Runtimes</a>');
+tamNavTreeDeveloper.add(752, 734, '<a href=\"/wiki/Proposals_pipeline\" title=\"Proposals pipeline\">Major Contribution Proposals</a>');
+tamNavTreeDeveloper.add(753, 734, '<a href=\"/wiki/Symbian_Foundation_Technology_Roadmaps\" title=\"Symbian Foundation Technology Roadmaps\">Overview of roadmap info</a>');
+tamNavTreeDeveloper.add(754, 633, 'Councils');
+tamNavTreeDeveloper.add(755, 754, '<a href=\"/wiki/Foundation_Councils/Architecture_Council_minutes\" title=\"Foundation Councils/Architecture Council minutes\">Architecture Council</a>');
+tamNavTreeDeveloper.add(756, 754, '<a href=\"/wiki/Foundation_Councils/Feature_and_Roadmap_Council_minutes\" title=\"Foundation Councils/Feature and Roadmap Council minutes\">Feature and Roadmap Council</a>');
+tamNavTreeDeveloper.add(757, 754, '<a href=\"/wiki/Foundation_Councils/UI_Council_minutes\" title=\"Foundation Councils/UI Council minutes\">User Interface Council</a>');
+tamNavTreeDeveloper.add(758, 754, '<a href=\"/wiki/Foundation_Councils/Release_Council_minutes\" title=\"Foundation Councils/Release Council minutes\">Release Council</a>');
+tamNavTreeDeveloper.add(759, 754, '<a href=\"/wiki/Proposals_pipeline\" title=\"Proposals pipeline\">Council proposals</a>');
+tamNavTreeDeveloper.add(760, 754, '<a href=\"/wiki/Category:Councils\" title=\"Category:Councils\">Overview of councils</a>');
+tamNavTreeDeveloper.add(761, 754, '<a href=\"/wiki/Category:Working_Group\" title=\"Category:Working Group\">Working groups</a>');
+tamNavTreeDeveloper.add(762, 761, '<a href=\"/wiki/LTE_Working_Group\" title=\"LTE Working Group\">LTE Working Group</a>');
+tamNavTreeDeveloper.add(763, 761, '<a href=\"/wiki/Kernel:Prop/SHAI/SHAI_Working_Group\" title=\"Kernel:Prop/SHAI/SHAI Working Group\">SHAI Working Group</a>');
+tamNavTreeDeveloper.add(764, 761, '<a href=\"/wiki/SMP_Working_Group\" title=\"SMP Working Group\">SMP Working Group</a>');
+tamNavTreeDeveloper.add(765, 761, '<a href=\"/wiki/Test_Working_Group\" title=\"Test Working Group\">Test Working Group</a>');
+tamNavTreeDeveloper.add(766, 761, '<a href=\"/wiki/Category:Security_Strategy_Working_Group\" title=\"Category:Security Strategy Working Group\">Security Strategy Working Group</a>');
+tamNavTreeDeveloper.add(767, 761, '<a href=\"/wiki/Quality_Metrics\" title=\"Quality Metrics\">Quality Metrics</a>');
+
+									document.getElementById('NavTreeDeveloper').innerHTML = tamNavTreeDeveloper.toString();
+									
+								/*]]>*/</script>
+							</div>
+</p>
+<div style="font-size:50%;">&nbsp;</div>
+<p><br />
+
+						 <div class='dtree' id='4cf7cefca72d0'>
+								<script type="text/javascript">/*<![CDATA[*/
+									// TreeAndMenu1.0.8, 2008-12-08
+									tree = new dTree('tam4cf7cefca72d0');
+									for (i in tree.icon) tree.icon[i] = '/wiki/extensions/TreeAndMenu/'+tree.icon[i];																		
+									tree.config.useLines = true;	
+									tree.config.closeSameLevel = false;	
+									tree.config.usealternateicons = '/wiki/extensions/TreeAndMenu/img/categories-base.gif';	
+									tree.config.useGetCookies = 1;							
+									tree.add(0,-1,'<a href=\"/wiki/Category:Root\" title=\"Category:Root\">Categories</a>');
+									tam4cf7cefca72d0 = tree;
+									tam4cf7cefca72d0.add(1, 0, ' <a href=\"/wiki/Category:English_(English)\" title=\"Category:English (English)\">English (English)</a>');
+tam4cf7cefca72d0.add(2, 0, ' <a href=\"/wiki/Category:Help\" title=\"Category:Help\">Help</a>');
+tam4cf7cefca72d0.add(3, 0, ' <a href=\"/wiki/Category:Open_Source\" title=\"Category:Open Source\">Open Source</a>');
+
+									document.getElementById('4cf7cefca72d0').innerHTML = tam4cf7cefca72d0.toString();
+									
+								/*]]>*/</script>
+							</div>
+</p>
+<div style="font-size:50%;">&nbsp;</div>
+<p>
+						 <div class='dtree' id='4cf7cefcd3206'>
+								<script type="text/javascript">/*<![CDATA[*/
+									// TreeAndMenu1.0.8, 2008-12-08
+									tree = new dTree('tam4cf7cefcd3206');
+									for (i in tree.icon) tree.icon[i] = '/wiki/extensions/TreeAndMenu/'+tree.icon[i];																		
+									tree.config.useLines = true;	
+									tree.config.closeSameLevel = true;	
+									tree.config.usealternateicons = false;	
+									tree.config.useGetCookies = 1;							
+									tree.add(0,-1,'<a href=\"/wiki/Help:Contents\" title=\"Help:Contents\">Help</a>');
+									tam4cf7cefcd3206 = tree;
+									tam4cf7cefcd3206.add(1, 0, 'Topics');
+tam4cf7cefcd3206.add(2, 1, 'Reading &amp; Navigating');
+tam4cf7cefcd3206.add(3, 2, '<a href=\"http://www.mediawiki.org/wiki/Help:Navigation\" class=\"external text\" title=\"http://www.mediawiki.org/wiki/Help:Navigation\" rel=\"nofollow\">Navigation</a>');
+tam4cf7cefcd3206.add(4, 2, '<a href=\"/wiki/Help:Searching\" title=\"Help:Searching\">Searching</a> ');
+tam4cf7cefcd3206.add(5, 2, '<a href=\"/wiki/Help:Tracking_Changes\" title=\"Help:Tracking Changes\">Tracking Changes</a>');
+tam4cf7cefcd3206.add(6, 2, '<a href=\"http://www.mediawiki.org/wiki/Help:Watchlist\" class=\"external text\" title=\"http://www.mediawiki.org/wiki/Help:Watchlist\" rel=\"nofollow\">Watchlist</a>');
+tam4cf7cefcd3206.add(7, 2, '<a href=\"/wiki/Special:Random\" title=\"Special:Random\">Random page</a>');
+tam4cf7cefcd3206.add(8, 2, '<a href=\"/wiki/Special:Categories\" title=\"Special:Categories\">All categories</a>');
+tam4cf7cefcd3206.add(9, 2, '<a href=\"/wiki/Glossary\" title=\"Glossary\">Glossary</a>');
+tam4cf7cefcd3206.add(10, 1, 'Editing');
+tam4cf7cefcd3206.add(11, 10, '<a href=\"http://www.mediawiki.org/wiki/Help:Editing_pages\" class=\"external text\" title=\"http://www.mediawiki.org/wiki/Help:Editing_pages\" rel=\"nofollow\">Editing pages</a>');
+tam4cf7cefcd3206.add(12, 10, '<a href=\"http://www.mediawiki.org/wiki/Help:Starting_a_new_page\" class=\"external text\" title=\"http://www.mediawiki.org/wiki/Help:Starting_a_new_page\" rel=\"nofollow\">Starting a new page</a>');
+tam4cf7cefcd3206.add(13, 10, '<a href=\"http://www.mediawiki.org/wiki/Help:Formatting\" class=\"external text\" title=\"http://www.mediawiki.org/wiki/Help:Formatting\" rel=\"nofollow\">Formatting</a>');
+tam4cf7cefcd3206.add(14, 10, '<a href=\"/wiki/Help:Formatting_Code\" title=\"Help:Formatting Code\">Formatting Code</a>');
+tam4cf7cefcd3206.add(15, 10, '<a href=\"http://www.mediawiki.org/wiki/Help:Links\" class=\"external text\" title=\"http://www.mediawiki.org/wiki/Help:Links\" rel=\"nofollow\">Links</a>');
+tam4cf7cefcd3206.add(16, 10, '<a href=\"http://www.mediawiki.org/wiki/Help:User_page\" class=\"external text\" title=\"http://www.mediawiki.org/wiki/Help:User_page\" rel=\"nofollow\">User pages</a>');
+tam4cf7cefcd3206.add(17, 10, '<a href=\"http://www.mediawiki.org/wiki/Help:Talk_pages\" class=\"external text\" title=\"http://www.mediawiki.org/wiki/Help:Talk_pages\" rel=\"nofollow\">Talk pages</a>');
+tam4cf7cefcd3206.add(18, 10, '<a href=\"http://www.mediawiki.org/wiki/Help:Signatures\" class=\"external text\" title=\"http://www.mediawiki.org/wiki/Help:Signatures\" rel=\"nofollow\">Signatures</a>');
+tam4cf7cefcd3206.add(19, 10, '<a href=\"/wiki/Help:Wiki_Cheatsheet\" title=\"Help:Wiki Cheatsheet\">Wiki cheatsheet</a>');
+tam4cf7cefcd3206.add(20, 1, 'Advanced editing');
+tam4cf7cefcd3206.add(21, 20, '<a href=\"/wiki/Help:Images\" title=\"Help:Images\">Images</a>');
+tam4cf7cefcd3206.add(22, 20, '<a href=\"/wiki/Help:Image_Maps\" title=\"Help:Image Maps\">Image Maps</a>');
+tam4cf7cefcd3206.add(23, 20, '<a href=\"/wiki/Help:Diagrams\" title=\"Help:Diagrams\">Diagrams</a>');
+tam4cf7cefcd3206.add(24, 20, '<a href=\"/wiki/Help:Tables\" title=\"Help:Tables\">Tables</a>');
+tam4cf7cefcd3206.add(25, 20, '<a href=\"/wiki/Help:High_Level_Categories\" title=\"Help:High Level Categories\">Categories</a>');
+tam4cf7cefcd3206.add(26, 20, '<a href=\"/wiki/Help:Subpages\" title=\"Help:Subpages\">Sub pages</a>');
+tam4cf7cefcd3206.add(27, 20, '<a href=\"/wiki/Help:File_Uploads\" title=\"Help:File Uploads\">File Uploads</a>');
+tam4cf7cefcd3206.add(28, 20, '<a href=\"/wiki/Help:Naming_Your_Pages#Moving_and_Renaming_Pages\" title=\"Help:Naming Your Pages\"> Moving (renaming) a page</a>');
+tam4cf7cefcd3206.add(29, 20, '<a href=\"http://www.mediawiki.org/wiki/Help:Redirects\" class=\"external text\" title=\"http://www.mediawiki.org/wiki/Help:Redirects\" rel=\"nofollow\">Redirect</a>');
+tam4cf7cefcd3206.add(30, 20, '<a href=\"/wiki/Help:Deleting_Pages\" title=\"Help:Deleting Pages\">Deleting Pages</a>');
+tam4cf7cefcd3206.add(31, 20, '<a href=\"/wiki/Help:Protected_pages\" title=\"Help:Protected pages\">Protected pages</a>');
+tam4cf7cefcd3206.add(32, 20, '<a href=\"http://www.mediawiki.org/wiki/Help:Templates\" class=\"external text\" title=\"http://www.mediawiki.org/wiki/Help:Templates\" rel=\"nofollow\">Templates</a>');
+tam4cf7cefcd3206.add(33, 20, '<a href=\"/wiki/Help:Templates\" title=\"Help:Templates\">Useful Symbian Templates</a>');
+tam4cf7cefcd3206.add(34, 20, '<a href=\"http://www.mediawiki.org/wiki/Help:Namespaces\" class=\"external text\" title=\"http://www.mediawiki.org/wiki/Help:Namespaces\" rel=\"nofollow\">Namespaces</a>');
+tam4cf7cefcd3206.add(35, 20, '<a href=\"/wiki/Help:Embedding_Video\" title=\"Help:Embedding Video\">Embedding Video</a>');
+tam4cf7cefcd3206.add(36, 20, '<a href=\"/wiki/Help:Embedding_iPaper\" title=\"Help:Embedding iPaper\">Embedding iPaper</a>');
+tam4cf7cefcd3206.add(37, 20, '<a href=\"/wiki/Template:PageTitle\" title=\"Template:PageTitle\">Custom Titles</a>');
+tam4cf7cefcd3206.add(38, 20, '<a href=\"/wiki/Help:Tree_and_Menu\" title=\"Help:Tree and Menu\">Tree &amp; Menu</a>');
+tam4cf7cefcd3206.add(39, 20, '<a href=\"http://www.mediawiki.org/wiki/Extension:ToggleDisplay#Usage\" class=\"external text\" title=\"http://www.mediawiki.org/wiki/Extension:ToggleDisplay#Usage\" rel=\"nofollow\">ToggleDisplay</a>');
+tam4cf7cefcd3206.add(40, 20, '<a href=\"/wiki/Help:Calendars\" title=\"Help:Calendars\">Calendars</a>');
+tam4cf7cefcd3206.add(41, 20, '<a href=\"http://www.mediawiki.org/wiki/Help:Variables\" class=\"external text\" title=\"http://www.mediawiki.org/wiki/Help:Variables\" rel=\"nofollow\">Variables</a>');
+tam4cf7cefcd3206.add(42, 20, '<a href=\"/wiki/Help:Special_Characters\" title=\"Help:Special Characters\">Using Special Characters</a>');
+tam4cf7cefcd3206.add(43, 1, 'Miscellaneous');
+tam4cf7cefcd3206.add(44, 43, '<a href=\"/wiki/Help:Printing\" title=\"Help:Printing\">Printing</a>');
+tam4cf7cefcd3206.add(45, 43, '<a href=\"http://www.mediawiki.org/wiki/Help:Special_pages\" class=\"external text\" title=\"http://www.mediawiki.org/wiki/Help:Special_pages\" rel=\"nofollow\">Special pages</a>');
+tam4cf7cefcd3206.add(46, 43, '<a href=\"http://www.mediawiki.org/wiki/Help:External_searches\" class=\"external text\" title=\"http://www.mediawiki.org/wiki/Help:External_searches\" rel=\"nofollow\">External searches</a>');
+tam4cf7cefcd3206.add(47, 43, '<a href=\"http://www.mediawiki.org/wiki/Help:Bots\" class=\"external text\" title=\"http://www.mediawiki.org/wiki/Help:Bots\" rel=\"nofollow\">Bots</a>');
+tam4cf7cefcd3206.add(48, 43, '<a href=\"http://www.mediawiki.org/wiki/Help:Preferences\" class=\"external text\" title=\"http://www.mediawiki.org/wiki/Help:Preferences\" rel=\"nofollow\">Preferences</a>');
+tam4cf7cefcd3206.add(49, 43, '<a href=\"http://www.mediawiki.org/wiki/Help:Skins\" class=\"external text\" title=\"http://www.mediawiki.org/wiki/Help:Skins\" rel=\"nofollow\">Skins</a>');
+tam4cf7cefcd3206.add(50, 43, '<a href=\"/wiki/Help:RSS_Feeds\" title=\"Help:RSS Feeds\">RSS Feeds</a>');
+tam4cf7cefcd3206.add(51, 43, '<a href=\"/wiki/Help:Bugzilla_reports_in_the_wiki\" title=\"Help:Bugzilla reports in the wiki\">Bugzilla reports in the wiki</a>');
+tam4cf7cefcd3206.add(52, 1, 'Contributing');
+tam4cf7cefcd3206.add(53, 52, '<a href=\"/wiki/Help:Contributing_to_this_Wiki\" title=\"Help:Contributing to this Wiki\">Contributing to this Wiki</a>');
+tam4cf7cefcd3206.add(54, 52, '<a href=\"/wiki/Help:Converting_Documents_To_MediaWiki_Format\" title=\"Help:Converting Documents To MediaWiki Format\">Converting Documents to Wiki</a>');
+tam4cf7cefcd3206.add(55, 52, '<a href=\"/wiki/Help:Naming_Your_Pages\" title=\"Help:Naming Your Pages\">Naming Your Pages</a>');
+tam4cf7cefcd3206.add(56, 52, '<a href=\"/wiki/Help:Skeleton_Topic_Pages\" title=\"Help:Skeleton Topic Pages\">Skeleton Topic Pages</a>');
+tam4cf7cefcd3206.add(57, 52, '<a href=\"/wiki/Help:High_Level_Categories\" title=\"Help:High Level Categories\">High Level Categories</a>');
+tam4cf7cefcd3206.add(58, 52, '<a href=\"/wiki/Help:Migrating_Articles\" title=\"Help:Migrating Articles\">Migrating Articles</a>');
+tam4cf7cefcd3206.add(59, 52, '<a href=\"/wiki/Help:Gardening_the_Wiki\" title=\"Help:Gardening the Wiki\">Gardening the Wiki</a>');
+tam4cf7cefcd3206.add(60, 52, '<a href=\"/wiki/Help:Symbian_Wiki_Management\" title=\"Help:Symbian Wiki Management\">Wiki Management</a>');
+tam4cf7cefcd3206.add(61, 52, '<a href=\"/wiki/Help:Providing_Feedback\" title=\"Help:Providing Feedback\">Providing Feedback</a>');
+tam4cf7cefcd3206.add(62, 52, '<a href=\"/wiki/Help:Reporting_Problems\" title=\"Help:Reporting Problems\">Reporting Problems</a>');
+tam4cf7cefcd3206.add(63, 52, '<a href=\"/wiki/Category:Stub\" title=\"Category:Stub\">Stub Pages</a>');
+tam4cf7cefcd3206.add(64, 52, '<a href=\"/wiki/Help:Sandbox\" title=\"Help:Sandbox\">Sandbox</a>');
+tam4cf7cefcd3206.add(65, 52, '<a href=\"/wiki/Help:Translating_Articles\" title=\"Help:Translating Articles\">Translating Articles</a>');
+tam4cf7cefcd3206.add(66, 1, '<a href=\"/wiki/Category:Help\" title=\"Category:Help\">All Help Topics</a>');
+tam4cf7cefcd3206.add(67, 1, '<a href=\"http://www.mediawiki.org/wiki/Generic\" class=\"external text\" title=\"http://www.mediawiki.org/wiki/Generic\" rel=\"nofollow\">Media Wiki User Help</a>');
+
+									document.getElementById('4cf7cefcd3206').innerHTML = tam4cf7cefcd3206.toString();
+									
+								/*]]>*/</script>
+							</div>
+</p>		</div>
+	</div> 
+	<div id="p-lang" class="portlet">
+		<h5>In other languages</h5>
+		<div class="pBody">
+			<ul>
+				<li class="red"><a href="http://developer.symbian.org/wiki/Symbian_Developer_Community:Copyrights/zh-hans">中文(简体)</a></li>
+				<li class="red"><a href="http://developer.symbian.org/wiki/Symbian_Developer_Community:Copyrights/ja">日本語</a></li>
+				<li class="red"><a href="http://developer.symbian.org/wiki/Symbian_Developer_Community:Copyrights/ko">한국어</a></li>
+				<li class="red"><a href="http://developer.symbian.org/wiki/Symbian_Developer_Community:Copyrights/ru">Русский</a></li>
+				<li class="red"><a href="http://developer.symbian.org/wiki/Symbian_Developer_Community:Copyrights/es">Español</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-tb">
+		<h5>Toolbox</h5>
+		<div class="pBody">
+			<ul>
+				<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Symbian_Developer_Community:Copyrights" title="List of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+				<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Symbian_Developer_Community:Copyrights" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="List of all special pages [q]" accesskey="q">Special pages</a></li>
+<li id="t-pdfprint"><a href="/wiki/index.php?title=Special:Pdfprint&amp;page=Symbian_Developer_Community:Copyrights">Export to PDF</a></li>
+				<li id="t-print"><a href="/wiki/index.php?title=Symbian_Developer_Community:Copyrights&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				<li id="t-permalink"><a href="/wiki/index.php?title=Symbian_Developer_Community:Copyrights&amp;oldid=73535" title="Permanent link to this version of the page">Permanent link</a></li>			</ul>
+		</div>
+	</div>
+	<div class='generated-sidebar portlet' id='p-navigation'>
+				<!--[if lte IE 6]><br style="height:25px;line-height:25px;display:block;clear:both;float:none;" /><![endif]-->
+				<h5>Navigation</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-symbian-appdev-mainpage-desc"><a href="/wiki/Application_Developer_Wiki">Apps home</a></li>
+				<li id="n-symbian-platdev-mainpage-desc"><a href="/wiki/Platform_Developer_Wiki">Platform home</a></li>
+				<li id="n-help"><a href="/wiki/Help:Contents" title="The place to find out">Help</a></li>
+				<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="The list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+				<li id="n-CategoryListText"><a href="/wiki/Special:Categories">Category list</a></li>
+				<li id="n-Glossary"><a href="/wiki/Glossary">Glossary</a></li>
+			</ul>
+		</div>
+	</div>
+		</div><!-- end of the left (by default at least) column -->	
+			
+	<div id="right_column">
+		<div id="column-one">
+	<div id="p-cactions" class="portlet">
+		<h5>Views</h5>
+		<div class="pBody">
+			<ul>
+	
+				 <li id="ca-nstab-project" class="selected"><a href="/wiki/Symbian_Developer_Community:Copyrights" title="View the project page [a]" accesskey="a">Project page</a></li>
+				 <li id="ca-viewsource"><a href="/wiki/index.php?title=Symbian_Developer_Community:Copyrights&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li>
+				 <li id="ca-history"><a href="/wiki/index.php?title=Symbian_Developer_Community:Copyrights&amp;action=history" title="Past versions of this page [h]" accesskey="h">History</a></li>			</ul>
+		</div>
+	</div></div>
+		
+	<div id="content">
+		<a name="top" id="top"></a>
+				<h1 id="firstHeading" class="firstHeading">Symbian Developer Community:Copyrights</h1>
+		<div id="bodyContent">
+			<h3 id="siteSub">From Symbian Developer Community</h3>
+			<!--<div id="contentSub"></div>-->
+												<div id="jump-to-nav">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>			<!-- start content -->
+			<a name="Articles" id="Articles"></a><h2> <span class="mw-headline"> Articles </span></h2>
+<div class="thumb tleft"><div class="thumbinner" style="width:102px;"><a href="/wiki/File:By-sa.jpg" class="image" title="BY SA"><img alt="" src="/wiki/images/thumb/3/30/By-sa.jpg/100px-By-sa.jpg" width="100" height="36" border="0" class="thumbimage" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:By-sa.jpg" class="internal" title="Enlarge"><img src="/wiki/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div><a href="http://creativecommons.org/licenses/by-sa/2.0/uk" class="external text" title="http://creativecommons.org/licenses/by-sa/2.0/uk" rel="nofollow">BY SA</a></div></div></div>
+<p>Unless otherwise stated on individual pages, the content on this wiki is licensed under the Creative Commons Attribution-Share Alike 2.0 UK: England &amp; Wales License. 
+</p><p>To view a copy of the creative commons license, visit 
+<a href="http://creativecommons.org/licenses/by-sa/2.0/uk" class="external text" title="http://creativecommons.org/licenses/by-sa/2.0/uk" rel="nofollow">creativecommons.org/licenses/by-sa/2.0/uk</a> or send a letter to Creative Commons, 171 Second Street, Suite 300, San Francisco, California, 94105, USA.
+</p><p>If you re-use content from this wiki you will need to attribute the source. The attribution should include:
+</p>
+<ul><li> The name of the author and/or licensor
+</li><li> The title of the work and
+</li><li> The URL that is associated with the work 
+</li><li> A copy of the Creative Commons licence that applies, with version (2.0)
+</li></ul>
+<p>Any pages that are covered by the "no derivative" licences, must be recreated in their entirety. Of the pages that are share alike, any changes or derivations made must also be licensed under the same Creative Commons licence and stated as such. eg
+</p>
+<div class="infobox2" style="width:60%; border:none; padding:0px; text-align:center; margin-left: 0px; background: white; border:1px solid #000000;">
+<table border="0" width="100%" cellspacing="0" cellpadding="0"><tr><td valign="top" width="100"><div class="floatleft"><a href="/wiki/File:By-sa.jpg" class="image" title="By-sa.jpg"><img alt="" src="/wiki/images/3/30/By-sa.jpg" width="168" height="60" border="0" /></a></div></td><td valign="top"><small>© 2010 Symbian Foundation Limited. Portions copyright <i>Name of person making changes</i>. This document is licensed under the <a href="http://creativecommons.org/licenses/by-sa/2.0/uk/" class="external text" title="http://creativecommons.org/licenses/by-sa/2.0/uk/" rel="nofollow">Creative Commons Attribution-Share Alike 2.0</a> license. See <a href="http://creativecommons.org/licenses/by-sa/2.0/legalcode" class="external free" title="http://creativecommons.org/licenses/by-sa/2.0/legalcode" rel="nofollow">http://creativecommons.org/licenses/by-sa/2.0/legalcode</a> for the full terms of the license.</small></td></tr></table></div>
+<a name="Example_code" id="Example_code"></a><h2> <span class="mw-headline"> Example code </span></h2>
+<p>Example code is licensed separately. Please see the notices in the download of individual code projects.<br />
+</p>
+<a name="Images_.26_other_files" id="Images_.26_other_files"></a><h2> <span class="mw-headline"> Images &amp; other files </span></h2>
+<p>Images and other files uploaded to this wiki may also be licensed separately. Please see the wiki page associated with each upload for further details.
+</p>
+<!-- 
+NewPP limit report
+Preprocessor node count: 24/1000000
+Post-expand include size: 725/2097152 bytes
+Template argument size: 350/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key wikidb:pcache:idhash:2147-0!1!0!!en!2!edit=0 and timestamp 20101202165315 -->
+<div class="printfooter">
+Retrieved from "<a href="http://developer.symbian.org/wiki/Symbian_Developer_Community:Copyrights">http://developer.symbian.org/wiki/Symbian_Developer_Community:Copyrights</a>"</div>
+						<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>:&#32;<span dir='ltr'><a href="/wiki/Category:Help" title="Category:Help">Help</a></span> | <span dir='ltr'><a href="/wiki/Category:Open_Source" title="Category:Open Source">Open Source</a></span></div></div>			<!-- end content -->
+
+						<div class="visualClear"></div>
+
+		</div>
+	</div>
+		</div></div>
+		<!-- end right column --> 
+	
+			<div class="visualClear"></div>
+			<div id="footer">
+				<div id="f-poweredbyico"><a href="http://www.mediawiki.org/"><img src="/wiki/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" /></a></div>
+			<ul id="f-list">
+					<li id="lastmod"> This page was last modified on 18 October 2010, at 22:33.</li>
+					<li id="viewcount">This page has been accessed 13,927 times.</li>
+					<li id="copyright"><a href="/wiki/index.php/Symbian_Developer_Community:Copyrights" class="external " title="/wiki/index.php/Symbian_Developer_Community:Copyrights">Wiki licensing policy</a></li>
+					<li id="disclaimer"><a href="/wiki/Symbian_Developer_Community:General_disclaimer" title="Symbian Developer Community:General disclaimer">Disclaimers</a></li>
+			</ul>
+		
+
+
+
+
+		<script type="text/javascript">if (window.runOnloadHook) runOnloadHook();</script>
+<!-- Served in 1.801 secs. --></div></div>
+<div class="clear20"></div>
+﻿<!--googleoff: all-->
+</div>
+<div id="dev_footer">
+	<div id="s_footer"></div>
+	<div id="footer_top_links">
+		<ul>
+			<li><a class="thickbox" target="_blank" href="http://developer.symbian.org/main/subscribe.php?keepThis=true&amp;TB_iframe=true&amp;height=75%&amp;width=735">Subscribe to our newsletter</a></li>
+			<li class="last"><a class="thickbox" target="_blank" title="Feedback" href="http://developer.symbian.org/main/feedback/index.php?keepThis=true&amp;TB_iframe=true&amp;height=95%&amp;width=785">Feedback</a></li>
+		</ul>
+	</div>
+	<div class="clear10"></div>
+	
+
+		
+	<div class="links_block first">
+		<h4 id="footer_planet">OUR SITES</h4>
+		<ul>
+						<li><a target="_blank" href="http://www.symbian.org">symbian.org</a></li>
+						<li><a target="_blank" href="http://developer.symbian.org">developer</a></li>
+						<li><a target="_blank" href="http://ideas.symbian.org/homepage">ideas</a></li>
+						<li><a target="_blank" href="http://www.symbiansigned.com">symbian signed</a></li>
+						<li><a target="_blank" href="http://blog.symbian.org/">symbian blog</a></li>
+					</ul>
+		<!-- <h4 id="sitemap"><a href="/main/ /sitemap.php">Sitemap</a></h4> -->
+	</div>
+	
+	<div class="links">
+	
+		<div class="links_block second">	
+			<h4>DEVELOPER PROGRAMS</h4>
+			<h4><a href="/main/source/technology_domains/index.php">Source</a></h4>
+			<ul>
+								<li><a href="/main/source/technology_domains/index.php">Technology domains</a></li>
+								<li><a href="/main/source/packages/index.php">Packages</a></li>
+								<li><a href="/main/source/browse/index.php">Browse code</a></li>
+								<li><a href="/bugs/">Bug tracker</a></li>
+								<li><a href="/wiki/index.php/Roadmap_for_the_Symbian_Platform">Roadmap</a></li>
+								<li><a href="/mailman/listinfo">Mailing lists</a></li>
+							</ul>
+						<h4><a href="/webbugs">Website bugs</a></h4>
+					</div>
+		
+		<div class="links_block third">
+			<h4><a href="/main/documentation/">Documentation</a></h4>
+			<ul>
+								<li><a href="/main/documentation/carbide/index.php">Application reference</a></li>
+								<li><a href="/main/documentation/reference/s%5E3/doc_source/">Product reference Symbian^3</a></li>
+								<li><a href="/main/documentation/reference/s%5E2/doc_source/">Product reference Symbian^2</a></li>
+								<li><a href="/wiki">Wiki</a></li>
+								<li><a href="/main/documentation/books/index.php">Books</a></li>
+							</ul>
+						<h4><a href="/forum">Forums</a></h4>
+						<h4><a href="/main/sitemap/sitemap.php">Sitemap</a></h4>
+					</div>
+		
+		<div class="links_block fourth">
+			<h4>CONTACT</h4>
+			<ul class="contact">
+				<li><a target="_blank" href="http://developer.symbian.org/main/contact/contact_us/">Got a question? Fire away here</a></li>				<li><a target="_blank" href="http://developer.symbian.org/main/contact/notify_us.php">Notify us of a copyright infringement </a></li>				<li><a target="_blank" href="http://developer.symbian.org/main/contact/index.php">Locate our offices </a></li>
+				<li><a target="_blank" href="http://www.symbian.org/about-us/jobs-symbian">Careers at Symbian</a></li>
+			</ul>
+			
+			<h4>Follow us</h4>
+			<ul class="follow">
+				<li><a target="_blank" href="http://twitter.com/symbian">Twitter</a></li>
+				<li><a target="_blank" href="http://www.facebook.com/group.php?sid=6f83cd3416e2c6dae2071a472a5438ea&amp;gid=54539976089">Facebook</a></li>
+				<li><a target="_blank" href="http://www.myspace.com/symbianf">MySpace</a></li>
+				<li><a target="_blank" href="http://www.youtube.com/symbianfoundation">YouTube</a></li>
+			</ul>
+		</div>
+	
+		<div class="clear"></div>
+		<div id="copy">
+			<p>
+				&copy; 2010 Symbian Foundation Limited. 
+				<a target="_blank" href="http://developer.symbian.org/main/legal/website_t_and_c.php">Terms &amp; conditions</a>
+				<span>&amp;</span>
+				<a target="_blank" href="http://developer.symbian.org/main/legal/privacy.php">Privacy policy</a>
+			</p>
+		</div>
+	</div>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	<div class="right">
+				<script src="/js/gatag.js" type="text/javascript"></script>
+		<script type="text/javascript">
+				var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+				document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+		</script>
+		<script type="text/javascript">
+				try {
+					var pageTracker = _gat._getTracker("UA-6718609-1");
+					pageTracker._trackPageview();
+				} catch(err) {}
+		</script>
+			</div>
+</div>
+<div id="subfooter"></div>
+<!--googleon: all-->
+</body><!-- Cached 20101202165319 -->
+</html>

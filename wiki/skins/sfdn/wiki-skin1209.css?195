@@ -1,0 +1,99 @@
+/* Symbian Foundation Developer http://www.developer.symbian.org
+   CSS
+   Version 8
+   Date: 22-03-2010
+*/
+
+/* Wiki template rewritten to introduce normal semi-fluid layout,
+   absolute positioning of the elements removed throughout the template */
+
+/* site top */
+
+#global_links #international {
+width:130px;
+margin-top:1px;
+margin-right:36px
+}
+
+#global_links #international ul {
+float:none;
+width:130px;
+}
+
+#dropmenu li {
+margin-bottom:0;
+}
+
+#portal_nav #dropmenu {
+margin:-2px 0 0 0;
+}
+
+#portal_nav #dropmenu ul {
+margin:0;
+}
+
+/* new semi-fluid layout */
+
+#left_column {
+float:left;
+width:277px;
+position:relative;
+}
+
+#right_column {
+float:right;
+width:100%;
+margin-left:-277px;
+}
+
+#content {
+overflow:hidden;
+margin:0 0 0 295px;
+}
+
+#globalWrapper {
+font-size:1.1em;
+margin:10px 0 0;
+padding:0;
+position:relative;
+width:100%;
+}
+
+/* normalising the positioning of page tabs */
+
+#right_column #p-cactions {
+position:static;    
+}
+
+#pageFunction  {
+position:relative;
+z-index:200;
+}
+
+#pageFunction a {
+visibility:hidden	
+}
+
+#subheader .breadcrumbs {
+min-width:350px;
+padding:0;
+margin:0;
+height:33px;
+}
+
+/* breadcrumbs fix for Safari and Chrome */
+
+body:nth-of-type(1) #subheader .breadcrumbs {
+min-width:350px;
+height:33px; 
+}
+
+#devnet_footer {
+width:auto;
+zoom:1
+}
+
+
+
+
+

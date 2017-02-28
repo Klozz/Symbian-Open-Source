@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/" xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+<ShortName>developer.symbian.org</ShortName>
+<Description>Symbian developer community search</Description>
+<InputEncoding>UTF-8</InputEncoding>
+<Image height="16" width="16" type="image/x-icon">http://developer.symbian.org/favicon.ico</Image>
+<Url type="text/html" method="GET" template="http://developer.symbian.org/search/search_results.php?txtSearch={searchTerms}">
+</Url>
+<moz:SearchForm>http://developer.symbian.org/search/search_results.php?txtSearch=</moz:SearchForm>
+</OpenSearchDescription>

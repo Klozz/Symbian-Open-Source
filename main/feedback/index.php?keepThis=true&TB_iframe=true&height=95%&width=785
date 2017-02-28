@@ -1,0 +1,213 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+    <head>
+        <meta name="generator" content= "HTML Tidy, see www.w3.org" />
+        <meta http-equiv="Content-Type" content= "text/html; charset=utf-8" />
+        <meta http-equiv="imagetoolbar" content="no" />
+        <title>
+            Symbian developer community - feedback        </title>
+        <meta name="description" content= "Symbian developer community feedback" />
+        <meta name="keywords" content= "Symbian, Symbian Foundation, developer community feedback" />
+        <meta http-equiv="Content-Language" content="en" />
+        <link type="text/css" rel="stylesheet" href="/min/?f=css/common.css" media="screen"/>
+<link type="text/css" rel="stylesheet" href="/min/?f=css/print.css" media="print"/>
+<link type="text/css" rel="stylesheet" href="/min/?f=css/sIFR-screen.css" media="screen"/>
+<link type="text/css" rel="stylesheet" href="/css/dropdown.css" media="screen"/>
+	<link href="/includes/dso_opensearch.xml" rel="search" type="application/opensearchdescription+xml" title="developer.symbian.org" />
+<!--[if IE]>
+<link href="/min/?f=css/iefix.css" rel="stylesheet" type="text/css" /> 
+<![endif]-->
+
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+<script type="text/javascript" src="/min/?g=dev_j"></script>
+<script type="text/javascript" src="/js/jquery.cookie.js"></script>
+
+        <script type="text/javascript" language="javascript">
+		<!--
+            function counterUpdate(opt_countedTextBox, opt_countBody, opt_maxSize){
+                var countedTextBox = opt_countedTextBox ? opt_countedTextBox : "question";
+                var countBody = opt_countBody ? opt_countBody : "countBody";
+                var maxSize = opt_maxSize ? opt_maxSize : 1024;
+                
+                var field = document.getElementById(countedTextBox);
+                
+                if (field & field.value.length >= maxSize) {
+                    field.value = field.value.substring(0, maxSize);
+                }
+                var txtField = document.getElementById(countBody);
+                if (txtField) {
+                    txtField.innerHTML = field.value.length;
+                    // txtField.innerHTML = maxSize- field.value.length;
+                }
+            }
+		// -->
+        </script>
+        <script type="text/javascript">
+            <!--
+            $(document).ready(function(){
+                var validator = $('#feedbackFrm').validate({
+                    rules: {
+                        FirstName: {
+                            required: '#contact_submitter_yes:checked',
+							maxlength:255
+                        },
+                        LastName: {
+                            required: '#contact_submitter_yes:checked',
+							maxlength:255
+                        },
+                        option: {
+                            required: '#contact_submitter_yes:checked',
+                            email: '#contact_submitter_yes:checked'
+                        },
+						FeedbackType:{maxlength:20},
+						FeedbackArea:{maxlength:25},
+						QuestionComment:{maxlength:2000}
+                    },
+					errorPlacement: function(error, element) {
+						 if (element.attr("id")=="FeedbackType")
+						   element.parent().append(error);
+						 else
+						   error.insertAfter(element);
+					}
+				});
+				
+                $('#contact_submitter_yes').click(function(){
+                    $('li.feedback_contacts').show();
+                });
+                $('#contact_submitter_no').click(function(){
+                    $('li.feedback_contacts').hide();
+                });
+                $('select#FeedbackType').change(function(){
+                    if ($(this).val() == 'Others') 
+                        $('#Others').show();
+                    else 
+                        $('#Others').hide();
+                });                
+                $('#resetForm').bind('click', function(){
+                    $('#txtOtherFeedbackType').hide();
+                    $('li.feedback_contacts').show();
+                    validator.resetForm();
+                });
+				$('select#FeedbackType').triggerHandler('change');
+            });
+			
+			$(document).keyup(function(event){
+			  if (event.keyCode == 27) {
+			      parent.tb_remove();
+			   }
+			});
+
+            // -->
+        </script>
+    </head>
+    <body>
+        <div id="contentContainer">
+                        
+            <!--START of page content-->
+            <div id="feedbackform">
+            	   <div class="left">
+                   	<h2 class="cssImg feedback_headline"><span class="img_feedback_headline">Feedback</span></h2>
+           			 </div>
+                <form name="feedbackFrm" id="feedbackFrm" action="" method="post">
+                    <p class="instruction">
+                        (<span class= "compulsory">*</span>) Required Information
+                    </p>
+                    <div class="left BoxFrame" style="width:100%">
+                        <div class="colBoxTop">
+                            <h3>Feedback Details</h3>
+                        </div>
+                        <input type="hidden" name="action" value= "submit" />
+                        <ol class="forms">
+                            <li class="feedback_category">
+                            	<label for="FeedbackArea">
+                                    Type of feedback <span class= "compulsory">*</span>
+                                </label>                            
+                                <select name="FeedbackType" id="FeedbackType" class="required">
+                                                                        <option value=""
+                                         selected="selected">
+                                        Please select                                    </option>
+                                                                        <option value="Things I like..."
+                                        >
+                                        Things I like...                                    </option>
+                                                                        <option value="Things I don't like..."
+                                        >
+                                        Things I don't like...                                    </option>
+                                                                        <option value="Suggestions"
+                                        >
+                                        Suggestions                                    </option>
+                                                                    </select><span class= "compulsory">*</span>
+                            </li>
+                            <li>
+                                <label for="FeedbackArea">
+									&nbsp;
+                                </label>
+                                <select name="FeedbackArea" id="FeedbackArea" class="required">
+                                                                        <option value="" selected="selected">
+                                        Please select                                    </option>
+                                                                        <option value="Website">
+                                        Website                                    </option>
+                                                                        <option value="Phones">
+                                        Phones                                    </option>
+                                                                        <option value="Symbian OS">
+                                        Symbian OS                                    </option>
+                                                                        <option value="Others">
+                                        Others                                    </option>
+                                                                    </select><span class= "compulsory">*</span>
+                                <input id= "Others" name= "Others" type="text" style="display:none;"/>
+                            </li>
+                            <li id="feedback_questioncomment">
+                                <label for= "QuestionComment">
+                                    Question or Comment<span class= "compulsory">*</span>
+                                </label>
+                                <textarea name="QuestionComment" id= "QuestionComment" rows="5" cols="5" class="required" onkeyup="counterUpdate('QuestionComment', 'countBody','2000');"></textarea>
+                                <div class="wordcount">You typed <b><span id= "countBody">0</span></b>
+                                /2000 characters</div>
+                            </li>
+                            <li class="grouping">
+                                <label>
+                                    Would you like us to contact
+                                    you regarding your
+                                    feedback?
+                                </label>
+                                <ul>
+                                    <li>
+                                        <input name="ContactMe" id= "contact_submitter_yes" type= "radio" value="Yes" checked= "checked" />
+                                        <label for= "contact_submitter_yes">
+                                            Yes
+                                        </label>
+                                        <input name="ContactMe" id= "contact_submitter_no" type= "radio" value="No" />
+                                        <label for= "contact_submitter_no">
+                                            No
+                                        </label>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li class="feedback_contacts">
+                                <label for="FirstName">
+                                    First Name <span class= "compulsory">*</span>
+                                </label>
+                                <input type="text" name="FirstName" id= "FirstName" value= "" />
+                            </li>
+                            <li class="feedback_contacts">
+                                <label for="LastName">
+                                    Last Name <span class= "compulsory">*</span>
+                                </label>
+                                <input type="text" name="LastName" id= "LastName" value= "" />
+                            </li>
+                            <li class="feedback_contacts">
+                                <label for="Email">
+                                    Email <span class= "compulsory">*</span>
+                                </label>
+                                <input type="text" name="option" id="Email" value= "" />
+                                <input type="text" name="Email" value="" style="display: none"/>
+                            </li>
+                        </ol>
+                    </div>
+                    <p class="buttons">
+                        <input type="submit" name= "submitForm" id="submitForm" value="Submit" alt="Submit" /><!-- <input type="submit" name="submitForm" id="submitForm" value="Submit" alt="Submit" />-->
+                    </p>
+                </form>
+            </div><!--END of page content-->
+        </div>
+            </body>
+</html>

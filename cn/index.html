@@ -1,0 +1,743 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="cn" lang="cn">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title>Symbian 开发者社区</title>
+	<meta name="description" content="Symbian 开发者社区中文主页。Symbian 是移动设备的开源操作系统。" />
+	<meta name="keywords" content="Symbian 开发者, Symbian 平台, Symbian C++,手机开发, 应用开发" />
+	<meta http-equiv="Content-Language" content="cn" />
+	<link type="text/css" rel="stylesheet" href="/min/?f=css/common.css" media="screen"/>
+<link type="text/css" rel="stylesheet" href="/min/?f=css/print.css" media="print"/>
+<link type="text/css" rel="stylesheet" href="/min/?f=css/sIFR-screen.css" media="screen"/>
+<link type="text/css" rel="stylesheet" href="/css/dropdown.css" media="screen"/>
+<link href="/includes/dso_opensearch.xml" rel="search" type="application/opensearchdescription+xml" title="developer.symbian.org" />
+
+<!--[if IE]>
+<link href="/min/?f=css/iefix.css" rel="stylesheet" type="text/css" /> 
+<![endif]-->
+
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+<script type="text/javascript" src="/min/?g=dev_j"></script>
+<script type="text/javascript" src="/js/jquery.cookie.js"></script>
+	
+	    <link rel="stylesheet" href="/css/jquery.tabs.cn.css" type="text/css" media="screen" />
+        <script src="/js/jquery-ui.js" type="text/javascript"></script>
+        <script src="/js/jquery-tabs.js" type="text/javascript"></script>      
+        <script type="text/javascript">
+            // The following function is called once the rest of the document is fully loaded
+            $(document).ready(function()
+            {
+                $("#package_tabs > ul").tabs(); // Make the tabs.
+				$("#package_tabs2 > ul").tabs(); // Make the tabs.
+            });
+
+        </script>
+		
+		<script type="text/javascript" src="images-on.js"></script>
+		
+				<script type="text/javascript">
+$(document).ready(function(){
+	highlightMenu("m_item1");
+});
+</script>
+		
+</head>
+<body class="local chineseportal">
+		<!--START of header-->
+		<!--googleoff: all-->
+<div id="topannounce" class="announce" style="display:none;">
+This website closing in December: <a href = "/wiki/Symbian_Foundation_web_sites_to_shut_down">Read more</a>
+	<a href = "#" onclick = "$.cookie('notificationBar', 'closed', { expires: 30} ); $('#topannounce').slideUp('fast')" class="rightCloseButton" title = "Click to close this notification">X</a>   
+</div>
+
+<script type="text/javascript">
+$(document).ready(function(){
+	if ($.cookie('notificationBar') != 'closed') {
+		$('#topannounce').fadeIn('slow');
+	}
+});	
+</script>
+<div id="site_top">
+  <div id="global_links">
+    <div id="bookmark_share"><a class="addthis_button" href="https://www.addthis.com/bookmark.php">书签与共享</a>
+      <script type="text/javascript" >
+var addthis_config =
+{
+   data_use_cookies: false,
+   data_use_flash: false
+};</script>
+      <script type="text/javascript" src="https://s7.addthis.com/js/250/addthis_widget.js?pub=xa-4aa66a0a5f0b282c">
+</script>
+    </div>
+    <div id="our_sites">
+      <ul id="sites1">
+         <li><a id="our_sites_list" href="#">我们的网站</a></li>
+        <li>
+          <ul id="our-sites-box">
+            <li class="header">我们的网站</li>
+            <li><a href="http://www.symbian.org" target="_blank">Symbian.org</a></li>
+            <li><a href="http://ideas.symbian.org" target="_blank">Ideas</a></li>
+            <li><a href="http://horizon.symbian.org" target="_blank">Horizon</a></li>
+            <li><a href="http://symbiansigned.com" target="_blank">Signed</a></li>
+            <li><a href="http://blog.symbian.org" target="_blank">Blog</a></li>
+            <li><a href="http://blogcn.symbian.org" target="_blank">中文博客 (Chinese blog)</a></li>
+            <li><a href="http://www2.symbian.org/cn/" target="_blank">中文网站 (Chinese)</a></li>
+            <li><a href="http://blogjp.symbian.org" target="_blank">日本語ブログ (Japanese blog)</a></li>
+            <li><a href="http://www.symbian.org/jp/" target="_blank">日本語サイト (Japanese)</a></li>
+            <li class="footer">&#160;</li>
+          </ul>
+        </li>
+      </ul>
+    </div>
+   
+    
+    <div id="international">
+      <ul><li><a href="/">English</a></li>
+      <li><a href="/jp/" title="日本語">日本語</a></li>
+      <li class="last"><a id="china" href="/cn/" title="中文">中文</a></li>
+      </ul>
+ 
+    </div>
+ 
+   <div id="login_bar">
+      	
+      <div id="signed_out">
+        <form name="frmLogin" id="frmLogin" action="https://developer.symbian.org/main/user_profile/login.php" method="post">				      
+          <label for="username">用户名</label>
+          <div class="fieldHolder">
+            <input type="text" name="username" id="username" class="textInput"  />
+          </div>
+          <label for="password">密码</label>
+          <div class="fieldHolder">
+            <input type="password" name="password" id="password" class="textInput" />
+          </div>
+          <span class="login_button">[</span><input type="submit" name="submit" id="submit" value="登陆" /><span class="closing_bracket">]</span>
+	 <a id="register" href="https://developer.symbian.org/main/user_profile/register.php">注册</a>	
+	 <a id="forgot_password" href="https://developer.symbian.org/main/user_profile/forgot_password.php">忘记密码</a>
+        
+	</form>
+	  
+	  <div class="clear">&#160;</div>
+	</div>  
+      </div>
+      <!-- end login section -->
+     
+            
+            
+      </div>
+  <div class="clear">&#160;</div>
+  </div><!-- end login section -->
+
+<div id="container">
+    <div id="devnet_header"><a id="home" href="/"><span>Symbian软件开发</span></a>
+<!--START of Search Form-->		
+			<div id="searchForm" class="right">				
+				<form name="frmSearch" action="/search/search_results.php" method="get">
+					<label for="txtSearch">搜索</label>
+		<div class="fieldHolder">
+		<input type="text" name="txtSearch" id="txtSearch" class="textInput"
+		value="搜索" 
+                onfocus="if(this.value == this.defaultValue) this.value = ''" />
+					
+    <input type="image" id="SearchButton" src="/img/skin1009/search_button.png" style="width:46px; height:47px" />
+					</div>
+					<br class="clear" />					
+				</form>
+			</div>
+    
+    </div>
+
+	<div id="portal_nav-cn">
+		<ul id="dropmenu-cn">
+					<li id="m_item1" ><a href="/cn/index.php" target="">Home</a>			
+			 			</li>
+						<li id="m_item2" ><a href="/main/source/index.php" target="">资源</a>			
+			 <ul>				<li><a href="/main/source/technology_domains/index.php" target="">开发者计划</a></li>
+								<li><a href="/main/source/packages/index.php" target="">软件模块</a></li>
+								<li><a href="/main/source/browse/index.php" target="">浏览代码</a></li>
+								<li><a href="/bugs" target="">递交和跟踪Bug</a></li>
+								<li class="last"><a href="/wiki/index.php/Roadmap_for_the_Symbian_Platform" target="">产品路线图</a></li>
+				</ul>			</li>
+						<li id="m_item3" ><a href="/main/tools_and_kits/index.php" target="">工具及开发包</a>			
+			 			</li>
+						<li id="m_item4" ><a href="/main/documentation/index.php" target="">文档</a>			
+			 <ul>				<li><a href="/main/documentation/carbide/index.php" target="">应用开发文档</a></li>
+								<li><a href="/main/documentation/reference/s3/pdk/" target="">产品开发文档Symbian3</a></li>
+								<li><a href="/main/documentation/reference/s^2/doc_source/" target="">产品开发文档Symbian2</a></li>
+								<li><a href="/wiki/index.php/Main_Page/zh-hans/" target="">Wiki</a></li>
+								<li class="last"><a href="/wiki/Symbian_Press_Books/Symbian出版的中文图书/zh-hans" target="">图书</a></li>
+				</ul>			</li>
+						<li id="m_item5" ><a href="/forum" target="">论坛</a>			
+			 			</li>
+						<li id="m_item6" ><a href="/main/services/index.php" target="">服务</a>			
+			 <ul>				<li><a href="http://blogcn.symbian.org/?p=290" target="_blank">Symbian Horizon</a></li>
+								<li><a href="/wiki/index.php/Category:Symbian_Signed" target="">Symbian 签名指南</a></li>
+								<li><a href="/main/services/professional_services/index.php" target="">专业技术服务</a></li>
+								<li><a href="/main/services/tech_support/index.php" target="">技术支持</a></li>
+								<li><a href="/main/services/training/index.php" target="">Symbian技术培训</a></li>
+								<li class="last"><a href="/cn/asd/index.php" target="">ASD工程师认证考试</a></li>
+				</ul>			</li>
+						<li id="m_item7" class="last"><a href="/main/about/index.php" target="">关于</a>			
+			 <ul>				<li><a href="http://www2.symbian.org/cn/about/opensource.php" target="_blank">平台简介</a></li>
+								<li><a href="http://www2.symbian.org/cn/about/councils.php" target="_blank">软件管理理事会</a></li>
+								<li><a href="http://www2.symbian.org/cn/about/events.php" target="_blank">活动</a></li>
+								<li><a href="http://www2.symbian.org/cn/members/" target="_blank">成为会员</a></li>
+								<li class="last"><a href="/wiki/index.php/Get_involved_with_Symbian" target="">加入我们</a></li>
+				</ul>			</li>
+						
+    </ul>	<div class="clear">&#160;</div>
+  </div>
+ <!--googleon: all-->
+	
+		<!--END of header-->		
+	<div class="clear"></div>
+		<div id="contentContainer_home">
+  <div id="leftColumn_home">
+  
+<!--START of content boxes for PLATFORM -->
+<h2><a href="/wiki/Symbian_Foundation_web_sites_to_shut_down"><img src="/img/cn/final-cn.png"  alt="Website shutdown" class="subcontentImage" /></a></h2>
+	
+<div class="platform-header-cn">
+	<h3>Symbian平台简介</h3>
+	</div>
+	
+    <div class="sixpack">
+	
+	<!-- Get Involved -->
+	
+      <div class="sixpackbox" id="get-involved-pack-cn">
+        <div class="pack-inner">
+          <div class="pack-content-cn">
+	     		 <h3><a href="/wiki/Get_involved_with_Symbian/zh-hans">加入我们</a></h3>
+            <p>向Symbian贡献代 码、技能，和投入时间</p>
+          </div>
+        </div>
+      </div>
+	  
+	<!-- Search Code -->
+	
+      <div class="sixpackbox" id="search-code-pack-cn"><span class="hidden">搜索代码</span>
+        <div class="pack-inner">
+          <div class="pack-content-cn">
+             			 <h3><a href="/xref/oss/">搜索代码</a></h3>
+            <p>以前后参照方式浏览或搜索代码</p>
+          </div>
+        </div>
+      </div>
+	  
+	<!-- Code Repository -->	  
+	  
+      <div class="sixpackbox" id="code-repository-pack-cn"><span class="hidden">代码库</span>
+        <div class="pack-inner">
+          <div class="pack-content-cn">
+            			<h3><a href="/oss/">代码储存库</a></h3>
+            <p>请于SCM查阅修订记录并获取代码</p>
+          </div>
+        </div>
+      </div>
+	  
+	<!-- Bugs -->
+	  
+      <div class="sixpackbox" id="bugs-pack-cn"><span class="hidden">Bugs</span>
+        <div class="pack-inner">
+          <div class="pack-content-cn">
+            			<h3><a href="/bugs/">Bugs</a></h3>
+            <p>提出问题，追踪问题</p>
+          </div>
+        </div>
+      </div>
+	  
+	<!-- Incubator -->	  
+	  
+      <div class="sixpackbox" id="incubator-pack-cn"><span class="hidden">孵化项目</span>
+        <div class="pack-inner">
+          <div class="pack-content-cn">
+           		   <h3><a href="/main/source/packages/index.php?package_type=2">孵化项目</a></h3>
+<p>了解孵化中的项目</p>
+          </div>
+        </div>
+      </div>
+	  
+	<!-- Downloads -->
+	  
+      <div class="sixpackbox" id="downloads-pack-cn"><span class="hidden">下载</span>
+        <div class="pack-inner">
+          <div class="pack-content-cn">
+              			  <h3><a href="https://developer-secure.symbian.org/main/user_profile/login.php?referer=%2Fmain%2Ftools_and_kits%2Fdownloads%2Fview.php%3Fid%3D5">下载</a></h3>
+            <p>获取工具与开发包</p>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+
+    <div id="highlights">
+	
+<!--START of content boxes for APPLICATION -->
+
+	<div class="clear"></div>
+	
+	<div class="application-header-cn">
+	<h3>应用软件开发</h3>
+	</div>
+	
+	<!-- Develop It -->
+	
+    <div id="sixpack">
+      <div class="sixpackbox" id="developit-pack-cn"><span class="hidden">开发</span>
+        <div class="pack-inner-small clickable-box">
+          <div class="pack-content-cn">
+	    		<h3><a href="/wiki/Application_Developer_Wiki/zh-hans">开发</a></h3>
+<p>有关在Symbian平台上进行开发的更多信息</p>
+          </div>
+        </div>
+      </div>
+	  
+	<!-- Sign It -->
+	
+      <div class="sixpackbox" id="testit-pack-cn"><span class="hidden">签名</span>
+        <div class="pack-inner-small clickable-box">
+          <div class="pack-content-cn">
+	     		 <h3><a href="/wiki/Apps:Qt_%26_Application_Signing/zh-hans">签名</a></h3>
+<p>应用签名简介</p>
+          </div>
+        </div>
+      </div>
+	  
+	<!-- Publish It -->	 
+	 
+      <div class="sixpackbox" id="publishit-pack-cn"><span class="hidden">发布</span>
+        <div class="pack-inner-small clickable-box">
+          <div class="pack-content-cn">
+             			 <h3><a href="http://blogcn.symbian.org/?p=290" target="_blank">发布</a></h3>
+<p>请参与Symbian Horizon计划</p>
+          </div>
+        </div>
+      </div>
+      <div class="clear"></div>
+    </div>   
+     
+          
+	  
+<!-- ******** Symbian Services ********* -->
+
+  
+	  
+    <div class="highlight wide top">
+        <h3 id="symbian-services-cn"><span class="hidden">服务</span></h3>
+	</div>
+      <div class="highlight wide mid">
+		
+		<div class="clear20"></div>
+				<h2 class="chinese">Symbian领域中的专业服务</h2>
+		<div class="clear"></div>
+		
+	<!-- begin left col -->
+	
+	<div class="column-cn left">
+	
+		
+		
+		<!-- Symbian Horizon -->
+	
+	  <div class="highlight-block">
+     <a href="http://blogcn.symbian.org/?p=290" target="_blank"><img src="/img/cn/content_symbian_horizon.gif" alt="Symbian Horizon" border="0" /><span class="hidden">Symbian Horizon</span></a>
+          		  <p>就如图书出版商寻找最佳作者，Symbian也全力寻求最优秀的应用开发者。如果您有一个应用，或者您有一个欲加以开发的应用创意，这正是我们喜欢的，我们会为您发布，而且不会收取费用。</p>
+      </div>
+      
+
+		<!-- Professional Service -->
+		
+           <div class="highlight-block">
+		 <a href="/main/services/professional_services/index.php"><img src="/img/cn/content_professional_services.gif" alt="专业服务" border="0" /><span class="hidden">专业服务</span></a>
+          		  <p>针对你的Symbian平台产品，您是否需要设计、测试、定制或本地化方面的帮助？请从这里开始搜索。</p>
+      </div>
+             
+	    <!-- Training -->
+		
+           <div class="highlight-block">
+		 <a href="/main/services/training/index.php"><img src="/img/cn/content_training.gif" alt="Symbian技术培训" border="0" /><span class="hidden">Symbian技术培训</span></a>
+          		  <p>Symbian技术培训服务让您的开发更高效、更快捷。</p>
+           </div>
+	     
+	</div> 
+	
+	<!-- end left col -->   
+	
+	<!-- begin right col -->  
+	   
+	   <div class="column-cn right last">
+	   
+	     <!-- Symbian Signed -->
+		 
+      <div class="highlight-block">
+      <a href="/wiki/index.php/Category:Symbian_Signed"><img src="/img/cn/content_symbian_signed.gif" alt="Symbian 签名指南" border="0" /><span class="hidden">Symbian 签名指南</span></a>
+          		  <p>Symbian签名由Symbian协会代表Symbian社区管理，让广大开发者能够对某个应用进行签名，以便部署到Symbian终端。</p>
+      </div>
+      
+        <!-- Tech Support -->
+		
+           <div class="highlight-block">
+		 <a href="/main/services/tech_support/index.php"><img src="/img/cn/content_tech_support.gif" alt="技术支持" border="0" /><span class="hidden">技术支持</span></a>
+          		  <p>寻求技术支持？如果您需要更多支持，请加入开发者社区，许多会员公司既提供基于合约的支持，也提供基于个案的支持。</p>
+           </div>
+     
+        <!-- ASD: Accredited Symbian Developer -->
+      
+	      <div class="highlight-block">
+		 <a href="http://blogcn.symbian.org/?p=389"><img src="/img/cn/content_asd.gif" alt="ASD工程师认证考试" border="0" /><span class="hidden">ASD工程师认证考试</span></a>
+          		  <p>学习Symbian编程的学生需要有能力去判断什么是学习的重点，并且判断他们是否已经通过同行评审、客观以及独立的方式学到了这些东西。</p>
+           </div>
+      
+         </div> 
+  
+     <!-- end right col-->
+      
+      </div>
+        <div class="highlight wide bottom">
+      </div>
+      
+      
+      <div class="clear20"> </div>
+	  
+<!-- ******** About ********* -->
+	  
+    <div class="highlight wide top">
+        <h3 id="about-cn"><span class="hidden"></span></h3>
+	</div>
+      <div class="highlight wide mid">
+	 
+		<div class="clear20"></div>
+				<h2 class="chinese">Symbian协会由一些行业领先的移动终端厂商所创建。它提供，管理并统一Symbian平台，供大家下载和开发。现在，该平台代码在Eclipse公共许可证下向大家免费开放，即任何个人或组织都可以取得，使用及修改代码。不管是用于某一款移动终端，还是用于完全不同的板块。Symbian开源将促进创新，增加代码和功能，也将激发社区的凝聚力。现在，任何人都能影响移动技术的未来。</h2>
+		<div class="clear"></div> 
+		
+	<!-- begin left col -->
+	
+	<div class="column-cn left">
+		
+		<!-- Going open source -->
+	
+	  <div class="highlight-block">
+		  <a href="http://www2.symbian.org/cn/about/opensource.php" target="_blank"><img src="/img/cn/content_going_open_source.gif" alt="平台简介" border="0" /><span class="hidden">平台简介</span></a>
+          		  <p>创立Symbian协会以及Symbian开源的缘由。</p><br></br>
+      </div>
+      
+
+		<!-- Events -->
+		
+           <div class="highlight-block">
+		 <a href="http://www2.symbian.org/cn/about/events.php" target="_blank"><img src="/img/cn/content_events.gif" alt="活动" border="0" /><span class="hidden">活动</span></a>
+          		  <p>Symbian协会代表和社区成员将出席的一些活动。</p><br></br>
+      </div>
+             
+	    <!-- Get involved -->
+		
+           <div class="highlight-block">
+		 <a href="/wiki/Get_involved_with_Symbian/zh-hans"><img src="/img/cn/content_get_involved.gif" alt="加入我们" border="0" /><span class="hidden">加入我们</span></a>
+          		  <p>走向开放，这就要求众多人士的积极参与。我们需要您的一臂之力。您无需花费太多时间，只要一如既往！</p>
+           </div>
+	     
+	</div> 
+	
+	<!-- end left col -->   
+	
+	<!-- begin right col -->  
+	   
+	   <div class="column-cn right last">
+	  
+	   
+	     <!-- Councils -->
+		 
+		 <div class="highlight-block">
+		 <a href="http://www2.symbian.org/cn/about/councils.php" target="_blank"><img src="/img/cn/content_councils.gif" alt="软件管理理事会" border="0" /><span class="hidden">软件管理理事会</span></a>
+          		  <p>关于四个理事会的功能说明，及其当前计划和文档归集。</p>
+      </div>
+      
+        <!-- Become a member -->
+		
+           <div class="highlight-block">
+		 <a href="http://www2.symbian.org/cn/members/" target="_blank"><img src="/img/cn/content_become_a_member.gif" alt="成为会员" border="0" /><span class="hidden">成为会员</span></a>
+          		  <p>寻求技术支持？如果您需要更多支持，请加入开发者社区，许多会员公司既提供基于合约的支持，也提供基于个案的支持。</p>
+           </div>
+      
+         </div> 
+  
+     <!-- end right col-->
+
+      </div>
+        <div class="highlight wide bottom">
+      </div>
+	  
+	  <div class="clear20"></div>
+	  
+    </div>
+  </div>
+  
+  <!-- begin rightside column -->
+  
+ 
+  
+  <div id="rightColumn_home">
+	 
+	 <!-- Quick Links -->
+	 
+    <div class="homepage_rightside">
+      <div class="right rightBox">
+        <div class="left-box-top-quick-links-cn">
+          <h2 class="hidden">中文资源</h2>
+        </div>
+        <div class="left_box_middle">
+          <div class="left-box-contents">
+					<ul>
+				<li><a href="/forum/forumdisplay.php?f=53" title="中文讨论区">中文讨论区</a></li>
+				<li><a href="http://blogcn.symbian.org/" target="_blank" title="中文博客">中文博客</a></li>
+				<li><a href="/wiki/index.php/Main_Page/zh-hans" title="中文维基百科">中文维基百科</a></li>
+			</ul>
+          </div>
+          <div class="clear"> </div>
+          <div class="left_box_bottom"> </div>
+        </div>
+      </div>
+      <div class="clear20"> </div>
+      
+	  <!-- Latest Hot Post -->
+	  
+	  <div class="right rightBox">
+					<div id="package_tabs">
+                            <img src="/img/cn/latest_hot_post.gif" width="167" height="44" alt="最新维基文章" />
+                                <ul>
+                                    <li><a href="#forum-cn" class="cn"><span></span></a></li>
+									<li><a href="#forum-en" class="en"><span></span></a></li>
+								</ul>
+								
+								<div id="forum-cn" class="package_tab">
+								<div class="left-box-contents-cn">
+								
+                           	<div class="latestBoxContent"><h4>No Documentation Found.</h4></div>                                </div></div>
+                                <div id="forum-en" class="package_tab">
+								<div class="left-box-contents-cn">
+                           	<div class="latestBoxContent"><h4><a href="http://developer.symbian.org/forum/showthread.php?t=8875&amp;goto=newpost" target="_blank">Getting error button was not declared i&hellip;</a></h4>
+<p>Hi to all, 
+           Hope you all will be fine. Actually i am testing something and while&hellip;</p>
+<small>Wed, 08 Dec 2010 09:11:31 GMT</small>
+</div><div class="latestBoxDivider"></div>
+<div class="latestBoxContent"><h4><a href="http://developer.symbian.org/forum/showthread.php?t=8873&amp;goto=newpost" target="_blank">how to dump network traffic, like&hellip;</a></h4>
+<p>hello. 
+I'm developing a tool that can dump the TCP/IP traffic like Ethereal/Wireshark. 
+ 
+i&hellip;</p>
+<small>Wed, 08 Dec 2010 03:23:18 GMT</small>
+</div><div class="latestBoxDivider"></div>
+<div class="latestBoxContent"><h4><a href="http://developer.symbian.org/forum/showthread.php?t=8871&amp;goto=newpost" target="_blank">What options can I have when I buy a&hellip;</a></h4>
+<p>Hello everyone, 
+ 
+Please help me a problem in developing a program on Symbian. 
+ 
+I want my&hellip;</p>
+<small>Tue, 07 Dec 2010 08:08:28 GMT</small>
+</div><div class="latestBoxDivider"></div>
+<div class="latestBoxContent"><h4><a href="http://developer.symbian.org/forum/showthread.php?t=8870&amp;goto=newpost" target="_blank">INVITE Receive Problem: INVITE Received&hellip;</a></h4>
+<p>Hi, 
+ 
+We are developing a VoIP Application for Symbian Mobile for S60 3rd Ed FP2 OS 9.2. 
+ 
+W&hellip;</p>
+<small>Tue, 07 Dec 2010 05:34:30 GMT</small>
+</div><div class="latestBoxDivider"></div>
+<div class="latestBoxContent"><h4><a href="http://developer.symbian.org/forum/showthread.php?t=8869&amp;goto=newpost" target="_blank">DevCert request amount exceeded</a></h4>
+<p>While Requesting Phone Manufacturer Approved DevCert for NOKIA I get the following error&hellip;</p>
+<small>Mon, 06 Dec 2010 09:10:21 GMT</small>
+</div>                                </div></div>
+								
+                                    <div class="clear">
+                                    </div>
+                                </div>
+								<div class="left_box_bottom"></div>
+								</div>   
+      <div class="clear20"> </div>
+	  
+	  <!-- Latest Wiki Articles -->
+	  
+	  <div class="right rightBox">
+					<div id="package_tabs2">
+                             <img src="/img/cn/latest_wiki_articles.gif" width="167" height="44" alt="最新维基文章" />
+                                <ul>
+									<li><a href="#wiki-cn" class="cn"><span></span></a></li>
+									<li><a href="#wiki-en" class="en"><span></span></a></li>
+								</ul>
+								
+								<div id="wiki-cn" class="package_tab">
+								<div class="left-box-contents-cn">
+                           	<div class="latestBoxContent"><h4><a href="http://developer.symbian.org/wiki/Kernel:SHAI/SHAI_API_Proposals/zh-hans" target="_blank">Kernel:SHAI/SHAI API Proposals/zh-hans</a></h4>
+<small>Thu, 02 Dec 2010 02:25:06 GMT by <a href="/wiki/index.php/User:Robinshen">Robinshen</a></small>
+</div><div class="latestBoxDivider"></div>
+<div class="latestBoxContent"><h4><a href="http://developer.symbian.org/wiki/Software_Structuring_Principles/zh-hans" target="_blank">NEW PAGE:  Software Structuring Principles/zh-hans</a></h4>
+<small>Thu, 02 Dec 2010 02:15:47 GMT</small>
+</div><div class="latestBoxDivider"></div>
+<div class="latestBoxContent"><h4><a href="http://developer.symbian.org/wiki/Introduction_to_Programming_Environments_on_Symbian/zh-hans" target="_blank">Introduction to Programming Environment&hellip;</a></h4>
+<small>Mon, 15 Nov 2010 07:02:21 GMT by <a href="/wiki/index.php/User:Robinshen84">Robinshen84</a></small>
+</div><div class="latestBoxDivider"></div>
+<div class="latestBoxContent"><h4><a href="http://developer.symbian.org/wiki/Apps:About_Reference_Libraries/zh-hans" target="_blank">Apps:About Reference Libraries/zh-hans</a></h4>
+<small>Tue, 09 Nov 2010 08:02:18 GMT by <a href="/wiki/index.php/User:Achi">Achi</a></small>
+</div><div class="latestBoxDivider"></div>
+<div class="latestBoxContent"><h4><a href="http://developer.symbian.org/wiki/Organizer/CalDav/zh-hans" target="_blank">Organizer/CalDav/zh-hans</a></h4>
+<small>Mon, 08 Nov 2010 05:39:40 GMT by <a href="/wiki/index.php/User:Robinshen84">Robinshen84</a></small>
+</div>                                </div></div>
+                                <div id="wiki-en" class="package_tab">
+								<div class="left-box-contents-cn">
+                           	<div class="latestBoxContent"><h4><a href="http://developer.symbian.org/wiki/Kernel:SHAI_Testing" target="_blank">Kernel:SHAI Testing</a></h4>
+<p>Back to  SHAI Main Page</p>
+<small>Thu, 09 Dec 2010 18:15:46 GMT by <a href="/wiki/index.php/User:Arnaudl">Arnaudl</a></small>
+</div><div class="latestBoxDivider"></div>
+<div class="latestBoxContent"><h4><a href="http://developer.symbian.org/wiki/PDT_v1.8_Release_Notes" target="_blank">NEW PAGE:  PDT v1.8 Release Notes</a></h4>
+<p></p>
+<small>Tue, 07 Dec 2010 11:51:58 GMT</small>
+</div><div class="latestBoxDivider"></div>
+<div class="latestBoxContent"><h4><a href="http://developer.symbian.org/wiki/SMP-WG_2010-12-03_Teleconference" target="_blank">SMP-WG 2010-12-03 Teleconference</a></h4>
+<p>{| class=&quot;wikitable&quot; style=&quot;width:100%; border:1px solid darkgray;&quot;</p>
+<small>Mon, 06 Dec 2010 02:14:36 GMT by <a href="/wiki/index.php/User:Jmain">Jmain</a></small>
+</div><div class="latestBoxDivider"></div>
+<div class="latestBoxContent"><h4><a href="http://developer.symbian.org/wiki/SMP_Working_Group" target="_blank">SMP Working Group</a></h4>
+<p>SMP Working Group works to make the Symbian SMP implementation the best mobile SMP platform in&hellip;</p>
+<small>Mon, 06 Dec 2010 02:13:10 GMT by <a href="/wiki/index.php/User:Jmain">Jmain</a></small>
+</div><div class="latestBoxDivider"></div>
+<div class="latestBoxContent"><h4><a href="http://developer.symbian.org/wiki/Foundation_Councils/Release_Council_minutes" target="_blank">Foundation Councils/Release Council&hellip;</a></h4>
+<p>For more information about Release schedules , please visit our planning site</p>
+<small>Sun, 05 Dec 2010 17:05:31 GMT by <a href="/wiki/index.php/User:Skrebs">Skrebs</a></small>
+</div>                                </div></div>
+								
+                                    <div class="clear">
+                                    </div>
+                                </div><div class="left_box_bottom"></div>
+								</div>   
+	  
+      <div class="clear20"> </div>
+	  
+	  <!-- Link Exchange -->
+	  
+	        <div class="right rightBox">
+		
+		
+		<!-- Going open source -->
+	
+				<div class="column-cn left">
+				
+				<a href="http://mm.10086.cn/" target="_blank"><img src="/img/cn/link_exchange01.gif" alt="" /></a>
+				
+				</div>
+				<div class="column-cn right">
+				
+				<a href="http://www.forum.nokia.com.cn/" target="_blank"><img src="/img/cn/link_exchange04.gif" alt="" /></a>
+        
+				</div>
+				
+				
+				
+				
+				
+			</div>
+
+
+
+
+      <div class="clear20"> </div>
+	  
+	  
+								
+	  
+	  
+    </div>
+    <!--END of content-->
+    <div class="clear"></div>
+  </div>
+</div>
+		
+		<div class="clear20"></div><div class="clear20"></div>
+
+		<!--START of footer-->
+		
+		<!--googleoff: all-->
+</div>
+<div id="dev_footer">
+	<div id="s_footer"></div>
+	<div class="clear10"></div>
+	
+	<div class="links_block first">
+		<h4 id="footer_planet">Symbian其他网站</h4>
+		<ul>
+			<li><a href="http://www2.symbian.org/cn/about/about_site.php" target="_blank">symbian.org</a></li>
+			<li><a href="http://developer.symbian.org">开发者</a></li>
+			<li><a href="http://www.symbiansigned.com">Symbian 签名指南</a></li>
+			<li><a href="http://blogcn.symbian.org/" target="_blank">Symbian博客</a></li>
+		</ul>
+		<!-- <h4 id="sitemap"><a href="/main/sitemap/sitemap.php">Sitemap</a></h4> -->
+	</div>
+	
+	<div class="links">
+		<div class="links_block second">	
+			<h4><a href="/main/source/">开发者计划</a></h4>
+			<h4><a href="/main/source/">源代码</a></h4>
+			<ul>
+				<li><a href="/main/source/technology_domains/index.php">开发者计划</a></li>
+				<li><a href="/main/source/packages/index.php">软件模块</a></li>
+				<li><a href="/main/source/browse/index.php">浏览代码</a></li>
+				<li><a href="/bugs/">递交和跟踪Bug</a></li>
+				<li><a href="/wiki/Roadmap_for_the_Symbian_Platform/zh-hans">产品路线图</a></li>
+				<li><a href="/mailman/listinfo">邮件列表</a></li>
+			</ul>
+			<h4><a href="/webbugs">网站 bug</a></h4>
+
+		</div>
+		
+	<div class="links_block third">
+			<h4><a href="/main/documentation/">最新文档</a></h4>
+			<ul>
+				<li><a href="/main/documentation/carbide/index.php">应用开发文档</a></li>
+				<li><a href="/main/documentation/reference/s3/pdk/">产品开发文档 Symbian^3</a></li>
+				<li><a href="/main/documentation/reference/s%5E2/doc_source/">产品开发文档 Symbian^2</a></li>
+				<li><a href="/wiki">Wiki</a></li>
+				<li><a href="/wiki/Symbian%E5%87%BA%E7%89%88%E7%9A%84%E4%B8%AD%E6%96%87%E5%9B%BE%E4%B9%A6/zh-hans" target="_blank">图书</a></li>
+			</ul>
+			<h4><a href="/forum">论坛</a></h4>
+		</div>
+		
+		<div class="links_block fourth">
+			<h4>联系方式</h4>
+
+			<ul class="contact">
+				<li><a href="/main/contact/contact_us/">提出问题</a></li>
+				<li><a href="/main/contact/notify_us.php">通告我们版权侵害</a></li>
+				<li><a href="http://www2.symbian.org/cn/contact/offices.php" target="_blank">各地区办公室 </a></li>
+				<li><a target="_blank" href="http://www.symbian.org/about-us/jobs-symbian">加入Symbian</a></li>
+				<li><a href="/main/legal/website_t_and_c.php">Terms &amp; conditions</a></li>
+				<li><a href="/main/legal/privacy.php">隐私条款</a></li>
+			</ul>
+		</div>
+	
+		<div class="clear"></div>
+		<div id="copy">
+			<p>
+				&copy; 2010 Symbian Foundation Limited.
+			</p>
+		</div>
+	</div>
+	<div class="right">
+				<script src="/js/gatag.js" type="text/javascript"></script>
+		<script type="text/javascript">
+				var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+				document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+		</script>
+		<script type="text/javascript">
+				try {
+					var pageTracker = _gat._getTracker("UA-6718609-1");
+					pageTracker._trackPageview();
+				} catch(err) {}
+		</script>
+			</div>
+</div>
+
+<div id="subfooter"></div>
+<!--googleon: all-->		<!--END of footer-->
+	
+</body>
+</html>

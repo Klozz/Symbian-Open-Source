@@ -1,0 +1,33 @@
+# robots.txt for http://developer.symbian.org
+# Last modified: 2010-01-18
+
+User-agent: *
+Disallow: /main/user_profile/
+Disallow: /main/source/manage_technology_domain/index.php
+Disallow: /main/source/technology_domains/technology_domain/index.php
+Disallow: /main/source/packages/package/index.php
+Disallow: /main/source/manage_package/index.php
+Disallow: /main/source/committer_request/index.php
+Disallow: /main/source/symbian_code_administrator/
+Disallow: /main/tools_and_kits/downloads/
+Disallow: /main/services/request_thanks.php
+Disallow: /main/subscribe.php
+Disallow: /main/feedback/index.php
+Disallow: /main/emailfriend.php
+Disallow: /errordocs/
+Disallow: /main/horizon/unsubscribe/
+Disallow: /main/horizon/sign_up/thank_you.php
+Disallow: /wiki/index.php?diff=
+Disallow: /wiki/index.php?oldid=
+Disallow: /wiki/index.php?title=Help
+Disallow: /wiki/index.php?title=Image
+Disallow: /wiki/index.php?title=MediaWiki
+Disallow: /wiki/index.php?title=Special:
+Disallow: /wiki/index.php?title=Template
+Disallow: /wiki/skins/
+Disallow: /wiki/index.php/Help
+Disallow: /wiki/index.php/MediaWiki
+Disallow: /wiki/index.php/Special:
+Disallow: /wiki/index.php/Template
+Disallow: /wiki/skins/
+Sitemap: http://www.developer.symbian.org/sitemap.xml

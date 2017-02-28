@@ -1,0 +1,29 @@
+.announce a {
+	text-decoration: underline;
+	color: #633508;
+	font-weight: bold;
+}
+
+.announce {
+	background-color: #ffd62c;
+	color: #633508;
+	text-align: center;
+	height: 25px;
+	font-size: 1.4em;
+	margin: 0;
+	padding: 5px 0 2px 0;
+	font-weight: bold;
+}
+
+.announce a:hover {
+	color: white;
+}
+
+.announce .rightCloseButton {
+	float: right;
+	margin-right: 50px;
+	width: 17px;
+	border: solid 2px #633508;
+	text-decoration: none;
+}
+

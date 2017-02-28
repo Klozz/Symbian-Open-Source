@@ -1,0 +1,148 @@
+/*--------------------------------------------------|
+| dTree 2.05 | www.destroydrop.com/javascript/tree/ |
+|---------------------------------------------------|
+| Copyright (c) 2002-2003 Geir Landr�               |
+|--------------------------------------------------*/
+ 
+.dtree {
+        font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+        font-size: 95%;
+        color: #666;
+}
+
+.dTreeNode {
+  clear:both; 
+}
+
+.lastTreeNode { background:none; }
+.dtree img {
+        border: 0px;
+        vertical-align: middle;
+}
+.dtree a {
+        color: #333;
+        text-decoration: none;
+}
+.dtree a.node, .dtree a.nodeSel {
+        padding: 1px 2px 1px 2px;
+}
+.dtree a.node:hover, .dtree a.nodeSel:hover {
+        color: #333;
+        text-decoration: underline;
+}
+.dtree a.nodeSel {
+        background-color: #c0d2ec;
+}
+.dtree .clip {
+   padding-left:18px;
+   background:url(/wiki/extensions/TreeAndMenu/img/line.gif) 0 0 repeat-y; 
+   height:auto; overflow:hidden; height:1%;
+        /*overflow: hidden;*/
+}
+
+.dtree .innerNode {
+   padding-left:18px;
+   line-height:14px;
+   background:url(/wiki/extensions/TreeAndMenu/img/join.gif) 0 0 no-repeat; 
+   height:auto; overflow:hidden; height:1%;
+        /*overflow: hidden;*/
+}
+
+.dtree .lastTreeNode.innerNode { background:url(/wiki/extensions/TreeAndMenu/img/joinbottom.gif) 0 0 no-repeat;  }
+
+.dtree .lastClip { background:none;  }
+.dtree .lvl-0 { padding-left:0; }
+.lastTreeNode { background:#fff; }
+
+[edit] 
+
+
+/*
+* Dynamic menus
+*/
+.dmenu { width: 180px }
+ 
+.dmenu, .dmenu ul { /* all lists */
+padding: 0;
+margin: 0;
+list-style: none;
+}
+.dmenu .selflink { font-weight: normal; }
+ 
+.dmenu li { /* all list items */
+position: relative;
+float: left;
+width: 172px;
+padding: 4px;
+z-index: 100;
+}
+ 
+.dmenu li,
+.dmenu li.even a,
+.dmenu li.odd a,
+.dmenu li li,
+.dmenu li li a,
+.dmenu li li li,
+.dmenu li li li a {
+color : black;
+}
+ 
+.dmenu li li { margin: 0; }
+ 
+.dmenu li ul { /* second-level lists */
+position: absolute;
+left: -999em;
+z-index: 101;
+border: 1px solid #ccc;
+}
+ 
+.dmenu li ul ul { /* third-and-above-level lists */
+position: absolute;
+left: -999em;
+margin: 0 0 0 0;
+z-index: 102;
+}
+ 
+.dmenu li.odd .submenu {
+width: 12px;
+height: 15px;
+float: right;
+background: url(img/rarr-lt.png) 0 3px no-repeat;
+}
+.dmenu li.even .submenu {
+width: 12px;
+height: 15px;
+float: right;
+background: url(img/rarr-dk.png) 0 3px no-repeat;
+}
+.dmenu li.odd {
+        background: #E9EDF4;
+        border: 2px solid #E9EDF4;
+}
+.dmenu li.even {
+        background: #D0D8E8;
+        border: 2px solid #D0D8E8;
+}
+ 
+.dmenu li:hover, .dmenu li.sfhover {
+        border: 2px solid #385D8A;
+}
+ 
+.dmenu li:hover ul ul,
+.dmenu li:hover ul ul ul,
+.dmenu li.sfhover ul ul,
+.dmenu li.sfhover ul ul ul {
+left: -999em;
+}
+ 
+.dmenu li:hover ul,
+.dmenu li li:hover ul,
+.dmenu li li li:hover ul,
+.dmenu li.sfhover ul,
+.dmenu li li.sfhover ul,
+.dmenu li li li.sfhover ul { /* lists nested under hovered list items */
+left: 182px;
+top: -3px;
+}
+
+[edit] 
